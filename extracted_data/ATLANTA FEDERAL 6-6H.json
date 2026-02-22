@@ -1,0 +1,1705 @@
+{
+  "pdf_filename": "W23368.pdf",
+  "well_name": "Atlanta Federal 6-6H",
+  "api_number": "33-105-02728",
+  "operator": "Company: Continental Resources, Inc.",
+  "county": "Williams",
+  "state": "ND",
+  "latitude": null,
+  "longitude": null,
+  "stimulation_records": [],
+  "pages": [
+    {
+      "page_number": 1,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 2,
+      "method": "pypdf",
+      "text_char_count": 1554,
+      "text": "SUNDRY NOTICES AND REPORTS ON WELLS -FORM 4 \nINDUSTRIAL COMMISSION OF NORTH DAKOTA \nOIL AND GAS DIVISION \n600 EAST BOULEVARD DEPT 405 \nBISMARCK, ND 58505-0840 \nSFN 5749 (09-2006) \nPLEASE READ INSTRUCTIONS BEFORE FILLING OUT FORM. \nPLEASE SUBMIT THE ORIGINAL AND ONE COPY. \nD Notice of Intent \nIll Report of Work Done \nI Approximate Start Date \nDate Work Completed \nJune 4, 2014 \nD Notice of Intent to Begin a Workover Project that may Qualify \nfor a Tax Exemption Pursuant to NDCC Section 57-51.1-03. \nApproximate Start Date \nWell Name and Number \nAtlanta Federal 6-6H \nFootages IQtr-Qtr 'Section \n495 F N L 880 F W L NWNW 6 \nField I Pool \nBaker Bakken \nName of Contractor(s) \nAddress \nD \nD \nD Casing or Liner \nD PlugWell \nD Supplemental History \nD Temporarily Abandon \nD Other \n'Township \n153 N \nI Range \n101 w \nI County \nWilliams \nI City \nDETAILS OF WORK \nOil \nWater \nGas \nD \n!\nWell File No. \n23368 \nSpill Report \nD Shooting \nD Acidizing \nD Fracture Treatment \nIll Change Production Method \nD Reclamation \n24-HOUR PRODUCTION RATE \nBefore After \n70 Bbls Oil 56 \n287 Bbls Water 221 \n54 MCF Gas 64 \nI State IZip Code \nContinental Resources would like to request a change in production method on the Atlanta Federal 6-6H_ The well \nwent from flowing to pumping on 6/4/2014. \nCompany \nContinental Resources \nAddress \nP.O. Box 268870 \nTit I \n~ g'U1atory Compliance Specialist \nEmail Address \nZach.Green@clr.com \nPrinted Name \nZach Green \nDate \nTelephone Number \n(405) 234-9000 \nState IZip Code \nOK 73126 \nJuly 18, 2014 \nFOR STATE USE ONLY \n5 \nBbls \nBbls \nMCF"
+    },
+    {
+      "page_number": 3,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 4,
+      "method": "pypdf",
+      "text_char_count": 2526,
+      "text": "INDUSTRIAL COMMISSION OF NORTH DAKOTA \nOIL AND GAS DIVISION \n600 EAST BOULEVARD DEPT 405 \nBISMARCK, ND 58505-0840 \nSFN 2468 (04-2010) \nPl.EASE READ INSTRUCTIONS BEFORE FILLING OUT FORM. \nPl .EASE SUBMIT THE ORIGINAL AND ONE COPY. \nDosignate Type of Completion \n[2:] Oil Well 0 EOR Well \n[] Gas Well 0 SWD Well \n0 Recompletion 0 \nWater Supply Well \n!Well File No. \n23368 \n0 Extended Horizontal Leg \nWell Name and Number \nAtlanta Federal 5-6H \n0 1>erator \nSpacing Unit Description \nTelephone Number \n405-234-9000 \nSec 5, 6, 7, & 8 T153N R101 \nField \nContinental Resources, Inc. \nAddress \nP .0. Box 268870 \nCity \nOklahoma City \nAt Surface \nState \nOK \nBaker \nPool \nBakken \nZip Code Permit Type \n73126 0 Wildcat \nLOCATION OF WELL \nQtr-Qtr \n495 F N L 835 F W L NWNW \nSection \n6 \nTownship \n151 N \nSpud Date \n5J15/2013 \nDate TD Reached \n6/12/2013 \nT~ pe of Electric and Other Logs Run (See Instructions) \nC BL/GR/MAC/mud \nDrilling Contractor and Rig Number \nCyclone 2 \n0 Development \nRange \n101 w \nCounty \nWilliams \nD Extension \nKB Elevation (Ft) Graded Elevation (Ft) \n1967 1945 \nCASING & TUBULARS RECORD (Report all strings set in well) \nString Top Set Depth Set Hole Size Weight Anchor Set Packer Set Sacks Top of \nWell Bore Type Size (Inch) (MD Ft) (MD Ft) (Inch) (Lbs/Ft) (MD Ft) (MD Ft) Cement Cement \n.teral1 Conductor 16 102 20 133 0 \nSurface 13 3/8 525 20 48 627 0 \nSurface 9 5/8 2014 13 1/2 36 640 0 \nLiner 4 1/2 9992 8 3/4 11.6 \nIntermediate 7 10858 8 3/4 26-32 993 1600 \nLiner 4 1/2 9992 21015 6 11.6 9992 \nPERFORATION & OPEN HOLE INTERVALS \nWell Bore TD Open Hole/Perforated Kick-off Top of \nWell Bore Drillers Depth Completion Interval (MD,Ft) Point Casing \nType Window (MD Ft) _ Top Bottom (MD Ft) (MD Ft) \nteral1 21165 Perforations 10858 21165 10045 \nPRODUCTION \nC11rrent Producing Open Hole or Perforated lnterval(s). This Completion, Top and Bottom, (MD Ft) \nBakken 10,858' - 21,165' \nDate Well Completed (SEE INSTRUCTIONS) Producing Method Pumping-Size & Type of Pump \n3/3/2014 Flowing \nDate Perfd Date Isolation Sacks \nor Drilled Isolated Method Cement \nName of Zone (If Different from Pool Name) \nMiddle Bakken \nWell Status (Producing or Shut-In) \nProducing \nDate of Test \n317/2014 \nHours Tested Choke Size Production for Test Oil (Bbls) \n441 \nGas (MCF) Water (Bbls) Oil Gravity-AP I (Corr.) Disposition of Gas \n24 12 /64 \nFl1>wing Tubing Pressure (PSI) \n2:mo \nFlowing Casing Pressure (PSI) \n0 \nCalculated \n24-Hour Rate \n230 363 \nOil (Bbls) \n441 \nGas (MCF) \n230 \n39.6 ° Sold \nWater (Bbls) \n363 \nGas-Oil Ratio \n522"
+    },
+    {
+      "page_number": 5,
+      "method": "pypdf",
+      "text_char_count": 1230,
+      "text": "Page2 \nSFN 2468 (04-2010) \nGEOLOGICAL MARKERS PLUG BACK INFORMATION \nFonnation MD (Ft) TVD (Ft) Well Bore Type of Plug Top (Ft) Bottom (Ft) Sacks Cemen1 \nGreenhorn 4501 \nDakota Group 4878 \nPine Salt 7130 \nMinnekahta 7197 \nBase of Last Salt 9032 \nMission Canyon 9252 \nLodgepole 9792 \nUpper Bakken Shale 10489 \nMiddle Bakken 10501 \nCORES CUT \nTop (Ft) Bottom (Ft) Formation Top (Ft) Bottom (Ft) Fonnation \nDrill Stem Test \nTest Date I Formation \nI \nTop (Ft) I Bottom (Ft)IBH Temp (°F) ICL ppm IH2S ppm I Shut-in 1 (PSIG} !Shut-in 2 (PSIG) \nDrill Pipe Recovery \nSample Chamber Recovery \nTest Date I Formation \nI \nTop (Ft) I Bottom (Ft)IBH Temp (°F) ICL ppm IH2S ppm I Shut-in 1 (PSIG) IShut-in 2 (PSIG} \nDrill Pipe Recovery \nSample Chamber Recovery \nTest Date rormation I Top (Ft) I Bottom (Ft)IBH Temp (°F) ICL ppm 1H2S ppm I Shut-in 1 (PSIG) I Shut-in 2 (PSIG) \nDrill Pipe Recovery \nSample Chamber Recovery \nTest Date I Formation I Top (Ft) I Bottom (Ft)IBH Temp (°F) ICL ppm IH2S ppm lShut-in 1 (PSIG) I Shut-in 2 (PSIG) \nDrill Pipe Recovery \nSample Chamber Recovery \nTest Date I Formation I Top (Ft) I Bottom (Ft)I BH Temp (°F) I CL ppm IH2S ppm I Shut-in 1 (PSIG) I Shut-in 2 (PSIG} \nDrill Pipe Recovery \nSample Chamber Recovery"
+    },
+    {
+      "page_number": 6,
+      "method": "pypdf",
+      "text_char_count": 1615,
+      "text": "Pa!ie 3 \n.., SF IJ 2468 (04-2010) \nr W1~ll S ecific Stimulations \nDale Stimulated \n11/19/2013 \nTy~ 1 e Treatment \nSa11d Frac \nDel ails \nStimulated Formation \nMB \nAcid% \nTop (Ft) Bottom (Ft) Stimulation Stages \n10858 21165 31 \nLbs Proppant \n3651745 \nMaximum Treatment Pressure (PSI) \n7993 \nVolume Volume Units \n71324 Barrels \nMaximum Treatment Rate (BBLS/Min) \n31 .0 \nPumped 2523043# 20/40 sand and 1128702# 20/40 ceramic. \nDale Stimulated Stimulated Formation Top (Ft) Bottom (Ft) Stimulation Stages Volume Volume Units \nTwe Treatment Acid % Lbs Proppant Maximum Treatment Pressure (PSI) Maximum Treatment Rate (BBLS/Min) \nDel ails \nDale Stimulated Stimulated Formation Top (Ft) Bottom (Ft) Stimulation Stages Volume Volume Units \nTy~ e Treatment Acid% Lbs Proppant Maximum Treatment Pressure (PSI) Maximum Treatment Rate (BBLS/Min) \nDel ails \nDale Stimulated Stimulated Formation Top (Ft) Bottom (Ft) Stimulation Stages Volume Volume Units \nTy~ e Treatment Acid % Lbs Proppant Maximum Treatment Pressure (PSI) Maximum Treatment Rate (BBLS/Min) \nDetails \nData Stimulated Stimulated Formation Top (Ft) Bottom (Ft) Stimulation Stages Volume Volume Units \nTyi:e Treatment Acid % Lbs Proppant Maximum Treatment Pressure (PSI) Maximum Treatment Rate (BBLS/Min) \nDet3ilS \nACJDITIONAL INFORMATION AND/OR LIST OF ATTACHMENTS \nI he \nprOI \ndetE \nSig1 \nreby swear or affirm that the information \n•ided is true, complete and correct as \n;rmined from all available records. \n1ature \nl 1 J. i'd. rJl~ \n\\.I \nEmail Address Date \nTerry.Olson@clr .com 3/19/2014 \nPrinted Name Title \n... -FfY-b. Olson Regulatory Compliance Specialist"
+    },
+    {
+      "page_number": 7,
+      "method": "pypdf",
+      "text_char_count": 243,
+      "text": "Continental Resources Inc.\nAtlanta Federal 5‐6H – Cyclone 2 \nAtlanta 14 Well Eco Pad \nNWNW Sec 6 – SWSW Sec 8 \nSec 6, 7 & 8 ‐ T153N‐R100W \nWilliams & McKenzie Co., North Dakota \nAPI# 33‐105‐02728 \n \nBy: Adam Swoboda & Jed Nelson \nGeo‐Link Inc."
+    },
+    {
+      "page_number": 8,
+      "method": "pypdf",
+      "text_char_count": 392,
+      "text": "Table of Contents \n \nWell Information \n \nCross Section \n \nWell Synopsis \n \nDrilling Activity \n \nChronological Gas / Sample Show \n \nGamma Ray, Avg. ROP, 24 Hr Progress, Gas, Mud Weight, Oil Show Plot \n \nFormation Tops, Critical Points, Lateral Summary \n \nFormation Structure \n \nAtlanta Eco Pad - Bakken Structure Map \n \nAtlanta 5-6H Well Plat \n \nAtlanta Eco Pad Plat \n \nMWD Surveys  \n \nTVD Log"
+    },
+    {
+      "page_number": 9,
+      "method": "pypdf",
+      "text_char_count": 1147,
+      "text": "Well Information \n \n1 \n \nWELL NAME:    Atlanta Federal 5-6H \n     Atlanta 14 Well Eco Pad \n \nOPERATOR:    Continental Resources, Inc. \n     P.O. Box 269000 \n     Oklahoma City, Ok 73126 \n \nSURFACE LOCATION:   495 ’ FNL & 835’ FWL \n     NWNW Section 6: T153N, R101W \n \nCASING:    7 ” intermediate casing set at 10872’MD, 10521.2’TVD \n     999 ’ FNL & 1084’ FWL \n     NWNW Section 6: T153N, R101W \n \nBOTTOM HOLE LOCATION:  Projection to Bit: 21165 ’ MD, 10517’ TVD \n     236 ’ FSL & 590’ FWL \n     SWSW Section 8, T153N, R101W \n \n \nFIELD/AREA:    Williston \n \nCOUNTY:    Williams & McKenzie \n \nSTATE:     North Dakota  \n \nAPI#:     33-105-02728 \n \nELEVATION:    GL: 1945 ’ KB: 1967 ’ \n \nSPUD:     May 27\nth, 2013 \nDRILLED OUT OF CASING (Lateral): June 4 th, 2013 \n \nTOTAL DEPTH/DATE:   21165 ’ MD on June 12\nth, 2013 \n Total Days:   16 \n \nBOTTOM HOLE DATA: \n Kick-off Point:   10045 ’ MD; 10044’ TVD \n Vertical Section:  10850.02 \n Drift of Azimuth  152.81     \n Average Inclination (lateral): 89.98 ° \nLateral footage:   10293 ’  \n \nWELL STATUS:   To be completed as a Middle Bakken oil well \n \nMWD REP:    MS Energy \n \nDIRECTIONAL REP:   MS Energy"
+    },
+    {
+      "page_number": 10,
+      "method": "pypdf",
+      "text_char_count": 1139,
+      "text": "Well Information \n \n2 \n \n \nMUD LOGGING SERVICE:  Geo-Link Inc. \n \nGEOLOGICAL CONSULTANT:  Adam Swoboda & Jed Nelson \nSECOND HAND:   Joe Dunn & RC Whitmore \n \n \nGAS EQUIPMENT:   M-Logger / M-Control – SN ML-197 \n     Spare SN ML-145 \n \n  \nSAMPLE PROGRAM: 30’ Samples lagged and caught by mud loggers 8600’-10850’ \n Logging: Charles Salt, BLS, Mission Canyon, Lodgepole, Upper \nBakken Shale, Middle Bakken Member \n \n100’ Samples lagged and caught by mud loggers 10900’-21165’ \nLogging: Middle Bakken Member \n     One set sent to NDGS Core Library (Grand Forks) \n      \n \n \nDISTRIBUTION LIST:   \n \n \n \n \n \n \nContinental Resources, Inc. \nLand Department \nMemo \nTo: Archie Taylor, Brian A. Moss, David McMahan, Doug Pollitt, \nGerry Allen, Gil Smith, Gina Callaway, Greg Blocker, Jack \nStark, Jaclyn Jantz, Jeanette McDonald, Josh Byler, Marjorie \nMcKenzie, Matt Liter, Michael Kyle, Paula Fast, Renee Sanders, \nRob Hersom, Robert Sandbo, Sally Messenger, Shamika \nMorrison, Shawn Roche and Shelly Ramirez \nFrom: Casey Holder  \nCC:  Rick Muncrief and Heath Hibbard \nDate:  May 9, 2013 \nRE:  Atlanta Federal 5-6H \n  Sections 5, 6, 7 & 8-153N-101W"
+    },
+    {
+      "page_number": 11,
+      "method": "pypdf",
+      "text_char_count": 1366,
+      "text": "Well Information \n \n3 \n \n  Williams & McKenzie Counties, North Dakota \n \n \nRegarding the referenced well, the following parties are entitled to receive \nthe indicated information and be contacted for elections as shown.  \n\"Standard Information\" means the following: \nDURING DRILLING OPERATIONS:   POST DRILL: \nE-mail the following      Mail the following items after \nduring drilling and completion operations:   drilling is completed:  \n               \n1) Daily Drilling Report     1) Complete Electric Log      \n2) Mud Log      2) Complete Mud Log          \n3) Lateral Profile      3) Complete DST report      \n4) Gamma Ray, MD & TVD Logs   4) Core Analyses       \n5) Directional Surveys     5) Complete Directional Surveys     \n       6) Complete Lateral Profile      \n       7) Water, Oil & Gas Analysis     \n       8) Cement Bond Log       \n       9) Final complete drilling report     \n  \n \nOwner \n \nInformation \nCasing \nPoint \nElection \nDry Hole \nTakeover \nElection \nNDIC Oil and Gas Division \nEmail: digitallogs@nd.gov \nOpen Hole \nLogs/Cased \nHole \nLogs/Mudlogs \n (email TIFF & \nLAS) \n \nFinal Geological \nReport \n(email PDF) \n \n***NO PAPER \nCOPIES*** \n No \nContinental Resources, Inc. \nAttn: Robert Sandbo \nPO Box 26900 \nOKC, OK   73126 \nEmail: isologs@clr.com \nStandard \nInformation \n \nOpen Hole \nLogs/Cased \nHole Logs \n (5 hard copies, \nemail TIFF & \nNo No"
+    },
+    {
+      "page_number": 12,
+      "method": "pypdf",
+      "text_char_count": 1144,
+      "text": "Well Information \n \n4 \n \nLAS) \n \nMudlogs \n(5 hard copies, \nemail TIFF, LAS \n& raw log file) \n \n5 copies of Final \nGeological \nReport \n(email PDF & \nraw file) \n \nAlbert G. Metcalfe, III \n550 West Texas, Suite 640 \nMidland, TX 79701-4241 \nEmail: albertgmetcalfe@gmail.com \nPhone: 432.684.4910 (Office) \nPhone: 432.528.2581 \nFax: 432.684.0853 \n(Send Well Information daily, via email) \nStandard Well \nInformation No Yes \nBlack Stone Energy Company, LLC \nc/o Mark Connally \n1001 Fannin, Suite 2020 \nHouston, TX 77002 \nPhone: 713.658.0647 (Office) \nPhone: 713.827.8629 (Home) \nFax: 713.658.0943 \nEmail: kdolfi@blackstoneminerals.com, \nmconnally@blackstoneminerals.com   \n(Send Well Information daily, via email) \nSee Attached \nRequirements No Yes \nBoedecker Resources \nAttn: Brett Boedecker \n151 O’Brien Ln \nMoore, MT 59464 \nPhone: 406.374.2270 \nE-Mail: brettboedecker@hotmail.com \n(Send Well Info Daily, via E-Mail) \nStandard Well \nInformation No Yes \nDale Lease Acquisitions 2011-B, L.P. \nAttn: John D. Crocker, Jr. \n2100 Ross Avenue, Suite 1870 \nDallas, TX 75201 \nPhone: 214.979.9010, Ext. 16 \nFax: 214.969.9394 \nSee Attached \nRequirements No Yes"
+    },
+    {
+      "page_number": 13,
+      "method": "pypdf",
+      "text_char_count": 1386,
+      "text": "Well Information \n \n5 \n \nEmail: reports@dale-energy.com  \n(Send Well Information daily, via email) \nGolden Eye Resources, LLC \n5460 South Quebec Street, Suite 335 \nGreenwood Village, CO 80111 \nPhone: 303.832.1994 \nFax: 303.832.5118 \nEmail: reports@goldeneyeresources.com  \n(Send Well Information daily, via email) \nSee Attached \nRequirements No Yes \nHelm Energy, LLC \nc/o Joe Brinkman \n5251 DTC Parkway, Suite 425 \nGreenwood Village, CO 80111 \nEmail: jbrinkman@helmenergy.com  \n(Send Well Information daily, via email \nSee Attached \nRequirements No Yes \nIntervention Energy, LLC \nAttn: John Zimmerman \nP.O. Box 1028 \nMinot, ND 58702-1028 \nEmail: john@interventionenergy.com  \n(Send Well Information daily, via email) \nStandard Well \nInformation No Yes \nJAMEX Royalty Company \nAttn: Well Data \nP.O. Box 16336 \nOklahoma City, OK 73113 \nPhone: (405) 413-5331 \nEmail: minerals@jamexroyalty.com \n(Send Well Information daily, via email) \nSee Attached \nRequirements No Yes \nJohn H. Holt Oil Properties, Inc. \nAttn: John H. Holt \nP.O. Box 24 \nWilliston, ND 58802 \nPhone: 701.774.1200 \nFax: 701.572.8499 \nEmail: john@jhhop.com  \n(Send Well Information daily, via email) \nStandard Well \nInformation No Yes \nLario Oil & Gas Company \nP.O. Box 29 \nDenver, CO 80201-0029 \nFax: 303.595.4849 \nEmail: reportsdenver@lario.net  \n(Send Well Information daily, via email) \nSee Attached \nRequirements No Yes"
+    },
+    {
+      "page_number": 14,
+      "method": "pypdf",
+      "text_char_count": 1423,
+      "text": "Well Information \n \n6 \n \nLiberty Resources, LLC \nAttn: Reports \n1200 17th Street, Suite 2050 \nDenver, CO 80202 \nEmail: reports@libertyresourcesllc.com  \n(Send Well Information daily, via email) \nSee Attached \nRequirements No Yes \nMHM Resources, LP \nAttn: Julie Larson \nP.O. Box 51570 \nMidland, TX 79710 \nPhone: 432.685.6045 \nFax: 432.685.9081 \nEmail: drlgreports@mhmresourceslp.com,  \njlarson@mhmresourceslp.com  \n(Send Well Information daily, via email) \nSee Attached \nRequirements No Yes \nMichael Harrison Moore, Trustee of the \nMichael Harrison Moore 2006 Trust  \nAttn: Julie Larson \nP.O. Box 51570 \nMidland, TX 79710 \nPhone: 432.685.6045 \nFax: 432.685.9081 \nEmail: drlgreports@mhmresourceslp.com,  \njlarson@mhmresourceslp.com  \n(Send Well Information daily, via email) \nSee Attached \nRequirements No Yes \nRichard J. Rigo \n709 Glen Ct., Unit 10 \nGrand Junction, CO 81506-8232 \nPhone: 970.257.9465 \nE-Mail: dickjanrigo@gmail.com \n(Send Well Information daily, via email) \nStandard Well \nInformation; \nFinal copy of \nlogs/reports on \ndisc \nNo Yes \nStatoil Oil & Gas LP \n6300 Bridge Point Parkway \nBuilding 2, Suite 500 \nAustin, TX 78730 \nPhone: 512.427.3300 \nFax: 512.427.3400 \nE-Mail: reports@bexp3d.com \n(Send Well Information daily, via email) \nSee Attached \nRequirements No Yes \nThe Steven H. Harris Family Limited \nPartnership \nP.O. Box 2323 \nBismarck, ND 58502 \nPhone: 701.223.4866 \nStandard Well \nInformation No Yes"
+    },
+    {
+      "page_number": 15,
+      "method": "pypdf",
+      "text_char_count": 580,
+      "text": "Well Information \n \n7 \n \nFax: 701.223.2556 \nE-Mail: w2harris@aol.com \n(Send Well Information daily, via email) \nWilliam R. Weyman \n1670 Ceylon Street \nAurora, CO 80011 \nPhone: 303.344.4485 \nEmail: bill@weyman.com \n(Send Well Information daily, via email) \nStandard Well \nInformation No Yes \nXTO Energy, Inc. \nAttn: Randy Hosey \n810 Houston Street \nFort Worth, TX 76102 \nPhone: 817.885.2398 \nFax: 817.885.2698 \nEmail: randy_hosey@xtoenergy.com, non-\nop_reports@xtoenergy.com, \nrose_holman@xtoenergy.com    \n(Send Well Information daily, via email \nSee Attached \nRequirements No Yes"
+    },
+    {
+      "page_number": 16,
+      "method": "pypdf",
+      "text_char_count": 751,
+      "text": "10504.0 10505.5\n10508.0\n10510.0\n10512.0 10512.0 10513.0\n10511.0\n10506.0\n10503.0 10501.5\n0\n50\n100\n150\n200\n25010450\n10470\n10490\n10510\n10530\n10550\n10570\n10450 11450 12450 13450 14450 15450 16450 17450 18450 19450 20450\nAPI Counts (GR)\nTVD\nMD\nUpper Bakken Shale Top Middle Bakken Top Target Top Target Bottom\nLower Bakken Shale Marker 2 Marker 1 Casing Point\nTrips Wellbore TD Gamma RayNW SE\nBottom Hole Location:\n236' FSL & 590' FWL\nProjection to Bit: \n21165' MD & 10517' TVD\n7\" Casing Shoe Location:\n10872' MD & 10521' TVD\nCasing Point:\n999' FNL & 1084' FWL\nAtlanta Federal 5-6H- NWNW Sec 6 - SWSW Sec 8 - T153N - R101W - Williams-McKenzie Co., ND\nContinental Resources - Atlanta 14 Well Eco Pad\nGamma In Casing\n89.8° 90.0° 89.9° 90.0° 89.9° 90.1° 90.2°"
+    },
+    {
+      "page_number": 17,
+      "method": "pypdf",
+      "text_char_count": 3368,
+      "text": "WELL SYNOPSIS \n \n \n \n \n \n \nWell Plan:\n The Atlanta Federal 5-6H was spud on May 27 h, 2013 with a surface location of  \n495’ FNL and 835’ FWL, NWNW Section 6 - Township 153 North and Range 101 West in \nWilliams Co., North Dakota. This well was operated by Continental Resources \nIncorporated with the objective target of the late Devonian to early Mississippian Middle \nBakken Dolomite. The plan showed a build section with a kickoff point of 9957’ MD in the \nMississippian Lodgepole with a 10°/100’ build rate to the landing point of 10855’ MD; \n10530’ TVD, 20’ into the Middle Bakken Dolomite. The actual KOP was 10045’ MD and \nactual casing point is 10872’ MD; 10521’ TVD. The target zone for this Middle Bakken \nDolomite well started approximately 10’ below the Upper Bakken Shale and ended 6’ \nabove the Lower Bakken Shale. The plan was to drill lateral for an estimated 10301’ to \nthe hardline in the SWSW of section 8 - Township 153 North and Range 101 West \nfollowing the estimated dip of 90.0° and following an azimuth of 152.81°.  \n \nThe offsets provided were wells drilled on the Atlanta 14 Well Eco Pad. These include the \nAtlanta 1-4-6H & Atlanta 11-14-6H. Drilled in Section 5, 6 & 7 – T153N & 101W, Williams-\nMcKenzie Co., operated by Continental Resources. \n \nGas logged in the vertical and lateral sections were monitored using Mud Logging \nSystems – Logger & Control. (Primary Logger: ML-197 – Spare Logger ML-077) \nM-Logger CC & TC filaments calibrated with 1% and 100% test gas – Chromatograph \ncalibrated with 1% test gas (gas–units). \n \n \nBuild Section: The build section of the well was kicked off at 10045’ MD on June 1st, 2013. The up hole \nmarkers logged were the Base of the Last Salt 9015’ TVD, Mission Canyon 9232’ TVD, \nand the Lodgepole 9781’ TVD. The down hole markers below kick off point consisted of \nthe False Bakken 10482’ TVD, Upper Bakken Shale 10489’ TVD and the Middle Bakken \nMember 10502’ TVD. These markers, along with the up hole markers, all came in plus or \nminus five to eight feet from the prognosis. The landing for 7” intermediate casing was \ncompleted June 2\nnd, 2013 at 12:02 hours, 17’ TVD into the Middle Bakken Dolomite with \na landing at 10872’ MD and 10521’ TVD, with a location; NWNW Sec 6 – T153N – \nR101W -- 999’ FNL & 1084’ FWL. (See Atlanta Federal 5-6H Build and TVD logs for any \nadditional information) \n  \n Gas observed in the build section, which showed gas averaging 156 units through the \nLodgepole formation, with a max trip gas of 5636 and with no background sample shows \nand oil shows. There was an increase in the gas going through the Upper Bakken Shale \nand landing in the Middle Bakken Dolomite gas was averaging 387-590u of background, \nor average gas. \n \n \nLateral Leg: Casing operations were completed and penetration of the lateral section started, on June \n4th, 2013 at 12:40 hours with a depth of 10872’ MD and 10521’ TVD. The plan was to drill \nin the target zone and follow the 12’ zone of interest. The lateral section was drilled from \n10872’ MD to 21159’ MD for a lateral length of 10287’ MD. The section was drilled \nentirely in the Middle Bakken. There were two complete trips in the lateral section, both to \nchange out the BHA. The lateral section was completed on June 12\nth, 2013 – 21165’ MD \nand 10517’ TVD, with a bottom hole location of: SWSW Sec 8: 236’ FSL & 590’ FWL."
+    },
+    {
+      "page_number": 18,
+      "method": "pypdf",
+      "text_char_count": 2204,
+      "text": "WELL SYNOPSIS \n \n \n \nOil observed in the possum during the lateral section, ranged from 5-20% oil with a \npresence of light – dark brown to yellow - green oil accumulating in the corners of the \npossum belly. Staining and fluorescence with an immediate bright light blue to bright \nyellow - green cut were observed in the cuttings throughout the lateral section. There was \na steady increase in the staining and fluorescence through the lateral, and stayed very \nbright and even. While in the upper and middle target zone, the inter-crystalline porosity \nconsidered was fair to good. Samples collected were primarily light–medium tan/brown, \nlight-dark gray, microcrystalline-cryptocrystalline, slight-moderately firm, moderately – to \nvery calcareous and displayed moderately bright to very bright yellow-green fluorescence \nwith immediate streaming/diffuse cloudy blue/white cut. Samples appeared to be more \nmedium-dark gray when drilling lower target zone and light to medium-dark tan/brown \nwhen drilling the upper zone (For more detailed sample descriptions see Atlanta 13-6H \nhorizontal mud log) \n \nGas observed in the lateral section displayed an average of 3680u, ranging from 27u to \n7660u. Connection gasses were ranging from 160u to 5992u and trip gas maxed out at \n7047 units with the gas buster on. Once total depth was reached, a short trip to the shoe \nand back to bottom resulted in 5252u of gas after circulating. \n \nUsing the hotter and more consistent gamma counts in the upper section of the target \nzone it was possible to identify formation dip changes during the lateral section. The \nmarker 1 line illustrates warmer more ratty gamma that is consistent with the upper 12-\n15’ of the target zone. Gamma counts in the middle of the target zone were cooler and \ncorresponded with the tan/brown dolomite we were seeing near our upper hard streak. \nThe hotter gamma counts along with lower gamma counts were more present in the \nupper section. Drilling the lower target zone displayed consistent gamma readings giving \nus good indicators we were in the bottom of the target zone. The lateral section averaged \na dip of 89.98°; the formation came up roughly 1’ from casing point to TD."
+    },
+    {
+      "page_number": 19,
+      "method": "pypdf",
+      "text_char_count": 1997,
+      "text": "3 5/30/2013 9039 1496 37.1 52 522.9 48.3 3450 107 10.3 50 Drilling Vertical Section: Drill, Slide, Survey, Rig Service\n4 5/31/2013 9618 579 26.2 50 301.4 21.3 3211 101 10.2 56\nDrilling Vertical Section: Drill, Slide, Survey, Rig Service, TIH w/ new vert. \nassembly TOOH for BHA @ 9095' MD\n5 6/1/2013 10045 427 30.3 51 742.4 122.5 3837 100 10.3 68\nDrilling Vertical Section: TIH w/ Build Assembly, TOOH for Build Assembly @ \n10045' MD, Drill, Slide, Survey, Rig Service, TIH w/ new Vertical Assembly, \nTOOH for Bit @ 9651' MD\n6 6/2/2013 10589 544 28.1 0 357.4 29.9 3397 97 10.55 59 Drilling Build Section: Drill, Slide, Survey, Rig Service, TIH w/ Build Assembly\n7 6/3/2013 10872 283 30.7 36 283 77.3 3497 98 10.5 60\nDrilling Buld Section: TD Atlanta Federal 5-6H Build Section @ 10872' MD, Drill, \nslide, Survey, Rig Service\n8 6/4/2013\n9 6/5/2013 12280 1408 25.9 69 529.9 105 2513 100 9.7 27 TIH, Drilling Lateral Section: Drill, Survey, Slide, Rig Service\n10 6/6/2013 13733 1453 15.8 54 640.7 123.9 2559 99 9.7 26 Drilling Lateral Section: Drill, Survey, Slide, Rig Service\n11 6/7/2013 15235 1502 16 52 693.7 117.4 2769 100 9.7 27 Drilling Lateral Section: Drill, Survey, Slide, Rig Service\n12 6/8/2013 15971 736 13 70 478 70 3195 100 9.6 26 Drilling Lateral Section: Drill, Survey, Slide, Rig Service, TOOH for BHA, TIH\n13 6/9/2013 17955 1984 18.7 72 723.9 122.4 3578 100 9.7 27 Drilling Lateral Section: Drill, Survey, Slide, Rig Service\n14 6/10/2013 19403 1448 17.9 51 627.2 80 3367 100 9.7 27 Drilling Lateral Section: Drill, Survey, Slide, Rig Service\n15 6/11/2013 20000 597 na na na na na na na na Drilling Lateral Section: Drill, Survey, Slide, Rig Service, TOOH for BHA, TIH\n16 6/12/2013 20850 850 21.3 52 701.12 207.4 3806 98 9.6 27 TIH, Drilling Lateral Section: Drill, Survey, Slide, Rig Service\n17 6/13/2013 21165 na na na na na na na na na TD\"D Lateral Section\nCasing Operations\nDrilling Activity\nATLANTA Federal 5-6H\nDay Date Depth Footage WOB RPM Diff P ROP SPP SPM WT VIS ACTIVITY"
+    },
+    {
+      "page_number": 20,
+      "method": "pypdf",
+      "text_char_count": 1284,
+      "text": "5/30/2013 9039 39 24 25-32 na na\n5/31/2013 9618 76 36 51-76 na na\n6/1/2013 10045 121 65 42-68 53-121 na\n6/2/2013 10589 5636 320 51-77 62-80 na\n6/3/2013 10872 2347 563 461-1705 4000-5000 na\n6/4/2013\n6/5/2013 12280 6982 2169 160-5739 1936 5%\n6/6/2013 13733 6905 2340 993-3926 na 10%\n6/7/2013 15285 6114 3440 2121-3343 na 15%\n6/8/2013 15971 7662 3537 2239-3922 7662 15%\n6/9/2013 17955 7058 5014 2768-5992 na 20%\n6/10/2013 19403 6788 4957 3177-5977 na 20%\n6/11/2013 20000 6714 2265 2257-4357 na 20%\n6/12/2013 20850 6046 3895 2948-3753 7047 20%\n6/13/2013 21165 4336 3725 2102-3187 na 20%\nChronological Gas/Sample/Oil \nAtlanta Federal 5-6H\nDate Depth \n0500hrs\nMax Gas(u) Avg Gas(u) Conn Gas(u) Trip Gas(u) Oil Show Sample Show\nG EVN BRI YEL-GRN FLOR, LT BLU-WHT STRMNG/DIFF C\nG EVN BRI YEL-GRN FLOR, LT BLU-WHT STRMNG/DIFF C\nG EVN BRI YEL-GRN FLOR, LT BLU-WHT STRMNG/DIFF C\nno shows\nno shows\nno shows\nDULL INVERT FLOR, G IMMED STREAMING WHT POS IVERT CUT\nG BRI-SCAT DULL YL-GRN FLOR, LT BLU-WHT STRMNG/DIFF C\nCasing Operations\nno shows\nG BRI-SCAT DULL YL-GRN FLOR, LT BLU-WHT STRMNG/DIFF C\nG BRI-SCAT DULL YL-GRN FLOR, LT BLU-WHT STRMNG/DIFF C\nG EVN BRI YEL-GRN FLOR, LT BLU-WHT STRMNG/DIFF C\nG EVN BRI YEL-GRN FLOR, LT BLU-WHT STRMNG/DIFF C\nG EVN BRI YEL-GRN FLOR, LT BLU-WHT STRMNG/DIFF C"
+    },
+    {
+      "page_number": 21,
+      "method": "pypdf",
+      "text_char_count": 990,
+      "text": "10450\n10470\n10490\n10510\n10530\n10550\n10450 10950 11450 11950 12450 12950 13450 13950 14450 14950 15450 15950 16450 16950 17450 17950 18450 18950 19450 19950 20450 20950\nTVD\nMD\nUpper Bakken Shale Top Middle Bakken Top Target Top Target Bottom Lower Bakken Shale Marker 2 Marker 1 Casing Point Trips Wellbore TD\n7\" Casing Shoe Location:\n10872' MD & 10521' TVD\nCasing Point:\n999' FNL & 1084' FWL\nAtlanta Federal 5-6H- NWNW Sec 6 - SWSW Sec 8 - T153N - R101W - Williams-McKenzie Co., ND\nContinental Resources - Atlanta 14 Well Eco Pad\nBottom Hole Location:\n236' FSL & 590' FWL\nProjection to Bit: \n21165' MD & 10517' TVD\n89.8° 90.0° 89.9° 90.0° 89.9° 90.1° 90.2°\n0\n100\n200\n300\n0\n50\n100\n150\nft/hr\nAPI Counts (GR)\nGamma Ray Avg. ROP\n0\n5\n10\n15\n20\n25\n30\n35\n0\n2000\n4000\n6000\n8000\n10450 10950 11450 11950 12450 12950 13450 13950 14450 14950 15450 15950 16450 16950 17450 17950 18450 18950 19450 19950 20450 20950\nlbs/gal / % Oil - Shaker\nUnits (gas)\nMD\nTG C1 C2 C3 C4 Mud Weight Oil Shows\nGas Buster On"
+    },
+    {
+      "page_number": 22,
+      "method": "pypdf",
+      "text_char_count": 917,
+      "text": "FORMATION TOPS 1945 1967\nPierre Shale 1867 100\nGreenhorn 4549 -2582\nDakota Grp. (fka Mowry) 4925 -2958\nBase of Dakota Sand 5624 -3657\nDunham Salt Top\nDunham Salt Base\nPine Salt Top 7156 -5189\nPine Salt Base 7183 -5216\nMinnekahta 7202 -5235\nOpeche Salt Top\nOpeche Salt Base\nMinnelusa Grp. 7431 -5464\nTyler 7617 -5650\nKibbey 8153 -6186\nCharles 8300 -6333\nBLS 9016 9015 11.36 -7048 -7044 4\nMission Canyon 9233 9232 10.9 -7265 -7267 -2\nLodgepole 9782 9781 9.48 -7814 -7820 -6\nFalse Bakken 10594 10482 289.63 -8515 NP NA\nUpper Bakken Shale 10612 10489 306.19 -8522 -8529 -7\nMiddle Bakken 10653 10502 344.99 -8535 -8543 -8\nTops picked by Drilling breaks (Rop & Differential), Samples, and Gamma\nNot Projected\nSub Sea (ft)\nActual Tops Picked\nFormation Tops\nVERTICAL & BUILD SECTIONS\nDifference\nProjected Tops\nTVD (ft) VS (ft) SS (ft)\nPrognosed SS \n(ft)\nGround Elevation: Kelly Bushing: \nAtlanta Federal 5-6H\nMD (ft)Formation"
+    },
+    {
+      "page_number": 23,
+      "method": "pypdf",
+      "text_char_count": 670,
+      "text": "MD TVD SUBSEA V/S\n10653 10502 -8535 344.99\n10045 10044 -8077 8.9\n10872 10521 -8554 562.2\n21165 10517 -8550 10850.02\nMD TVD MD TVD\n15475 10525.4 9095 9094\n20000 10524.7 9651 9650\n10045 10044\n10293 %\n10293 100.0%\n0.0%\n100.0%\nVertical & Build Trips\nBHA\nSWSW Sec 8: 236' FSL & 590' FWL\nTOOH for BHA (Slow ROP)\nTOOH for Bit (Slow ROP)\nTOOH for Build Assembly (KOP)\nKOP\nOut of Target Zone\nLATERAL SUMMARY\nTotal Lateral Footage\nNWNW Sec 6: 999' FNL & 1084' FWL\nNWNW Sec 6: 495' FNL & 835' FWL\nMiddle Bakken\nTotal Depth (projection to Bit)\nBottom Hole Location\nCasing Point\nCasing Location\nCritical Points\nMiddle Bakken Member\nSurface Hole location\nLateral Trips\nBHA\nTarget Zone"
+    },
+    {
+      "page_number": 24,
+      "method": "pypdf",
+      "text_char_count": 1750,
+      "text": "10450.0 10489.0 10502.0 10512.0 10524.0 10532.0 10516.0\n11000.0 10491.0 10504.0 10514.0 10526.0 10534.0 10518.0 89.79 0.36\n11500.0 10492.5 10505.5 10515.5 10527.5 10535.5 10519.5 89.83 0.30\n12000.0 10492.5 10505.5 10515.5 10527.5 10535.5 10519.5 #DIV/0! 0.00\n12500.0 10492.5 10505.5 10515.5 10527.5 10535.5 10519.5 #DIV/0! 0.00\n13000.0 10494.0 10507.0 10517.0 10529.0 10537.0 10521.0 89.83 0.30\n13500.0 10495.0 10508.0 10518.0 10530.0 10538.0 10522.0 89.89 0.20\n14000.0 10496.0 10509.0 10519.0 10531.0 10539.0 10523.0 89.89 0.20\n14500.0 10497.0 10510.0 10520.0 10532.0 10540.0 10524.0 89.89 0.20\n15000.0 10498.0 10511.0 10521.0 10533.0 10541.0 10525.0 89.89 0.20\n15500.0 10499.0 10512.0 10522.0 10534.0 10542.0 10526.0 89.89 0.20\n16000.0 10499.0 10512.0 10522.0 10534.0 10542.0 10526.0 #DIV/0! 0.00\n16500.0 10499.0 10512.0 10522.0 10534.0 10542.0 10526.0 #DIV/0! 0.00\n17000.0 10499.0 10512.0 10522.0 10534.0 10542.0 10526.0 #DIV/0! 0.00\n17500.0 10500.0 10513.0 10523.0 10535.0 10543.0 10527.0 89.89 0.20\n18000.0 10499.0 10512.0 10522.0 10534.0 10542.0 10526.0 90.11 -0.20\n18500.0 10498.0 10511.0 10521.0 10533.0 10541.0 10525.0 90.11 -0.20\n19000.0 10495.0 10508.0 10518.0 10530.0 10538.0 10522.0 90.34 -0.60\n19500.0 10493.0 10506.0 10516.0 10528.0 10536.0 10520.0 90.23 -0.40\n20000.0 10491.5 10504.5 10514.5 10526.5 10534.5 10518.5 90.17 -0.30\n20500.0 10490.0 10503.0 10513.0 10525.0 10533.0 10517.0 90.17 -0.30\n21000.0 10488.5 10501.5 10511.5 10523.5 10531.5 10515.5 90.17 -0.30\n21200.0 10487.9 10500.9 10510.9 10522.9 10530.9 10514.9 90.17 -0.30\nDip Rate \n(ft/100)\nAtlanta Federal 5-6H STRUCTURE (MD - TVD)\nMD (ft)\nUpper \nBakken \nShale Top\nMiddle \nBakken \nTop\nTarget \nZone Top\nTarget \nZone \nBottom\nLower \nBakken \nShale Marker 2 Marker 1 Dip (angle)"
+    },
+    {
+      "page_number": 25,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 26,
+      "method": "pypdf",
+      "text_char_count": 471,
+      "text": "Hard Lines Section Lines Surface Hole Casing Point\nBottom Hole Proposed Well Path Actual Well Path\nSec 6\nSec 7\n7\" Casing Shoe Location:\n999' FNL & 1084' FWL\nCasing Point:\n-504.13 S & 249.02 E\nBottom Hole Location:\n236' FSL & 590' FWL\nProjection to Bit:\n-9940.03 S & 4979.28 E\nSurface Hole Location:\nNWNW Sec 6: 495' FNL & 835' FWL\nAtlanta Federal 5-6H - T153N-R101W\nWilliams & McKenzie Co., ND\nProposed Azimuth: 152.81°\nDrilling Setbacks: 500' N&W; 200' E&S\nN\nSec 5\nSec 8"
+    },
+    {
+      "page_number": 27,
+      "method": "pypdf",
+      "text_char_count": 444,
+      "text": "Section Lines\nHard Lines\nAtlanta 1-6H WP\nAtlanta 2-6H WP\nAtlanta 3-6H WP\nAtlanta 4-6H WP\nAtlanta 4-6H WP ST\nAtlanta Fed 5-6H WP\nAtlanta Fed 6-6H WP\nAtlanta Fed 7-6H WP\nAtlanta Fed 8-6H WP\nAtlanta Fed 9-6H WP\nAtlanta Fed 10-6H\nWP\nAtlanta 11-6H WP\nAtlanta 12-6H WP\nAtlanta 12-6H WP ST\nAtlanta 13-6H WP\nSec 5Sec 6\nSec 7 Sec 8\nAtlanta 14 Well Eco Pad - Continental Resources Inc.\nWilliams-McKenzie Co., ND 153N  & 101W N\nAtlanta 14-6H (Three Forks)"
+    },
+    {
+      "page_number": 28,
+      "method": "pypdf",
+      "text_char_count": 3187,
+      "text": "Ver 1.0\nFile:\nNORTH/SOUTH:\nSTATE: TARG\nET INCL: EAST/WEST:\nTARGET AZM:\n152.81 8.53\n TRUE TEMP Course  Surface DLS/ BUR/ TVD AT 0' RIGHT(+) ABOVE (+)\nSVY MD INC AZM °F Length TVD N-S E-W Vert Sect DIST DIR 100 100' V. SEC. LEFT(-) BELOW (-)\nTie In 1967 1.30 214.20 1966.93 -3.91 -6.99 0.28 8.01 240.78 1966.93 8.00 8563.07\n1 2048 1.40 211.21 86.6 81 2047.91 -5.52 -8.02 1.24 9.73 235.48 0.15 0.12 2047.91 9.65 8482.09\n2 2070 1.50 210.90 86.6 22 2069.90 -5.99 -8.31 1.54 10.24 234.19 0.46 0.45 2069.90 10.13 8460.10\n3 2164 1.70 199.60 92.0 94 2163.86 -8.36 -9.41 3.14 12.59 228.36 0.40 0.21 2163.86 12.19 8366.14\n4 2257 1.10 219.60 96.5 93 2256.84 -10.35 -10.44 4.44 14.70 225.24 0.82 -0.65 2256.84 14.02 8273.16\n5 2351 1.40 220.70 99.2 94 2350.81 -11.92 -11.76 5.22 16.74 224.63 0.32 0.32 2350.81 15.91 8179.19\n6 2445 2.10 209.20 101.9 94 2444.77 -14.29 -13.35 6.61 19.56 223.05 0.83 0.74 2444.77 18.41 8085.23\n7 2538 0.90 229.60 106.4 93 2537.74 -16.25 -14.74 7.72 21.94 222.21 1.39 -1.29 2537.74 20.54 7992.26\n8 2631 0.40 319.00 109.1 93 2630.73 -16.48 -15.51 7.57 22.63 223.26 1.05 -0.54 2630.73 21.33 7899.27\n9 2725 0.60 18.60 111.8 94 2724.73 -15.76 -15.57 6.91 22.15 224.64 0.56 0.21 2724.73 21.06 7805.27\n10 2818 0.70 43.20 112.7 93 2817.72 -14.89 -15.02 6.38 21.15 225.25 0.32 0.11 2817.72 20.17 7712.28\n11 2912 0.60 36.00 115.4 94 2911.72 -14.07 -14.34 5.97 20.09 225.54 0.14 -0.11 2911.72 19.19 7618.28\n12 3006 0.50 53.80 117.2 94 3005.71 -13.43 -13.72 5.68 19.20 225.61 0.21 -0.11 3005.71 18.35 7524.29\n13 3099 0.90 49.70 119.0 93 3098.71 -12.72 -12.83 5.45 18.07 225.26 0.43 0.43 3098.71 17.23 7431.29\n14 3193 0.80 36.30 120.7 94 3192.70 -11.71 -11.88 4.99 16.69 225.41 0.24 -0.11 3192.70 15.93 7337.30\n15 3286 0.50 48.70 122.5 93 3285.69 -10.92 -11.19 4.60 15.64 225.70 0.35 -0.32 3285.69 14.95 7244.31\n16 3380 0.50 55.40 126.1 94 3379.69 -10.42 -10.55 4.45 14.83 225.35 0.06 0.00 3379.69 14.15 7150.31\n17 3473 0.20 77.80 125.2 93 3472.68 -10.15 -10.06 4.44 14.29 224.72 0.35 -0.32 3472.68 13.59 7057.32\n18 3567 0.30 7.50 124.3 94 3566.68 -9.88 -9.86 4.28 13.96 224.96 0.32 0.11 3566.68 13.29 6963.32\n19 3660 0.50 30.50 126.1 93 3659.68 -9.28 -9.63 3.86 13.37 226.03 0.27 0.22 3659.68 12.81 6870.32\n20 3753 0.10 253.30 127.9 93 3752.68 -8.96 -9.50 3.63 13.06 226.67 0.62 -0.43 3752.68 12.54 6777.32\n21 3847 0.30 306.70 128.8 94 3846.68 -8.83 -9.77 3.39 13.17 227.89 0.27 0.21 3846.68 12.73 6683.32\n22 3941 0.20 347.50 130.6 94 3940.68 -8.53 -10.01 3.01 13.15 229.56 0.21 -0.11 3940.68 12.80 6589.32\nOIL & GAS CO.: Continental Resources Target Information VS Referenced to Offset from Surface\nSURVEY CALCULATION PROGRAM ctrl-shift-I = Insert Survey\nctrl-shif\nt-D = Delete Survey\nMinimum Curviture\nCOUNTY / STATE: Williams Co. ND 90.00 0.00\nWELL: Atlanta 5-6H TARGET TVD: 10530.00 0.00\nRIG: Cyclone 2 152.76 (Enter 0' N and 0' E for Surface)\nJOB NUMBER: DDMT-130371\nSURVEY COMPANY: DIRECTIONAL COMPANY: PROPOSED DIRECTION: MAG-DEC. / TOTAL CORR.(+/-):\nMS Energy MS Energy REFERENCED TO: True North\nMWD SPECIALIST(S): DIRECTIONAL DRILLER(S): COMMENTS:\nTim Coleman Kurt Wort ley Tie-in provided by Newsco; Final survey PBHL\nKevin Krenz Justin Kl auzer\nCLOSURE\nTarget Calculations"
+    },
+    {
+      "page_number": 29,
+      "method": "pypdf",
+      "text_char_count": 3914,
+      "text": "TRUE TEMP Course  Surface DLS/ BUR/ TVD AT 0' RIGHT(+) ABOVE (+)\nSVY MD INC AZM °F Length TVD N-S E-W Vert Sect DIST DIR 100 100' V. SEC. LEFT(-) BELOW (-)\nCLOSURE\nTarget Calculations\n23 4034 0.10 2.70 132.4 93 4033.68 -8.29 -10.04 2.79 13.02 230.45 0.11 -0.11 4033.68 12.72 6496.32\n24 4128 0.10 1.20 133.3 94 4127.68 -8.12 -10.03 2.64 12.91 231.00 0.00 0.00 4127.68 12.64 6402.32\n25 4221 0.20 152.70 135.1 93 4220.68 -8.19 -9.96 2.73 12.89 230.57 0.31 0.11 4220.68 12.60 6309.32\n26 4315 0.10 91.10 136.0 94 4314.68 -8.33 -9.80 2.94 12.86 229.61 0.19 -0.11 4314.68 12.53 6215.32\n27 4410 0.20 112.90 136.9 95 4409.68 -8.40 -9.56 3.10 12.73 228.70 0.12 0.11 4409.68 12.35 6120.32\n28 4504 0.20 112.30 134.2 94 4503.68 -8.53 -9.26 3.35 12.59 227.36 0.00 0.00 4503.68 12.14 6026.32\n29 4598 0.40 103.50 135.1 94 4597.68 -8.67 -8.79 3.69 12.34 225.40 0.22 0.21 4597.68 11.78 5932.32\n30 4689 0.50 119.60 137.8 91 4688.67 -8.94 -8.13 4.23 12.08 222.31 0.18 0.11 4688.67 11.32 5841.33\n31 4783 0.70 118.50 138.7 94 4782.67 -9.41 -7.27 5.05 11.89 217.69 0.21 0.21 4782.67 10.77 5747.33\n32 4877 0.80 98.00 139.6 94 4876.66 -9.78 -6.12 5.90 11.53 212.04 0.30 0.11 4876.66 9.92 5653.34\n33 4970 0.90 71.80 140.5 93 4969.65 -9.64 -4.78 6.39 10.76 206.38 0.43 0.11 4969.65 8.66 5560.35\n34 5062 0.70 171.50 140.5 92 5061.64 -9.97 -4.01 7.03 10.75 201.92 1.34 -0.22 5061.64 8.13 5468.36\n35 5156 1.70 182.80 143.2 94 5155.62 -11.93 -4.00 8.79 12.58 198.52 1.09 1.06 5155.62 9.01 5374.38\n36 5248 1.90 174.20 145.0 92 5247.58 -14.81 -3.91 11.39 15.32 194.78 0.36 0.22 5247.58 10.25 5282.42\n37 5342 1.40 204.90 147.7 94 5341.54 -17.40 -4.23 13.55 17.91 193.67 1.06 -0.53 5341.54 11.73 5188.46\n38 5436 1.10 256.40 149.5 94 5435.52 -18.66 -5.59 14.04 19.48 196.69 1.19 -0.32 5435.52 13.51 5094.48\n39 5529 1.40 251.50 152.2 93 5528.50 -19.23 -7.54 13.66 20.65 201.41 0.34 0.32 5528.50 15.50 5001.50\n40 5623 1.20 249.10 152.2 94 5622.47 -19.94 -9.55 13.38 22.11 205.58 0.22 -0.21 5622.47 17.62 4907.53\n41 5716 1.10 287.60 153.1 93 5715.46 -20.02 -11.31 12.64 22.99 209.46 0.82 -0.11 5715.46 19.22 4814.54\n42 5810 0.80 283.60 154.9 94 5809.44 -19.59 -12.81 11.58 23.41 213.17 0.33 -0.32 5809.44 20.35 4720.56\n43 5904 0.30 189.30 155.8 94 5903.44 -19.68 -13.48 11.34 23.86 214.42 0.93 -0.53 5903.44 21.00 4626.56\n44 5997 0.90 165.50 156.7 93 5996.43 -20.63 -13.34 12.25 24.57 212.89 0.69 0.65 5996.43 21.30 4533.57\n45 6091 1.60 206.40 153.1 94 6090.41 -22.52 -13.74 13.75 26.38 211.39 1.16 0.74 6090.41 22.52 4439.59\n46 6184 1.90 195.60 153.1 93 6183.37 -25.17 -14.73 15.65 29.16 210.34 0.48 0.32 6183.37 24.62 4346.63\n47 6278 1.10 240.60 156.7 94 6277.34 -27.11 -15.94 16.83 31.45 210.45 1.45 -0.85 6277.34 26.58 4252.66\n48 6371 0.70 201.40 158.5 93 6370.33 -28.08 -16.92 17.24 32.78 211.08 0.77 -0.43 6370.33 27.90 4159.67\n49 6465 1.20 160.80 161.2 94 6464.32 -29.54 -16.81 18.60 33.99 209.64 0.86 0.53 6464.32 28.47 4065.68\n50 6558 1.80 145.00 163.0 93 6557.28 -31.66 -15.65 21.01 35.32 206.30 0.78 0.65 6557.28 28.40 3972.72\n51 6652 1.60 142.70 165.7 94 6651.24 -33.91 -14.01 23.76 36.69 202.44 0.22 -0.21 6651.24 27.98 3878.76\n52 6746 0.70 204.30 162.1 94 6745.23 -35.48 -13.45 25.41 37.94 200.76 1.50 -0.96 6745.23 28.20 3784.77\n53 6838 1.90 304.30 168.4 92 6837.21 -35.13 -14.94 24.42 38.18 203.04 2.32 1.30 6837.21 29.36 3692.79\n54 6932 0.60 19.20 171.1 94 6931.19 -33.79 -16.07 22.71 37.41 205.43 1.95 -1.38 6931.19 29.75 3598.81\n55 7026 0.70 42.70 171.9 94 7025.18 -32.90 -15.51 22.18 36.38 205.25 0.30 0.11 7025.18 28.85 3504.82\n56 7120 0.70 57.00 171.9 94 7119.18 -32.17 -14.64 21.92 35.34 204.48 0.19 0.00 7119.18 27.74 3410.82\n57 7213 0.90 61.20 171.9 93 7212.17 -31.51 -13.53 21.84 34.29 203.24 0.22 0.22 7212.17 26.45 3317.83\n58 7307 1.10 42.50 172.8 94 7306.15 -30.48 -12.27 21.51 32.86 201.92 0.40 0.21 7306.15 24.86 3223.85\n59 7400 1.00 52.20 173.7 93 7399.14 -29.33 -11.03 21.05 31.33 200.60 0.22 -0.11 7399.14 23.23 3130.86"
+    },
+    {
+      "page_number": 30,
+      "method": "pypdf",
+      "text_char_count": 3864,
+      "text": "TRUE TEMP Course  Surface DLS/ BUR/ TVD AT 0' RIGHT(+) ABOVE (+)\nSVY MD INC AZM °F Length TVD N-S E-W Vert Sect DIST DIR 100 100' V. SEC. LEFT(-) BELOW (-)\nCLOSURE\nTarget Calculations\n60 7494 1.00 53.80 171.1 94 7493.12 -28.34 -9.72 20.77 29.96 198.92 0.03 0.00 7493.12 21.61 3036.88\n61 7588 0.80 53.40 173.7 94 7587.11 -27.47 -8.53 20.53 28.76 197.25 0.21 -0.21 7587.11 20.15 2942.89\n62 7681 0.80 37.60 176.4 93 7680.10 -26.56 -7.61 20.15 27.63 195.98 0.24 0.00 7680.10 18.92 2849.90\n63 7775 0.60 29.50 178.2 94 7774.09 -25.62 -6.97 19.60 26.55 195.21 0.24 -0.21 7774.09 17.92 2755.91\n64 7869 0.40 31.40 179.1 94 7868.09 -24.91 -6.55 19.16 25.76 194.74 0.21 -0.21 7868.09 17.23 2661.91\n65 7963 0.50 21.00 181.8 94 7962.09 -24.25 -6.24 18.72 25.03 194.42 0.14 0.11 7962.09 16.64 2567.91\n66 8057 0.40 357.30 185.4 94 8056.08 -23.53 -6.10 18.14 24.31 194.54 0.22 -0.11 8056.08 16.20 2473.92\n67 8150 0.40 346.60 182.7 93 8149.08 -22.89 -6.19 17.53 23.72 195.14 0.08 0.00 8149.08 15.99 2380.92\n68 8244 0.30 357.40 184.5 94 8243.08 -22.33 -6.28 16.99 23.20 195.71 0.13 -0.11 8243.08 15.81 2286.92\n69 8337 0.50 337.30 185.4 93 8336.08 -21.71 -6.45 16.37 22.65 196.54 0.26 0.22 8336.08 15.67 2193.92\n70 8431 0.40 322.60 184.5 94 8430.08 -21.07 -6.81 15.63 22.15 197.90 0.16 -0.11 8430.08 15.70 2099.92\n71 8524 0.50 331.90 184.5 93 8523.07 -20.46 -7.20 14.91 21.69 199.38 0.13 0.11 8523.07 15.76 2006.93\n72 8618 0.60 313.30 185.4 94 8617.07 -19.76 -7.75 14.03 21.22 201.41 0.22 0.11 8617.07 15.93 1912.93\n73 8711 0.70 292.20 187.2 93 8710.06 -19.21 -8.63 13.14 21.06 204.19 0.28 0.11 8710.06 16.46 1819.94\n74 8805 0.70 285.40 189.0 94 8804.06 -18.84 -9.71 12.32 21.20 207.27 0.09 0.00 8804.06 17.26 1725.94\n75 8898 0.50 275.50 191.7 93 8897.05 -18.65 -10.66 11.72 21.48 209.76 0.24 -0.22 8897.05 18.02 1632.95\n76 8992 0.60 262.20 191.7 94 8991.05 -18.68 -11.56 11.33 21.97 211.75 0.17 0.11 8991.05 18.83 1538.95\n77 9085 0.40 256.70 168.4 93 9084.04 -18.82 -12.36 11.09 22.51 213.29 0.22 -0.22 9084.04 19.60 1445.96\n78 9177 0.50 254.50 170.2 92 9176.04 -19.00 -13.06 10.93 23.05 214.50 0.11 0.11 9176.04 20.31 1353.96\n79 9270 0.40 262.70 174.6 93 9269.04 -19.15 -13.77 10.74 23.59 215.72 0.13 -0.11 9269.04 21.01 1260.96\n80 9363 0.40 261.00 179.1 93 9362.03 -19.24 -14.41 10.53 24.04 216.84 0.01 0.00 9362.03 21.62 1167.97\n81 9456 0.30 276.30 181.8 93 9455.03 -19.27 -14.98 10.29 24.40 217.86 0.15 -0.11 9455.03 22.13 1074.97\n82 9548 0.30 270.50 179.1 92 9547.03 -19.24 -15.46 10.05 24.68 218.78 0.03 0.00 9547.03 22.55 982.97\n83 9641 0.30 277.50 170.2 93 9640.03 -19.20 -15.94 9.80 24.96 219.70 0.04 0.00 9640.03 22.96 889.97\n84 9734 0.40 267.50 174.6 93 9733.03 -19.19 -16.51 9.52 25.31 220.71 0.13 0.11 9733.03 23.46 796.97\n85 9827 0.30 265.60 179.1 93 9826.03 -19.22 -17.07 9.29 25.71 221.62 0.11 -0.11 9826.03 23.98 703.97\n86 9920 0.30 284.10 182.7 93 9919.03 -19.18 -17.55 9.04 26.00 222.47 0.10 0.00 9919.03 24.38 610.97\n87 9995 0.20 313.60 184.5 75 9994.03 -19.04 -17.84 8.78 26.09 223.13 0.21 -0.13 9994.03 24.57 535.97\n88 10041 0.10 248.40 173.7 46 10040.02 -19.00 -17.93 8.70 26.13 223.35 0.40 -0.22 10040.02 24.64 489.98\n89 10072 3.10 154.30 176.4 31 10071.01 -19.76 -17.59 9.54 26.46 221.68 10.03 9.68 10071.01 24.69 458.99\n90 10103 7.60 154.60 179.1 31 10101.87 -22.37 -16.35 12.43 27.71 216.16 14.52 14.52 10101.87 24.78 428.13\n91 10135 10.90 157.40 180.9 32 10133.45 -27.08 -14.28 17.56 30.61 207.81 10.40 10.31 10133.45 25.09 396.55\n92 10166 14.40 155.40 182.7 31 10163.69 -33.29 -11.55 24.34 35.24 199.13 11.38 11.29 10163.69 25.51 366.31\n93 10197 18.00 153.60 183.6 31 10193.45 -41.09 -7.81 32.98 41.83 190.77 11.72 11.61 10193.45 25.75 336.55\n94 10228 22.20 151.70 183.6 31 10222.56 -50.54 -2.90 43.63 50.62 183.29 13.71 13.55 10222.56 25.72 307.44\n95 10258 26.30 151.40 183.6 30 10249.91 -61.37 2.97 55.94 61.44 177.23 13.67 13.67 10249.91 25.45 280.09"
+    },
+    {
+      "page_number": 31,
+      "method": "pypdf",
+      "text_char_count": 4103,
+      "text": "TRUE TEMP Course  Surface DLS/ BUR/ TVD AT 0' RIGHT(+) ABOVE (+)\nSVY MD INC AZM °F Length TVD N-S E-W Vert Sect DIST DIR 100 100' V. SEC. LEFT(-) BELOW (-)\nCLOSURE\nTarget Calculations\n96 10289 30.30 152.40 184.5 31 10277.20 -74.34 9.88 70.64 74.99 172.43 12.99 12.90 10277.20 25.24 252.80\n97 10321 34.40 152.20 187.2 32 10304.22 -89.49 17.84 87.75 91.25 168.73 12.82 12.81 10304.22 25.10 225.78\n98 10352 36.80 151.10 187.2 31 10329.43 -105.37 26.41 105.79 108.63 165.93 8.01 7.74 10329.43 24.75 200.57\n99 10383 40.00 147.70 188.1 31 10353.72 -121.93 36.23 125.01 127.19 163.45 12.36 10.32 10353.72 23.60 176.28\n100 10414 43.20 145.30 189.9 31 10376.90 -139.08 47.59 145.46 146.99 161.11 11.53 10.32 10376.90 21.34 153.10\n101 10445 47.00 145.90 190.8 31 10398.78 -157.19 59.99 167.24 168.25 159.11 12.33 12.26 10398.78 18.61 131.22\n102 10476 49.70 148.00 190.8 31 10419.38 -176.61 72.62 190.28 190.96 157.65 10.07 8.71 10419.38 16.27 110.62\n103 10508 54.10 149.70 191.7 32 10439.12 -198.16 85.63 215.39 215.87 156.63 14.37 13.75 10439.12 14.57 90.88\n104 10539 57.90 151.00 191.7 31 10456.46 -220.49 98.34 241.06 241.43 155.96 12.74 12.26 10456.46 13.49 73.54\n105 10570 62.30 150.90 191.7 31 10471.90 -243.98 111.38 267.91 268.20 155.46 14.20 14.19 10471.90 12.64 58.10\n106 10601 66.60 150.40 192.6 31 10485.27 -268.35 125.09 295.86 296.07 155.01 13.95 13.87 10485.27 11.61 44.73\n107 10632 71.30 151.10 192.6 31 10496.40 -293.59 139.22 324.76 324.92 154.63 15.31 15.16 10496.40 10.60 33.60\n108 10663 76.30 151.00 195.3 31 10505.05 -319.63 153.62 354.51 354.63 154.33 16.13 16.13 10505.05 9.71 24.95\n109 10694 79.20 150.80 194.4 31 10511.63 -346.10 168.36 384.78 384.87 154.06 9.38 9.35 10511.63 8.73 18.37\n110 10725 81.80 151.90 193.5 31 10516.74 -372.93 183.01 415.34 415.41 153.86 9.09 8.39 10516.74 7.98 13.26\n111 10757 86.60 153.50 196.2 32 10519.98 -401.21 197.61 447.17 447.23 153.78 15.80 15.00 10519.98 7.95 10.02\n112 10788 90.00 153.40 197.1 31 10520.90 -428.92 211.46 478.15 478.21 153.76 10.97 10.97 10520.90 8.32 9.10\n113 10817 89.70 154.20 197.1 29 10520.97 -454.94 224.26 507.14 507.21 153.76 2.95 -1.03 10520.97 8.85 9.03\n114 10894 89.80 152.10 222.3 77 10521.31 -523.64 259.04 584.14 584.20 153.68 2.73 0.13 10521.31 9.37 8.69\n115 10988 88.90 152.20 222.3 94 10522.37 -606.74 302.94 678.12 678.17 153.47 0.96 -0.96 10522.37 8.37 7.63\n116 11085 90.60 152.70 220.5 97 10522.80 -692.74 347.81 775.12 775.15 153.34 1.83 1.75 10522.80 7.85 7.20\n117 11179 90.30 152.70 222.3 94 10522.06 -776.27 390.92 869.11 869.14 153.27 0.32 -0.32 10522.06 7.75 7.94\n118 11273 92.70 152.80 222.3 94 10519.60 -859.80 433.94 963.07 963.10 153.22 2.56 2.55 10519.60 7.73 10.40\n119 11367 92.10 152.30 221.4 94 10515.66 -943.14 477.23 1056.99 1057.01 153.16 0.83 -0.64 10515.66 7.39 14.34\n120 11461 90.20 151.80 222.3 94 10513.78 -1026.16 521.28 1150.96 1150.97 153.07 2.09 -2.02 10513.78 6.22 16.22\n121 11555 91.00 152.30 222.3 94 10512.79 -1109.19 565.34 1244.94 1244.95 152.99 1.00 0.85 10512.79 5.06 17.21\n122 11648 89.30 152.90 223.1 93 10512.55 -1191.75 608.13 1337.94 1337.94 152.97 1.94 -1.83 10512.55 4.80 17.45\n123 11743 90.00 152.90 224.9 95 10513.13 -1276.32 651.41 1432.94 1432.94 152.96 0.74 0.74 10513.13 5.03 16.87\n124 11837 88.40 152.30 225.8 94 10514.44 -1359.76 694.66 1526.92 1526.93 152.94 1.82 -1.70 10514.44 4.77 15.56\n125 11931 90.50 153.40 227.6 94 10515.34 -1443.39 737.55 1620.91 1620.92 152.93 2.52 2.23 10515.34 4.91 14.66\n126 12025 90.40 153.80 228.5 94 10514.60 -1527.59 779.35 1714.90 1714.91 152.97 0.44 -0.11 10514.60 6.29 15.40\n127 12119 90.40 153.20 229.4 94 10513.95 -1611.71 821.29 1808.89 1808.90 153.00 0.64 0.00 10513.95 7.51 16.05\n128 12214 88.90 153.20 230.3 95 10514.53 -1696.50 864.12 1903.88 1903.90 153.01 1.58 -1.58 10514.53 8.24 15.47\n129 12308 88.20 152.90 232.1 94 10516.91 -1780.27 906.71 1997.85 1997.86 153.01 0.81 -0.74 10516.91 8.71 13.09\n130 12402 88.00 152.90 232.1 94 10520.02 -1863.90 949.50 2091.80 2091.81 153.00 0.21 -0.21 10520.02 8.94 9.98\n131 12497 90.10 154.50 232.1 95 10521.60 -1949.05 991.59 2186.77 2186.78 153.04 2.78 2.21 10521.60 10.50 8.40"
+    },
+    {
+      "page_number": 32,
+      "method": "pypdf",
+      "text_char_count": 4209,
+      "text": "TRUE TEMP Course  Surface DLS/ BUR/ TVD AT 0' RIGHT(+) ABOVE (+)\nSVY MD INC AZM °F Length TVD N-S E-W Vert Sect DIST DIR 100 100' V. SEC. LEFT(-) BELOW (-)\nCLOSURE\nTarget Calculations\n132 12591 89.90 154.20 229.4 94 10521.60 -2033.78 1032.28 2280.73 2280.76 153.09 0.38 -0.21 10521.60 13.11 8.40\n133 12686 90.00 153.40 233.0 95 10521.68 -2119.02 1074.22 2375.72 2375.75 153.12 0.85 0.11 10521.68 14.83 8.32\n134 12780 89.50 152.90 233.9 94 10522.09 -2202.89 1116.67 2469.72 2469.75 153.12 0.75 -0.53 10522.09 15.47 7.91\n135 12874 88.90 152.90 235.7 94 10523.40 -2286.56 1159.49 2563.71 2563.74 153.11 0.64 -0.64 10523.40 15.70 6.60\n136 12968 90.00 153.00 236.6 94 10524.31 -2370.27 1202.24 2657.70 2657.73 153.11 1.18 1.17 10524.31 16.01 5.69\n137 13061 89.20 152.20 237.5 93 10524.96 -2452.83 1245.03 2750.70 2750.73 153.09 1.22 -0.86 10524.96 15.75 5.04\n138 13156 90.30 153.20 237.5 95 10525.37 -2537.25 1288.60 2845.69 2845.72 153.08 1.56 1.16 10525.37 15.65 4.63\n139 13249 90.30 152.10 238.4 93 10524.88 -2619.85 1331.33 2938.69 2938.72 153.06 1.18 0.00 10524.88 15.48 5.12\n140 13344 89.80 151.80 239.3 95 10524.80 -2703.69 1376.00 3033.68 3033.70 153.03 0.61 -0.53 10524.80 14.13 5.20\n141 13437 90.00 150.90 239.3 93 10524.96 -2785.31 1420.59 3126.65 3126.66 152.98 0.99 0.22 10524.96 11.84 5.04\n142 13531 90.50 152.30 238.4 94 10524.55 -2867.99 1465.30 3220.62 3220.63 152.94 1.58 0.53 10524.55 9.94 5.45\n143 13625 89.90 152.00 240.2 94 10524.22 -2951.10 1509.21 3314.61 3314.62 152.91 0.71 -0.64 10524.22 8.94 5.78\n144 13719 90.50 151.90 240.2 94 10523.90 -3034.06 1553.41 3408.60 3408.61 152.89 0.65 0.64 10523.90 7.61 6.10\n145 13813 88.60 149.90 242.0 94 10524.63 -3116.18 1599.12 3502.54 3502.54 152.83 2.93 -2.02 10524.63 4.56 5.37\n146 13908 88.00 149.90 238.4 95 10527.45 -3198.33 1646.74 3597.37 3597.38 152.76 0.63 -0.63 10527.45 -0.18 2.55\n147 14002 90.40 152.00 241.1 94 10528.77 -3280.49 1692.38 3691.30 3691.31 152.71 3.39 2.55 10528.77 -3.14 1.23\n148 14096 90.40 152.00 242.9 94 10528.11 -3363.49 1736.51 3785.29 3785.30 152.69 0.00 0.00 10528.11 -4.39 1.89\n149 14189 89.40 149.90 243.8 93 10528.27 -3444.78 1781.66 3878.24 3878.25 152.65 2.50 -1.08 10528.27 -7.33 1.73\n150 14283 89.00 148.60 244.7 94 10529.58 -3525.56 1829.72 3972.04 3972.08 152.57 1.45 -0.43 10529.58 -13.08 0.42\n151 14377 89.70 150.70 240.2 94 10530.65 -3606.66 1877.21 4065.89 4065.95 152.50 2.35 0.74 10530.65 -18.18 -0.65\n152 14472 89.80 152.50 242.0 95 10531.06 -3690.23 1922.39 4160.86 4160.93 152.48 1.90 0.11 10531.06 -20.10 -1.06\n153 14566 89.10 152.10 243.8 94 10531.97 -3773.45 1966.08 4254.85 4254.92 152.48 0.86 -0.74 10531.97 -20.86 -1.97\n154 14661 90.20 155.40 242.9 95 10532.55 -3858.64 2008.09 4349.82 4349.89 152.51 3.66 1.16 10532.55 -19.22 -2.55\n155 14755 89.50 153.60 245.6 94 10532.79 -3943.47 2048.56 4443.78 4443.82 152.55 2.05 -0.74 10532.79 -16.36 -2.79\n156 14848 91.40 153.30 245.6 93 10532.06 -4026.66 2090.12 4536.77 4536.81 152.57 2.07 2.04 10532.06 -15.24 -2.06\n157 14941 90.50 153.00 246.5 93 10530.52 -4109.62 2132.12 4629.75 4629.79 152.58 1.02 -0.97 10530.52 -14.61 -0.52\n158 15035 91.90 156.30 246.5 94 10528.55 -4194.54 2172.35 4723.67 4723.69 152.62 3.81 1.49 10528.55 -11.51 1.45\n159 15128 90.80 155.00 246.5 93 10526.36 -4279.24 2210.68 4816.52 4816.53 152.68 1.83 -1.18 10526.36 -6.83 3.64\n160 15222 89.90 155.70 247.5 94 10525.79 -4364.67 2249.89 4910.43 4910.43 152.73 1.21 -0.96 10525.79 -2.58 4.21\n161 15319 89.40 155.10 247.5 97 10526.38 -4452.86 2290.27 5007.32 5007.33 152.78 0.81 -0.52 10526.38 1.89 3.62\n162 15397 90.60 156.70 240.2 78 10526.38 -4524.06 2322.11 5085.21 5085.21 152.83 2.56 1.54 10526.38 6.16 3.62\n163 15490 90.80 157.20 245.6 93 10525.24 -4609.63 2358.52 5177.96 5177.96 152.90 0.58 0.22 10525.24 12.96 4.76\n164 15584 89.30 155.80 248.3 94 10525.16 -4695.83 2396.00 5271.76 5271.78 152.97 2.18 -1.60 10525.16 19.09 4.84\n165 15679 87.90 155.60 249.2 95 10527.48 -4782.38 2435.09 5366.61 5366.64 153.02 1.49 -1.47 10527.48 23.96 2.52\n166 15773 89.00 155.70 247.4 94 10530.03 -4867.99 2473.83 5460.45 5460.51 153.06 1.18 1.17 10530.03 28.70 -0.03\n167 15868 90.00 155.50 247.4 95 10530.85 -4954.50 2513.07 5555.34 5555.41 153.10 1.07 1.05 10530.85 33.40 -0.85"
+    },
+    {
+      "page_number": 33,
+      "method": "pypdf",
+      "text_char_count": 4198,
+      "text": "TRUE TEMP Course  Surface DLS/ BUR/ TVD AT 0' RIGHT(+) ABOVE (+)\nSVY MD INC AZM °F Length TVD N-S E-W Vert Sect DIST DIR 100 100' V. SEC. LEFT(-) BELOW (-)\nCLOSURE\nTarget Calculations\n168 15961 90.50 152.60 246.5 93 10530.45 -5038.11 2553.76 5648.30 5648.39 153.12 3.16 0.54 10530.45 35.50 -0.45\n169 16054 89.60 152.30 248.3 93 10530.37 -5120.57 2596.78 5741.30 5741.38 153.11 1.02 -0.97 10530.37 34.99 -0.37\n170 16148 89.70 155.00 246.5 94 10530.94 -5204.79 2638.49 5835.28 5835.37 153.12 2.87 0.11 10530.94 36.45 -0.94\n171 16242 91.90 154.10 246.5 94 10529.63 -5289.65 2678.88 5929.22 5929.32 153.14 2.53 2.34 10529.63 39.39 0.37\n172 16337 93.60 153.30 244.7 95 10525.07 -5374.72 2720.92 6024.10 6024.20 153.15 1.98 1.79 10525.07 40.95 4.93\n173 16432 91.40 152.00 247.4 95 10520.93 -5459.01 2764.52 6119.00 6119.10 153.14 2.69 -2.32 10520.93 40.76 9.07\n174 16526 88.90 150.10 247.4 94 10520.68 -5541.25 2810.02 6212.94 6213.03 153.11 3.34 -2.66 10520.68 37.96 9.32\n175 16621 88.20 150.20 249.2 95 10523.09 -5623.62 2857.29 6307.81 6307.87 153.07 0.74 -0.74 10523.09 33.63 6.91\n176 16714 89.00 150.60 248.3 93 10525.36 -5704.46 2903.21 6400.70 6400.74 153.03 0.96 0.86 10525.36 29.81 4.64\n177 16809 89.40 152.30 247.4 95 10526.68 -5787.90 2948.60 6495.66 6495.69 153.00 1.84 0.42 10526.68 27.63 3.32\n178 16903 91.20 153.30 250.1 94 10526.19 -5871.50 2991.57 6589.65 6589.69 153.00 2.19 1.91 10526.19 27.70 3.81\n179 16997 90.50 152.70 251.0 94 10524.80 -5955.24 3034.24 6683.64 6683.68 153.00 0.98 -0.74 10524.80 28.09 5.20\n180 17091 88.60 152.20 251.9 94 10525.54 -6038.58 3077.71 6777.63 6777.66 152.99 2.09 -2.02 10525.54 27.58 4.46\n181 17185 90.00 153.10 250.1 94 10526.68 -6122.06 3120.89 6871.62 6871.65 152.99 1.77 1.49 10526.68 27.40 3.32\n182 17279 90.00 153.10 250.1 94 10526.68 -6205.89 3163.42 6965.62 6965.65 152.99 0.00 0.00 10526.68 27.96 3.32\n183 17373 90.30 153.60 251.9 94 10526.44 -6289.90 3205.59 7059.61 7059.65 152.99 0.62 0.32 10526.44 28.93 3.56\n184 17468 89.50 150.60 251.0 95 10526.60 -6373.85 3250.03 7154.59 7154.63 152.98 3.27 -0.84 10526.60 27.84 3.40\n185 17562 90.60 151.40 252.8 94 10526.52 -6456.06 3295.60 7248.55 7248.57 152.96 1.45 1.17 10526.52 24.95 3.48\n186 17656 89.50 151.60 252.8 94 10526.44 -6538.67 3340.46 7342.52 7342.54 152.94 1.19 -1.17 10526.44 22.88 3.56\n187 17751 90.00 152.20 254.6 95 10526.85 -6622.47 3385.20 7437.51 7437.52 152.93 0.82 0.53 10526.85 21.46 3.15\n188 17845 87.80 153.10 252.8 94 10528.66 -6705.94 3428.38 7531.48 7531.50 152.92 2.53 -2.34 10528.66 21.28 1.34\n189 17939 90.50 154.90 251.9 94 10530.05 -6790.41 3469.57 7625.44 7625.46 152.94 3.45 2.87 10530.05 23.31 -0.05\n190 18032 91.00 154.60 251.9 93 10528.84 -6874.51 3509.24 7718.38 7718.40 152.96 0.63 0.54 10528.84 26.54 1.16\n191 18127 90.60 153.30 251.0 95 10527.51 -6959.85 3550.96 7813.35 7813.38 152.97 1.43 -0.42 10527.51 28.51 2.49\n192 18220 89.70 150.80 252.8 93 10527.27 -7042.00 3594.54 7906.33 7906.36 152.96 2.86 -0.97 10527.27 27.36 2.73\n193 18315 89.90 150.30 251.0 95 10527.60 -7124.72 3641.25 8001.25 8001.27 152.93 0.57 0.21 10527.60 23.70 2.40\n194 18409 89.60 152.90 253.7 94 10528.01 -7207.40 3685.95 8095.22 8095.24 152.91 2.78 -0.32 10528.01 21.79 1.99\n195 18503 90.70 152.90 253.7 94 10527.76 -7291.08 3728.77 8189.22 8189.24 152.91 1.17 1.17 10527.76 22.02 2.24\n196 18597 90.80 151.90 254.6 94 10526.53 -7374.37 3772.32 8283.21 8283.22 152.91 1.07 0.11 10526.53 21.43 3.47\n197 18691 90.70 153.80 256.4 94 10525.30 -7458.01 3815.21 8377.20 8377.21 152.91 2.02 -0.11 10525.30 21.58 4.70\n198 18785 90.90 153.30 251.9 94 10523.99 -7542.16 3857.07 8471.18 8471.19 152.91 0.57 0.21 10523.99 22.88 6.01\n199 18879 90.90 152.20 251.9 94 10522.51 -7625.71 3900.11 8565.17 8565.18 152.91 1.17 0.00 10522.51 22.86 7.49\n200 18973 90.20 152.10 255.5 94 10521.61 -7708.82 3944.02 8659.16 8659.17 152.90 0.75 -0.74 10521.61 21.86 8.39\n201 19067 90.40 151.70 249.2 94 10521.12 -7791.74 3988.29 8753.14 8753.15 152.89 0.48 0.21 10521.12 20.45 8.88\n202 19161 90.50 151.70 250.1 94 10520.38 -7874.50 4032.85 8847.12 8847.13 152.88 0.11 0.11 10520.38 18.71 9.62\n203 19256 89.70 149.70 250.1 95 10520.21 -7957.34 4079.34 8942.05 8942.06 152.86 2.27 -0.84 10520.21 15.29 9.79"
+    },
+    {
+      "page_number": 34,
+      "method": "pypdf",
+      "text_char_count": 2541,
+      "text": "TRUE TEMP Course  Surface DLS/ BUR/ TVD AT 0' RIGHT(+) ABOVE (+)\nSVY MD INC AZM °F Length TVD N-S E-W Vert Sect DIST DIR 100 100' V. SEC. LEFT(-) BELOW (-)\nCLOSURE\nTarget Calculations\n204 19348 88.80 150.70 249.2 92 10521.42 -8037.17 4125.06 9033.95 9033.95 152.83 1.46 -0.98 10521.42 11.19 8.58\n205 19441 89.90 153.10 248.3 93 10522.47 -8119.20 4168.86 9126.92 9126.92 152.82 2.84 1.18 10522.47 9.79 7.53\n206 19536 88.50 153.80 250.1 95 10523.80 -8204.17 4211.31 9221.90 9221.90 152.83 1.65 -1.47 10523.80 10.93 6.20\n207 19631 89.90 155.10 253.7 95 10525.13 -8289.86 4252.28 9316.85 9316.85 152.84 2.01 1.47 10525.13 13.74 4.87\n208 19724 90.20 154.60 251.0 93 10525.04 -8374.05 4291.81 9409.79 9409.80 152.86 0.63 0.32 10525.04 17.13 4.96\n209 19819 89.90 152.70 253.7 95 10524.96 -8459.17 4333.97 9504.78 9504.78 152.87 2.02 -0.32 10524.96 18.60 5.04\n210 19914 89.70 152.10 253.7 95 10525.29 -8543.36 4377.98 9599.77 9599.78 152.87 0.67 -0.21 10525.29 18.01 4.71\n211 20012 91.10 153.30 250.1 98 10524.61 -8630.44 4422.93 9697.77 9697.77 152.87 1.88 1.43 10524.61 17.90 5.39\n212 20107 91.20 152.50 252.8 95 10522.70 -8714.99 4466.19 9792.75 9792.75 152.87 0.85 0.11 10522.70 18.13 7.30\n213 20201 91.30 151.90 254.6 94 10520.65 -8798.12 4510.02 9886.72 9886.72 152.86 0.65 0.11 10520.65 17.22 9.35\n214 20296 91.60 151.70 255.5 95 10518.25 -8881.82 4554.90 9981.67 9981.67 152.85 0.38 0.32 10518.25 15.63 11.75\n215 20390 88.90 150.10 256.4 94 10517.84 -8963.94 4600.61 10075.61 10075.61 152.83 3.34 -2.87 10517.84 12.57 12.16\n216 20485 88.80 150.90 255.5 95 10519.74 -9046.61 4647.38 10170.51 10170.51 152.81 0.85 -0.11 10519.74 8.83 10.26\n217 20579 90.00 151.40 256.4 94 10520.73 -9128.94 4692.73 10264.46 10264.46 152.79 1.38 1.28 10520.73 6.19 9.27\n218 20674 90.60 151.70 256.4 95 10520.23 -9212.46 4737.99 10359.44 10359.44 152.78 0.71 0.63 10520.23 4.18 9.77\n219 20768 89.80 151.20 257.3 94 10519.90 -9295.03 4782.92 10453.41 10453.41 152.77 1.00 -0.85 10519.90 2.03 10.10\n220 20863 90.10 150.40 258.2 95 10519.99 -9377.96 4829.26 10548.35 10548.36 152.75 0.90 0.32 10519.99 -1.22 10.01\n221 20958 90.20 150.50 259.1 95 10519.74 -9460.60 4876.11 10643.27 10643.28 152.73 0.15 0.11 10519.74 -5.04 10.26\n222 21052 90.90 150.30 260.0 94 10518.83 -9542.33 4922.54 10737.18 10737.20 152.71 0.77 0.74 10518.83 -8.92 11.17\n223 21110 90.70 149.70 58 10518.02 -9592.55 4951.54 10795.11 10795.13 152.70 1.09 -0.34 10518.02 -11.71 11.98\n224 21165 90.70 149.70 PBHL 55 10517.35 -9640.03 4979.29 10850.02 10850.05 152.68 0.00 0.00 10517.35 -14.64 12.65"
+    },
+    {
+      "page_number": 35,
+      "method": "pypdf",
+      "text_char_count": 1079,
+      "text": "Scale 1:240 (5\"=100') Imperial\nMeasured Depth Log\nWell Name: Atlanta Federal 5-6H (Atlanta 14 Well Eco Pad)\nLocation: NWNW Sec 6 - T153N - R101W - Williams Co., ND\nLicense Number: 33-105-02728 Region: Williston\nSpud Date: 5/27/13 Drilling Completed: 6/2/13\nSurface Coordinates: NWNW Sec 6 - T153N - R101W - Williams Co., ND\n495' FNL & 835' FWL\nBottom Hole\nCoordinates:\nNWNW Sec 6 - T153N - R101W - Williams Co., ND\nCP 10872' MD; 10521' TVD, 999' FNL & 1084' FWL\nGround Elevation (ft): 1945' K.B. Elevation (ft): 1967'\nLogged Interval (ft): 9740' To: 10521' Total Depth (ft): 781'\nFormation: MCyn, Lodgepole, UBkkn Shale, Middle Bakken Dolomite\nType of Drilling Fluid: Invert\nPrinted by MUD.LOG from WellSight Systems 1-800-447-1534 www.WellSight.com\nCORE\nContractor:\nCore #:\nFormation:\nCore Interval: From: Cut:\nTo: Recovered:\nBit type:\nSize:\nCoring Time:\nOPERATOR\nCompany: Continental Resources, Inc.\nAddress: 20 N. Broadway\nP.O. Box 269000\nOklahoma City, Ok 73126\nGEOLOGIST\nName: Adam Swoboda\nCompany: Geo-Link Inc\nAddress: PO Box 1764\nRed Lodge, MT 59068\nDirectional\nMS Energy"
+    },
+    {
+      "page_number": 36,
+      "method": "pypdf",
+      "text_char_count": 1082,
+      "text": "Second Hand\nJoe Dunn\nROCK TYPES\nAnhy\nBent\nBrec\nCht\nClyst\nCoal\nCongl\nDol\nGyp\nIgne\nLmst\nMeta\nMrlst\nSalt\nShale\nShcol\nShgy\nSltst\nSs\nTill\nACCESSORIES\nMINERAL\nAnhy\nArggrn\nArg\nBent\nBit\nBrecfrag\nCalc\nCarb\nChtdk\nChtlt\nDol\nFeldspar\nFerrpel\nFerr\nGlau\nGyp\nHvymin\nKaol\nMarl\nMinxl\nNodule\nPhos\nPyr\nSalt\nSandy\nSilt\nSil\nSulphur\nTuff\nFOSSIL\nAlgae\nAmph\nBelm\nBioclst\nBrach\nBryozoa\nCephal\nCoral\nCrin\nEchin\nFish\nForam\nFossil\nGastro\nOolite\nOstra\nPelec\nPellet\nPisolite\nPlant\nStrom\nSTRINGER\nAnhy\nArg\nBent\nCoal\nDol\nGyp\nLs\nMrst\nSltstrg\nSsstrg\nTEXTURE\nBoundst\nChalky\nCryxln\nEarthy\nFinexln\nGrainst\nLithogr\nMicroxln\nMudst\nPackst\nWackest\nOTHER SYMBOLS\nPOROSITY TYPE\nEarthy\nFenest\nFracture\nInter\nMoldic\nOrganic\nPinpoint\nVuggy\nSORTING\nWell\nModerate\nPoor\nROUNDING\nRounded\nSubrnd\nSubang\nAngular\nOIL SHOWS\nEven\nSpotted\nQues\nDead\nINTERVALS\nCore\nDst\nEVENTS\nRft\nSidewall\nCurve Track 1\nROP (min/ft)\nGas (units)\nGamma (API)\nDepth\nGeological Descriptions\n0 ROP (min/ft) 5\n0 Gas (units) 1000\n0 Gamma (API) 200\n9700\nAtlanta Federal 5-6H\nContinental Resources\nAtlanta 14 Well Eco Pad\nNWNW Sec 6 - T153N - R101W\nWilliams Co., ND"
+    },
+    {
+      "page_number": 37,
+      "method": "pypdf",
+      "text_char_count": 305,
+      "text": "0 ROP (min/ft) 5\n0 Gas (units) 1000\n0 Gamma (API) 200\nX\nNo Gamma\n97509800985099009950\nSurface Hole Location:\n495' FNL & 835' FWL\nGE: 1945'\nRKB: 1967'\nDrilling w/ Invert Mud\nLodgepole:\n9782' MD; 9781' TVD\n-7814' ss\nNo Gamma - logged Lodgepole marker w/ gamma\ntool & tripped to bottom to start build section"
+    },
+    {
+      "page_number": 38,
+      "method": "pypdf",
+      "text_char_count": 201,
+      "text": "0 ROP (min/ft) 5\n0 Gas (units) 1000\n0 Gamma (API) 200\n10000100501010010150\nKOP:\n10045' MD; 10044' TVD\n-8077' ss\nTOOH for Build Assembly \n@ 10045' MD - 5/31/13 - 23:50\nResume Drilling - 6/01/13 - 1 1:18"
+    },
+    {
+      "page_number": 39,
+      "method": "pypdf",
+      "text_char_count": 115,
+      "text": "0 ROP (min/ft) 5\n0 Gas (units) 1000\n0 Gamma (API) 200\n0 ROP (min/ft) 5\n0 Gas (units) 1000\n1020010250103001035010400"
+    },
+    {
+      "page_number": 40,
+      "method": "pypdf",
+      "text_char_count": 479,
+      "text": "0 Gas (units) 1000\n0 Gamma (API) 200\nX\nX\nX\n10450105001055010600\nFalse Bakken: 10594' MD\n10482' TVD; -8515' ss\nUpper Bakken Shale: 10612' MD\n10489' TVD; -8522' ss\nMiddle Bakken: 10653' MD\n10502' TVD; -8535' ss\nTD Build Section 6/2/13 @ 12:02\nCasing Point: 10872' MD; 10521' TVD\nCasing Loc: NWNW Sec 6\n999' FNL & 1084' FWL\nContinued on Atlanta Federal 5-6H Horz. log\nField Geologist: Adam Swoboda\nSecond Hand: Joe Dunn & RC Whitmore\nGeo-Link Inc.\nThank Y ou For Using Geo-Link Inc."
+    },
+    {
+      "page_number": 41,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 42,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 43,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 44,
+      "method": "pypdf",
+      "text_char_count": 2559,
+      "text": "8.53\n152.81\nDepth Inc Azm TVD DLS/ BUR/\n# Feet Degrees Degrees Feet Distance Azm 100 100'\nTIE IN 1,967 1.30 214.20 1966.93 8.01 240.78\n1 2048 1.40 211.21 2047.91 9.73 235.48 0.15 0.12\n2 2070 1.50 210.90 2069.90 10.24 234.19 0.46 0.45\n3 2164 1.70 199.60 2163.86 12.59 228.36 0.40 0.21\n4 2257 1.10 219.60 2256.84 14.70 225.24 0.82 -0.65\n5 2351 1.40 220.70 2350.81 16.74 224.63 0.32 0.32\n6 2445 2.10 209.20 2444.77 19.56 223.05 0.83 0.74\n7 2538 0.90 229.60 2537.74 21.94 222.21 1.39 -1.29\n8 2631 0.40 319.00 2630.73 22.63 223.26 1.05 -0.54\n9 2725 0.60 18.60 2724.73 22.15 224.64 0.56 0.21\n10 2818 0.70 43.20 2817.72 21.15 225.25 0.32 0.11\n11 2912 0.60 36.00 2911.72 20.09 225.54 0.14 -0.11\n12 3006 0.50 53.80 3005.71 19.20 225.61 0.21 -0.11\n13 3099 0.90 49.70 3098.71 18.07 225.26 0.43 0.43\n14 3193 0.80 36.30 3192.70 16.69 225.41 0.24 -0.11\n15 3286 0.50 48.70 3285.69 15.64 225.70 0.35 -0.32\n16 3380 0.50 55.40 3379.69 14.83 225.35 0.06 0.00\n17 3473 0.20 77.80 3472.68 14.29 224.72 0.35 -0.32\n18 3567 0.30 7.50 3566.68 13.96 224.96 0.32 0.11\n19 3660 0.50 30.50 3659.68 13.37 226.03 0.27 0.22\n20 3753 0.10 253.30 3752.68 13.06 226.67 0.62 -0.43\n21 3847 0.30 306.70 3846.68 13.17 227.89 0.27 0.21\n22 3941 0.20 347.50 3940.68 13.15 229.56 0.21 -0.11\n23 4034 0.10 2.70 4033.68 13.02 230.45 0.11 -0.11\n24 4128 0.10 1.20 4127.68 12.91 231.00 0.00 0.00\n25 4221 0.20 152.70 4220.68 12.89 230.57 0.31 0.11\n26 4315 0.10 91.10 4314.68 12.86 229.61 0.19\n-0.11\n27 4410 0.20 112.90 4409.68 12.73 228.70 0.12 0.11\n28 4504 0.20 112.30 4503.68 12.59 227.36 0.00 0.00\nN/S\nFeet\nE/W\nFeet\n-8.33 -9.80\n-8.40 -9.56\n-8.53 -9.26\n-8.29 -10.04\n-8.12 -10.03\n-8.19 -9.96\n-8.96 -9.50\n-8.83 -9.77\n-8.53 -10.01\n-10.15 -10.06\n-9.88 -9.86\n-9.28 -9.63\n-11.71 -11.88\n-10.92 -11.19\n-10.42 -10.55\n-14.07 -14.34\n-13.43 -13.72\n-12.72 -12.83\n-16.48 -15.51\n-15.76 -15.57\n-14.89 -15.02\n-11.92 -11.76\n-14.29 -13.35\n-16.25 -14.74\n-3.91\n-5.52\n-6.99\n-8.02\n-5.99 -8.31\n-8.36 -9.41\n2.79\n2.64\n2.73\n2.94\n3.10\n3.35\n4.44\n4.28\n3.86\n3.63\n3.39\n3.01\n5.97\n5.68\n5.45\n4.99\n4.60\n4.45\n5.22\n6.61\n7.72\n7.57\n6.91\n6.38\nV09.04.02\n-10.35 -10.44\nPTB: AZM\n149.70\nTVD\nAtlanta Federal 5-6H\n10517.35\nN/S\n-9640.03\nINC\n33-105-02728\nVertical Section Azimuth: 152.81\nCompany:\n6/14/13 8:46\nClosure\nProposed Direction:\nVS\nMagnetic Declination:\nSURVEY CALCULATION PROGRAM\n10850.02\nSurface\nMD\nMinimum CurvatureSurvey Calculation Method:\nE/W\n4979.2990.70\nWell Name:\nLocation:\nContinental Resources, Inc.\nWilliams County, ND\nRig: Cyclone #2\n21,165\n0.28\n1.24\n1.54\n3.14\n4.44\nJob Number: DDMT-130371\nAPI #:\nVert Sec\nREFERENCED TO TRUE NORTH\n1 of 8"
+    },
+    {
+      "page_number": 45,
+      "method": "pypdf",
+      "text_char_count": 2716,
+      "text": "8.53\n152.81\nDepth Inc Azm TVD DLS/ BUR/\n# Feet Degrees Degrees Feet Distance Azm 100 100'\nN/S\nFeet\nE/W\nFeet\nV09.04.02\nPTB: AZM\n149.70\nTVD\nAtlanta Federal 5-6H\n10517.35\nN/S\n-9640.03\nINC\n33-105-02728\nVertical Section Azimuth: 152.81\nCompany:\n6/14/13 8:46\nClosure\nProposed Direction:\nVS\nMagnetic Declination:\nSURVEY CALCULATION PROGRAM\n10850.02\nSurface\nMD\nMinimum CurvatureSurvey Calculation Method:\nE/W\n4979.2990.70\nWell Name:\nLocation:\nContinental Resources, Inc.\nWilliams County, ND\nRig: Cyclone #2\n21,165\nJob Number: DDMT-130371\nAPI #:\nVert Sec\nREFERENCED TO TRUE NORTH\n29 4598 0.40 103.50 4597.68 12.34 225.40 0.22 0.21\n30 4689 0.50 119.60 4688.67 12.08 222.31 0.18 0.11\n31 4,783 0.70 118.50 4782.67 11.89 217.69 0.21 0.21\n32 4,877 0.80 98.00 4876.66 11.53 212.04 0.30 0.11\n33 4,970 0.90 71.80 4969.65 10.76 206.38 0.43 0.11\n34 5,062 0.70 171.50 5061.64 10.75 201.92 1.34 -0.22\n35 5,156 1.70 182.80 5155.62 12.58 198.52 1.09 1.06\n36 5,248 1.90 174.20 5247.58 15.32 194.78 0.36 0.22\n37 5,342 1.40 204.90 5341.54 17.91 193.67 1.06 -0.53\n38 5,436 1.10 256.40 5435.52 19.48 196.69 1.19 -0.32\n39 5,529 1.40 251.50 5528.50 20.65 201.41 0.34 0.32\n40 5,623 1.20 249.10 5622.47 22.11 205.58 0.22 -0.21\n41 5,716 1.10 287.60 5715.46 22.99 209.46 0.82 -0.11\n42 5,810 0.80 283.60 5809.44 23.41 213.17 0.33 -0.32\n43 5,904 0.30 189.30 5903.44 23.86 214.42 0.93 -0.53\n44 5,997 0.90 165.50 5996.43 24.57 212.89 0.69 0.65\n45 6,091 1.60 206.40 6090.41 26.38 211.39 1.16 0.74\n46 6,184 1.90 195.60 6183.37 29.16 210.34 0.48 0.32\n47 6,278 1.10 240.60 6277.34 31.45 210.45 1.45 -0.85\n48 6,371 0.70 201.40 6370.33 32.78 211.08 0.77 -0.43\n49 6,465 1.20 160.80 6464.32 33.99 209.64 0.86 0.53\n50 6,558 1.80 145.00 6557.28 35.32 206.30 0.78 0.65\n51 6,652 1.60 142.70 6651.24 36.69 202.44 0.22 -0.21\n52 6,746 0.70 204.30 6745.23 37.94 200.76 1.50 -0.96\n53 6,838 1.90 304.30 6837.21 38.18 203.04 2.32 1.30\n54 6,932 0.60 19.20 6931.19 37.41 205.43 1.95 -1.38\n55 7,026 0.70 42.70 7025.18 36.38 205.25 0.30 0.11\n56 7,120 0.\n70 57.00 7119.18 35.34 204.48 0.19 0.00\n57 7,213 0.90 61.20 7212.17 34.29 203.24 0.22 0.22\n58 7,307 1.10 42.50 7306.15 32.86 201.92 0.40 0.21\n-32.17 -14.64\n-31.51 -13.53\n-30.48 -12.27\n-35.13 -14.94\n-33.79 -16.07\n-32.90 -15.51\n-31.66 -15.65\n-33.91 -14.01\n-35.48 -13.45\n-27.11 -15.94\n-28.08 -16.92\n-29.54 -16.81\n-20.63 -13.34\n-22.52 -13.74\n-25.17 -14.73\n-20.02 -11.31\n-19.59 -12.81\n-19.68 -13.48\n-18.66 -5.59\n-19.23 -7.54\n-19.94 -9.55\n-11.93 -4.00\n-14.81 -3.91\n-17.40 -4.23\n-9.78 -6.12\n-9.64 -4.78\n-9.97 -4.01\n-8.67 -8.79\n-8.94 -8.13\n-9.41 -7.27\n24.42\n22.71\n22.18\n21.92\n21.84\n21.51\n16.83\n17.24\n18.60\n21.01\n23.76\n25.41\n12.64\n11.58\n11.34\n12.25\n13.75\n15.65\n8.79\n11.39\n13.55\n14.04\n13.66\n13.38\n3.69\n4.23\n5.05\n5.90\n6.39\n7.03\n2 of 8"
+    },
+    {
+      "page_number": 46,
+      "method": "pypdf",
+      "text_char_count": 2652,
+      "text": "8.53\n152.81\nDepth Inc Azm TVD DLS/ BUR/\n# Feet Degrees Degrees Feet Distance Azm 100 100'\nN/S\nFeet\nE/W\nFeet\nV09.04.02\nPTB: AZM\n149.70\nTVD\nAtlanta Federal 5-6H\n10517.35\nN/S\n-9640.03\nINC\n33-105-02728\nVertical Section Azimuth: 152.81\nCompany:\n6/14/13 8:46\nClosure\nProposed Direction:\nVS\nMagnetic Declination:\nSURVEY CALCULATION PROGRAM\n10850.02\nSurface\nMD\nMinimum CurvatureSurvey Calculation Method:\nE/W\n4979.2990.70\nWell Name:\nLocation:\nContinental Resources, Inc.\nWilliams County, ND\nRig: Cyclone #2\n21,165\nJob Number: DDMT-130371\nAPI #:\nVert Sec\nREFERENCED TO TRUE NORTH\n59 7,400 1.00 52.20 7399.14 31.33 200.60 0.22 -0.11\n60 7,494 1.00 53.80 7493.12 29.96 198.92 0.03 0.00\n61 7,588 0.80 53.40 7587.11 28.76 197.25 0.21 -0.21\n62 7,681 0.80 37.60 7680.10 27.63 195.98 0.24 0.00\n63 7,775 0.60 29.50 7774.09 26.55 195.21 0.24 -0.21\n64 7,869 0.40 31.40 7868.09 25.76 194.74 0.21 -0.21\n65 7,963 0.50 21.00 7962.09 25.03 194.42 0.14 0.11\n66 8,057 0.40 357.30 8056.08 24.31 194.54 0.22 -0.11\n67 8,150 0.40 346.60 8149.08 23.72 195.14 0.08 0.00\n68 8,244 0.30 357.40 8243.08 23.20 195.71 0.13 -0.11\n69 8,337 0.50 337.30 8336.08 22.65 196.54 0.26 0.22\n70 8,431 0.40 322.60 8430.08 22.15 197.90 0.16 -0.11\n71 8,524 0.50 331.90 8523.07 21.69 199.38 0.13 0.11\n72 8,618 0.60 313.30 8617.07 21.22 201.41 0.22 0.11\n73 8,711 0.70 292.20 8710.06 21.06 204.19 0.28 0.11\n74 8,805 0.70 285.40 8804.06 21.20 207.27 0.09 0.00\n75 8,898 0.50 275.50 8897.05 21.48 209.76 0.24 -0.22\n76 8,992 0.60 262.20 8991.05 21.97 211.75 0.17 0.11\n77 9,085 0.40 256.70 9084.04 22.51 213.29 0.22 -0.22\n78 9,177 0.50 254.50 9176.04 23.05 214.50 0.11 0.11\n79 9,270 0.40 262.70 9269.04 23.59 215.72 0.13 -0.11\n80 9,363 0.40 261.00 9362.03 24.04 216.84 0.01 0.00\n81 9,456 0.30 276.30 9455.03 24.40 217.86 0.15 -0.11\n82 9,548 0.30 270.50 9547.03 24.68 218.78 0.03 0.00\n83 9,641 0.30 277.50 9640.03 24.96 219.70 0.04 0.00\n84 9,734 0.40 267.50 9733.03 25.31 220.71 0.13 0.11\n85 9,827 0. 30\n265.60 9826.03 25.71 221.62 0.11 -0.11\n86 9,920 0.30 284.10 9919.03 26.00 222.47 0.10 0.00\n87 9,995 0.20 313.60 9994.03 26.09 223.13 0.21 -0.13\n-19.18 -17.55\n-19.04 -17.84\n-19.20 -15.94\n-19.19 -16.51\n-19.22 -17.07\n-19.24 -14.41\n-19.27 -14.98\n-19.24 -15.46\n-18.82 -12.36\n-19.00 -13.06\n-19.15 -13.77\n-18.84 -9.71\n-18.65 -10.66\n-18.68 -11.56\n-20.46 -7.20\n-19.76 -7.75\n-19.21 -8.63\n-22.33 -6.28\n-21.71 -6.45\n-21.07 -6.81\n-24.25 -6.24\n-23.53 -6.10\n-22.89 -6.19\n-26.56 -7.61\n-25.62 -6.97\n-24.91 -6.55\n-29.33 -11.03\n-28.34 -9.72\n-27.47 -8.53\n9.80\n9.52\n9.29\n9.04\n8.78\n11.09\n10.93\n10.74\n10.53\n10.29\n10.05\n14.91\n14.03\n13.14\n12.32\n11.72\n11.33\n18.72\n18.14\n17.53\n16.99\n16.37\n15.63\n21.05\n20.77\n20.53\n20.15\n19.60\n19.16\n3 of 8"
+    },
+    {
+      "page_number": 47,
+      "method": "pypdf",
+      "text_char_count": 2850,
+      "text": "8.53\n152.81\nDepth Inc Azm TVD DLS/ BUR/\n# Feet Degrees Degrees Feet Distance Azm 100 100'\nN/S\nFeet\nE/W\nFeet\nV09.04.02\nPTB: AZM\n149.70\nTVD\nAtlanta Federal 5-6H\n10517.35\nN/S\n-9640.03\nINC\n33-105-02728\nVertical Section Azimuth: 152.81\nCompany:\n6/14/13 8:46\nClosure\nProposed Direction:\nVS\nMagnetic Declination:\nSURVEY CALCULATION PROGRAM\n10850.02\nSurface\nMD\nMinimum CurvatureSurvey Calculation Method:\nE/W\n4979.2990.70\nWell Name:\nLocation:\nContinental Resources, Inc.\nWilliams County, ND\nRig: Cyclone #2\n21,165\nJob Number: DDMT-130371\nAPI #:\nVert Sec\nREFERENCED TO TRUE NORTH\n88 10,041 0.10 248.40 10040.02 26.13 223.35 0.40 -0.22\n89 10,072 3.10 154.30 10071.01 26.46 221.68 10.03 9.68\n90 10,103 7.60 154.60 10101.87 27.71 216.16 14.52 14.52\n91 10,135 10.90 157.40 10133.45 30.61 207.81 10.40 10.31\n92 10,166 14.40 155.40 10163.69 35.24 199.13 11.38 11.29\n93 10,197 18.00 153.60 10193.45 41.83 190.77 11.72 11.61\n94 10,228 22.20 151.70 10222.56 50.62 183.29 13.71 13.55\n95 10,258 26.30 151.40 10249.91 61.44 177.23 13.67 13.67\n96 10,289 30.30 152.40 10277.20 74.99 172.43 12.99 12.90\n97 10,321 34.40 152.20 10304.22 91.25 168.73 12.82 12.81\n98 10,352 36.80 151.10 10329.43 108.63 165.93 8.01 7.74\n99 10,383 40.00 147.70 10353.72 127.19 163.45 12.36 10.32\n100 10,414 43.20 145.30 10376.90 146.99 161.11 11.53 10.32\n101 10,445 47.00 145.90 10398.78 168.25 159.11 12.33 12.26\n102 10,476 49.70 148.00 10419.38 190.96 157.65 10.07 8.71\n103 10,508 54.10 149.70 10439.12 215.87 156.63 14.37 13.75\n104 10,539 57.90 151.00 10456.46 241.43 155.96 12.74 12.26\n105 10,570 62.30 150.90 10471.90 268.20 155.46 14.20 14.19\n106 10,601 66.60 150.40 10485.27 296.07 155.01 13.95 13.87\n107 10,632 71.30 151.10 10496.40 324.92 154.63 15.31 15.16\n108 10,663 76.30 151.00 10505.05 354.63 154.33 16.13 16.13\n109 10,694 79.20 150.80 10511.63 384.87 154.06 9.38 9.35\n110 10,725 81.80 151.90 10516.74 415.41 153.86 9.09 8.39\n111 10,757 86.60 153.50 10519.98 447.23 153.78 15.80 15.00\n112 10,788 90.00 153.40 10520.90 478.21 153.76 10.97 10.97\n113 10,817 89.70 154.20 10520.97 507.21 153.76 2.95 -1.03\n114 10,894 89.\n80 152.10 10521.31 584.20 153.68 2.73 0.13\n115 10,988 88.90 152.20 10522.37 678.17 153.47 0.96 -0.96\n116 11,085 90.60 152.70 10522.80 775.15 153.34 1.83 1.75-692.74 347.81\n-454.94 224.26\n-523.64 259.04\n-606.74 302.94\n-372.93 183.01\n-401.21 197.61\n-428.92 211.46\n-293.59 139.22\n-319.63 153.62\n-346.10 168.36\n-220.49 98.34\n-243.98 111.38\n-268.35 125.09\n-157.19 59.99\n-176.61 72.62\n-198.16 85.63\n-105.37 26.41\n-121.93 36.23\n-139.08 47.59\n-61.37 2.97\n-74.34 9.88\n-89.49 17.84\n-33.29 -11.55\n-41.09 -7.81\n-50.54 -2.90\n-19.76 -17.59\n-22.37 -16.35\n-27.08 -14.28\n-19.00 -17.93\n507.14\n584.14\n678.12\n775.12\n324.76\n354.51\n384.78\n415.34\n447.17\n478.15\n167.24\n190.28\n215.39\n241.06\n267.91\n295.86\n55.94\n70.64\n87.75\n105.79\n125.01\n145.46\n9.54\n12.43\n17.56\n24.34\n32.98\n43.63\n8.70\n4 of 8"
+    },
+    {
+      "page_number": 48,
+      "method": "pypdf",
+      "text_char_count": 2978,
+      "text": "8.53\n152.81\nDepth Inc Azm TVD DLS/ BUR/\n# Feet Degrees Degrees Feet Distance Azm 100 100'\nN/S\nFeet\nE/W\nFeet\nV09.04.02\nPTB: AZM\n149.70\nTVD\nAtlanta Federal 5-6H\n10517.35\nN/S\n-9640.03\nINC\n33-105-02728\nVertical Section Azimuth: 152.81\nCompany:\n6/14/13 8:46\nClosure\nProposed Direction:\nVS\nMagnetic Declination:\nSURVEY CALCULATION PROGRAM\n10850.02\nSurface\nMD\nMinimum CurvatureSurvey Calculation Method:\nE/W\n4979.2990.70\nWell Name:\nLocation:\nContinental Resources, Inc.\nWilliams County, ND\nRig: Cyclone #2\n21,165\nJob Number: DDMT-130371\nAPI #:\nVert Sec\nREFERENCED TO TRUE NORTH\n117 11,179 90.30 152.70 10522.06 869.14 153.27 0.32 -0.32\n118 11,273 92.70 152.80 10519.60 963.10 153.22 2.56 2.55\n119 11,367 92.10 152.30 10515.66 1057.01 153.16 0.83 -0.64\n120 11,461 90.20 151.80 10513.78 1150.97 153.07 2.09 -2.02\n121 11,555 91.00 152.30 10512.79 1244.95 152.99 1.00 0.85\n122 11,648 89.30 152.90 10512.55 1337.94 152.97 1.94 -1.83\n123 11,743 90.00 152.90 10513.13 1432.94 152.96 0.74 0.74\n124 11,837 88.40 152.30 10514.44 1526.93 152.94 1.82 -1.70\n125 11,931 90.50 153.40 10515.34 1620.92 152.93 2.52 2.23\n126 12,025 90.40 153.80 10514.60 1714.91 152.97 0.44 -0.11\n127 12,119 90.40 153.20 10513.95 1808.90 153.00 0.64 0.00\n128 12,214 88.90 153.20 10514.53 1903.90 153.01 1.58 -1.58\n129 12,308 88.20 152.90 10516.91 1997.86 153.01 0.81 -0.74\n130 12,402 88.00 152.90 10520.02 2091.81 153.00 0.21 -0.21\n131 12,497 90.10 154.50 10521.60 2186.78 153.04 2.78 2.21\n132 12,591 89.90 154.20 10521.60 2280.76 153.09 0.38 -0.21\n133 12,686 90.00 153.40 10521.68 2375.75 153.12 0.85 0.11\n134 12,780 89.50 152.90 10522.09 2469.75 153.12 0.75 -0.53\n135 12,874 88.90 152.90 10523.40 2563.74 153.11 0.64 -0.64\n136 12,968 90.00 153.00 10524.31 2657.73 153.11 1.18 1.17\n137 13,061 89.20 152.20 10524.96 2750.73 153.09 1.22 -0.86\n138 13,156 90.30 153.20 10525.37 2845.72 153.08 1.56 1.16\n139 13,249 90.30 152.10 10524.88 2938.72 153.06 1.18 0.00\n140 13,344 89.80 151.80 10524.80 3033.70 153.03 0.61 -0.53\n141 13,437 90.00 150.90 10524.96 3126.66 152.98 0.99 0.22\n142 13,531 90.50 152.30 10524.55 3220.63 152.94 1.58 0.53\n143 13,625 89.90\n152.00 10524.22 3314.62 152.91 0.71 -0.64\n144 13,719 90.50 151.90 10523.90 3408.61 152.89 0.65 0.64\n145 13,813 88.60 149.90 10524.63 3502.54 152.83 2.93 -2.02\n-2951.10 1509.21\n-3034.06 1553.41\n-3116.18 1599.12\n-2703.69 1376.00\n-2785.31 1420.59\n-2867.99 1465.30\n-2452.83 1245.03\n-2537.25 1288.60\n-2619.85 1331.33\n-2202.89 1116.67\n-2286.56 1159.49\n-2370.27 1202.24\n-1949.05 991.59\n-2033.78 1032.28\n-2119.02 1074.22\n-1696.50 864.12\n-1780.27 906.71\n-1863.90 949.50\n-1443.39 737.55\n-1527.59 779.35\n-1611.71 821.29\n-1191.75 608.13\n-1276.32 651.41\n-1359.76 694.66\n-943.14 477.23\n-1026.16 521.28\n-1109.19 565.34\n-776.27 390.92\n-859.80 433.94\n3314.61\n3408.60\n3502.54\n2750.70\n2845.69\n2938.69\n3033.68\n3126.65\n3220.62\n2186.77\n2280.73\n2375.72\n2469.72\n2563.71\n2657.70\n1620.91\n1714.90\n1808.89\n1903.88\n1997.85\n2091.80\n1056.99\n1150.96\n1244.94\n1337.94\n1432.94\n1526.92\n869.11\n963.07\n5 of 8"
+    },
+    {
+      "page_number": 49,
+      "method": "pypdf",
+      "text_char_count": 2998,
+      "text": "8.53\n152.81\nDepth Inc Azm TVD DLS/ BUR/\n# Feet Degrees Degrees Feet Distance Azm 100 100'\nN/S\nFeet\nE/W\nFeet\nV09.04.02\nPTB: AZM\n149.70\nTVD\nAtlanta Federal 5-6H\n10517.35\nN/S\n-9640.03\nINC\n33-105-02728\nVertical Section Azimuth: 152.81\nCompany:\n6/14/13 8:46\nClosure\nProposed Direction:\nVS\nMagnetic Declination:\nSURVEY CALCULATION PROGRAM\n10850.02\nSurface\nMD\nMinimum CurvatureSurvey Calculation Method:\nE/W\n4979.2990.70\nWell Name:\nLocation:\nContinental Resources, Inc.\nWilliams County, ND\nRig: Cyclone #2\n21,165\nJob Number: DDMT-130371\nAPI #:\nVert Sec\nREFERENCED TO TRUE NORTH\n146 13,908 88.00 149.90 10527.45 3597.38 152.76 0.63 -0.63\n147 14,002 90.40 152.00 10528.77 3691.31 152.71 3.39 2.55\n148 14,096 90.40 152.00 10528.11 3785.30 152.69 0.00 0.00\n149 14,189 89.40 149.90 10528.27 3878.25 152.65 2.50 -1.08\n150 14,283 89.00 148.60 10529.58 3972.08 152.57 1.45 -0.43\n151 14,377 89.70 150.70 10530.65 4065.95 152.50 2.35 0.74\n152 14,472 89.80 152.50 10531.06 4160.93 152.48 1.90 0.11\n153 14,566 89.10 152.10 10531.97 4254.92 152.48 0.86 -0.74\n154 14,661 90.20 155.40 10532.55 4349.89 152.51 3.66 1.16\n155 14,755 89.50 153.60 10532.79 4443.82 152.55 2.05 -0.74\n156 14,848 91.40 153.30 10532.06 4536.81 152.57 2.07 2.04\n157 14,941 90.50 153.00 10530.52 4629.79 152.58 1.02 -0.97\n158 15,035 91.90 156.30 10528.55 4723.69 152.62 3.81 1.49\n159 15,128 90.80 155.00 10526.36 4816.53 152.68 1.83 -1.18\n160 15,222 89.90 155.70 10525.79 4910.43 152.73 1.21 -0.96\n161 15,319 89.40 155.10 10526.38 5007.33 152.78 0.81 -0.52\n162 15,397 90.60 156.70 10526.38 5085.21 152.83 2.56 1.54\n163 15,490 90.80 157.20 10525.24 5177.96 152.90 0.58 0.22\n164 15,584 89.30 155.80 10525.16 5271.78 152.97 2.18 -1.60\n165 15,679 87.90 155.60 10527.48 5366.64 153.02 1.49 -1.47\n166 15,773 89.00 155.70 10530.03 5460.51 153.06 1.18 1.17\n167 15,868 90.00 155.50 10530.85 5555.41 153.10 1.07 1.05\n168 15,961 90.50 152.60 10530.45 5648.39 153.12 3.16 0.54\n169 16,054 89.60 152.30 10530.37 5741.38 153.11 1.02 -0.97\n170 16,148 89.70 155.00 10530.94 5835.37 153.12 2.87 0.11\n171 16,242 91.90 154.10 10529.63 5929.32 153.14 2.53 2.34\n172 16,337 93.60\n153.30 10525.07 6024.20 153.15 1.98 1.79\n173 16,432 91.40 152.00 10520.93 6119.10 153.14 2.69 -2.32\n174 16,526 88.90 150.10 10520.68 6213.03 153.11 3.34 -2.66\n-5459.01 2764.52\n-5541.25 2810.02\n-5204.79 2638.49\n-5289.65 2678.88\n-5374.72 2720.92\n-4954.50 2513.07\n-5038.11 2553.76\n-5120.57 2596.78\n-4695.83 2396.00\n-4782.38 2435.09\n-4867.99 2473.83\n-4452.86 2290.27\n-4524.06 2322.11\n-4609.63 2358.52\n-4194.54 2172.35\n-4279.24 2210.68\n-4364.67 2249.89\n-3943.47 2048.56\n-4026.66 2090.12\n-4109.62 2132.12\n-3690.23 1922.39\n-3773.45 1966.08\n-3858.64 2008.09\n-3444.78 1781.66\n-3525.56 1829.72\n-3606.66 1877.21\n-3198.33 1646.74\n-3280.49 1692.38\n-3363.49 1736.51\n6119.00\n6212.94\n5555.34\n5648.30\n5741.30\n5835.28\n5929.22\n6024.10\n5007.32\n5085.21\n5177.96\n5271.76\n5366.61\n5460.45\n4443.78\n4536.77\n4629.75\n4723.67\n4816.52\n4910.43\n3878.24\n3972.04\n4065.89\n4160.86\n4254.85\n4349.82\n3597.37\n3691.30\n3785.29\n6 of 8"
+    },
+    {
+      "page_number": 50,
+      "method": "pypdf",
+      "text_char_count": 2996,
+      "text": "8.53\n152.81\nDepth Inc Azm TVD DLS/ BUR/\n# Feet Degrees Degrees Feet Distance Azm 100 100'\nN/S\nFeet\nE/W\nFeet\nV09.04.02\nPTB: AZM\n149.70\nTVD\nAtlanta Federal 5-6H\n10517.35\nN/S\n-9640.03\nINC\n33-105-02728\nVertical Section Azimuth: 152.81\nCompany:\n6/14/13 8:46\nClosure\nProposed Direction:\nVS\nMagnetic Declination:\nSURVEY CALCULATION PROGRAM\n10850.02\nSurface\nMD\nMinimum CurvatureSurvey Calculation Method:\nE/W\n4979.2990.70\nWell Name:\nLocation:\nContinental Resources, Inc.\nWilliams County, ND\nRig: Cyclone #2\n21,165\nJob Number: DDMT-130371\nAPI #:\nVert Sec\nREFERENCED TO TRUE NORTH\n175 16,621 88.20 150.20 10523.09 6307.87 153.07 0.74 -0.74\n176 16,714 89.00 150.60 10525.36 6400.74 153.03 0.96 0.86\n177 16,809 89.40 152.30 10526.68 6495.69 153.00 1.84 0.42\n178 16,903 91.20 153.30 10526.19 6589.69 153.00 2.19 1.91\n179 16,997 90.50 152.70 10524.80 6683.68 153.00 0.98 -0.74\n180 17,091 88.60 152.20 10525.54 6777.66 152.99 2.09 -2.02\n181 17,185 90.00 153.10 10526.68 6871.65 152.99 1.77 1.49\n182 17,279 90.00 153.10 10526.68 6965.65 152.99 0.00 0.00\n183 17,373 90.30 153.60 10526.44 7059.65 152.99 0.62 0.32\n184 17,468 89.50 150.60 10526.60 7154.63 152.98 3.27 -0.84\n185 17,562 90.60 151.40 10526.52 7248.57 152.96 1.45 1.17\n186 17,656 89.50 151.60 10526.44 7342.54 152.94 1.19 -1.17\n187 17,751 90.00 152.20 10526.85 7437.52 152.93 0.82 0.53\n188 17,845 87.80 153.10 10528.66 7531.50 152.92 2.53 -2.34\n189 17,939 90.50 154.90 10530.05 7625.46 152.94 3.45 2.87\n190 18,032 91.00 154.60 10528.84 7718.40 152.96 0.63 0.54\n191 18,127 90.60 153.30 10527.51 7813.38 152.97 1.43 -0.42\n192 18,220 89.70 150.80 10527.27 7906.36 152.96 2.86 -0.97\n193 18,315 89.90 150.30 10527.60 8001.27 152.93 0.57 0.21\n194 18,409 89.60 152.90 10528.01 8095.24 152.91 2.78 -0.32\n195 18,503 90.70 152.90 10527.76 8189.24 152.91 1.17 1.17\n196 18,597 90.80 151.90 10526.53 8283.22 152.91 1.07 0.11\n197 18,691 90.70 153.80 10525.30 8377.21 152.91 2.02 -0.11\n198 18,785 90.90 153.30 10523.99 8471.19 152.91 0.57 0.21\n199 18,879 90.90 152.20 10522.51 8565.18 152.91 1.17 0.00\n200 18,973 90.20 152.10 10521.61 8659.17 152.90 0.75 -0.74\n201 19,067 90.\n40 151.70 10521.12 8753.15 152.89 0.48 0.21\n202 19,161 90.50 151.70 10520.38 8847.13 152.88 0.11 0.11\n203 19,256 89.70 149.70 10520.21 8942.06 152.86 2.27 -0.84-7957.34 4079.34\n-7708.82 3944.02\n-7791.74 3988.29\n-7874.50 4032.85\n-7458.01 3815.21\n-7542.16 3857.07\n-7625.71 3900.11\n-7207.40 3685.95\n-7291.08 3728.77\n-7374.37 3772.32\n-6959.85 3550.96\n-7042.00 3594.54\n-7124.72 3641.25\n-6705.94 3428.38\n-6790.41 3469.57\n-6874.51 3509.24\n-6456.06 3295.60\n-6538.67 3340.46\n-6622.47 3385.20\n-6205.89 3163.42\n-6289.90 3205.59\n-6373.85 3250.03\n-5955.24 3034.24\n-6038.58 3077.71\n-6122.06 3120.89\n-5704.46 2903.21\n-5787.90 2948.60\n-5871.50 2991.57\n-5623.62 2857.29\n8942.05\n8377.20\n8471.18\n8565.17\n8659.16\n8753.14\n8847.12\n7813.35\n7906.33\n8001.25\n8095.22\n8189.22\n8283.21\n7248.55\n7342.52\n7437.51\n7531.48\n7625.44\n7718.38\n6683.64\n6777.63\n6871.62\n6965.62\n7059.61\n7154.59\n6307.81\n6400.70\n6495.66\n6589.65\n7 of 8"
+    },
+    {
+      "page_number": 51,
+      "method": "pypdf",
+      "text_char_count": 2278,
+      "text": "8.53\n152.81\nDepth Inc Azm TVD DLS/ BUR/\n# Feet Degrees Degrees Feet Distance Azm 100 100'\nN/S\nFeet\nE/W\nFeet\nV09.04.02\nPTB: AZM\n149.70\nTVD\nAtlanta Federal 5-6H\n10517.35\nN/S\n-9640.03\nINC\n33-105-02728\nVertical Section Azimuth: 152.81\nCompany:\n6/14/13 8:46\nClosure\nProposed Direction:\nVS\nMagnetic Declination:\nSURVEY CALCULATION PROGRAM\n10850.02\nSurface\nMD\nMinimum CurvatureSurvey Calculation Method:\nE/W\n4979.2990.70\nWell Name:\nLocation:\nContinental Resources, Inc.\nWilliams County, ND\nRig: Cyclone #2\n21,165\nJob Number: DDMT-130371\nAPI #:\nVert Sec\nREFERENCED TO TRUE NORTH\n204 19,348 88.80 150.70 10521.42 9033.95 152.83 1.46 -0.98\n205 19,441 89.90 153.10 10522.47 9126.92 152.82 2.84 1.18\n206 19,536 88.50 153.80 10523.80 9221.90 152.83 1.65 -1.47\n207 19,631 89.90 155.10 10525.13 9316.85 152.84 2.01 1.47\n208 19,724 90.20 154.60 10525.04 9409.80 152.86 0.63 0.32\n209 19,819 89.90 152.70 10524.96 9504.78 152.87 2.02 -0.32\n210 19,914 89.70 152.10 10525.29 9599.78 152.87 0.67 -0.21\n211 20,012 91.10 153.30 10524.61 9697.77 152.87 1.88 1.43\n212 20,107 91.20 152.50 10522.70 9792.75 152.87 0.85 0.11\n213 20,201 91.30 151.90 10520.65 9886.72 152.86 0.65 0.11\n214 20,296 91.60 151.70 10518.25 9981.67 152.85 0.38 0.32\n215 20,390 88.90 150.10 10517.84 10075.61 152.83 3.34 -2.87\n216 20,485 88.80 150.90 10519.74 10170.51 152.81 0.85 -0.11\n217 20,579 90.00 151.40 10520.73 10264.46 152.79 1.38 1.28\n218 20,674 90.60 151.70 10520.23 10359.44 152.78 0.71 0.63\n219 20,768 89.80 151.20 10519.90 10453.41 152.77 1.00 -0.85\n220 20,863 90.10 150.40 10519.99 10548.36 152.75 0.90 0.32\n221 20,958 90.20 150.50 10519.74 10643.28 152.73 0.15 0.11\n222 21,052 90.90 150.30 10518.83 10737.20 152.71 0.77 0.74\n223 21,110 90.70 149.70 10518.02 10795.13 152.70 1.09 -0.34\n   \n   \n  \n  \n-9460.60 4876.11\n-9542.33 4922.54\n-9592.55 4951.54\n-9212.46 4737.99\n-9295.03 4782.92\n-9377.96 4829.26\n-8963.94 4600.61\n-9046.61 4647.38\n-9128.94 4692.73\n-8714.99 4466.19\n-8798.12 4510.02\n-8881.82 4554.90\n-8459.17 4333.97\n-8543.36 4377.98\n-8630.44 4422.93\n-8204.17 4211.31\n-8289.86 4252.28\n-8374.05 4291.81\n-8037.17 4125.06\n-8119.20 4168.86\n10643.27\n10737.18\n10795.11\n10075.61\n10170.51\n10264.46\n10359.44\n10453.41\n10548.35\n9504.78\n9599.77\n9697.77\n9792.\n75\n9886.72\n9981.67\n9033.95\n9126.92\n9221.90\n9316.85\n9409.79\n8 of 8"
+    },
+    {
+      "page_number": 52,
+      "method": "pypdf",
+      "text_char_count": 3464,
+      "text": "-\nSUNDRY NOTICES AND REPORTS \n600 EAST BOULEVARD DEPT 405 \nBISMARCK, ND 58505-0840 \nSFN 5749 (09-2006) \nPLEASE READ INSTRUCTIONS BEFORE FILLING OUT FORM. \nPLEASE SUBMIT THE ORIGINAL AND ONE COPY. \nIll Notice of Intent \n0 Report of Work Done \nApproximate Start Date \nMay 14, 2013 \nI Date Work Completed \n0 Notice of Intent to Begin a Workover Project that may Qualify \nfor a Tax Exemption PLJrsuant to NDCC Section 57-51 .1-03 . \nI Appro xi mate Start Date \nWell Name and Number \nAtlanta Federal 5-6H \nFootages IQtr-Qtr !Section \n495 F N L 835 F WL NWNW 6 \nField I Pool \nBaker Bakken \nName of Contractor(s) \nAdvanced Energy Services \nAddress \nP.O. Box 85 \nD Drilling Prognosis \nD Redrilling or Repair \nD Casing or Liner \nD Plug Well \n0 Supplemental History \nD Temporarily Abandon \nD \nD \nD \nD \nD \nD \nIWell File No. \n23368 \nSpill Report \nShooting \nAcidizing \nFracture Treatment \nChange Production Metihod \nReclamation \nIll Other Suspensioin of Drilling \nI Township \n153 N \nI Range \n101 w \nI County \nWilliams \nI city \nIS. Boardman \n24-HOUR PRODUCTION RATE \nBefore \nOil \nWater \nGas \nI\nState \nMl \nBbls \nBbls \nMCF \nAfter \nOil \nWater \nGas \nIZip Code \nDETAILS OF WORK \nBbls \nBbls \nMCF \nContinental Resources, Inc. (CRI) requests permission for suspension of drilling for up to 90 days for the referenced \nwell under NDAC 43-02-03-55. CRI intends to drill the surface hole with freshwater based drilling mud and set surface \ncasing with a small drilling rig and move off within 3 to 5 days. The casing will be set at a depth pre-approved by the \nNDIC per the ~pplication for Permit to Drill NDAC 43-02-03-21. No saltwater will be used in the drilling and cementing \noperations of th~ surface casing. Once the surface casing is cemented, a plug or mechanical seal will be placed at \nthe top of the casing to prevent any foreign matter from getting into the well. A rig capable of drilling to TD will move \nonto the location within the 90 days previously outlined . to complete the drilling and casing plan as per the APD. The \nundersigned states that this request for suspension of drilling operations in accordance with the Subsection 4 of \nSection 43-02-03-55 of the NDAC, is being requested to take advantage of the cost savings and time savings of using \nan initial rig that Is smaller than the rig necessary to drill a well to total depth but Is not Intended to alter or extend \nthe terms and conditions of, or suspend any obligation under, any oil and gas lease with acreage in or under the \nspacing or drilling unit for the above-referenced well. CRI understands NDAC 43-02-03-31 requirements regarding \nconfidentiality pertaining to this permit. The drilling pit will be fenced immediately after construction if the well pad is \nlocated in a pasture (NDAC 43-02-03-19 & 19.1). CRI will plug and abandon the well and reclaim the well site if the \nwell is not drilled by the larger rotary rig within 90 days after spudding the well with the smaller drilling rig. \n./1/o?t t=- t'I/IJrt--- J...-J-..\"f .1~ &~ 7 .e§)Cc~?~ v.t f(..e 7 7d I -77() -7] l.fd w t 77- ¥v~ + )f/ Company I l Tel7~one Number \nContinental Resources, Inc. (405) 234-9000 FOR STATE USE ONLY \nAddress 0 Received I 18] Approved P .0. Box 268870 \nCity I State Zip Code Date \n5 -I ) · 2(! /]' Oklahoma City OK 73126 \nSigr~u~ '()(k.. Printed Name By \navrp ·- 'ferry L. Olson ~[--; \nTitle tW-, Date \nRegulat Compliance Specialist May 13,2013 Title \nEmail Address Engineering Technician \nTerry.Oison@clr.com"
+    },
+    {
+      "page_number": 53,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 54,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 55,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 56,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 57,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 58,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 59,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 60,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 61,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 62,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 63,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 64,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 65,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 66,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 67,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 68,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 69,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 70,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 71,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 72,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 73,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 74,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 75,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 76,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 77,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 78,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 79,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 80,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 81,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 82,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 83,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 84,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 85,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 86,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 87,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 88,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 89,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 90,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 91,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 92,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 93,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 94,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 95,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 96,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 97,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 98,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 99,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 100,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 101,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 102,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 103,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 104,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 105,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 106,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 107,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 108,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 109,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 110,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 111,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 112,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 113,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 114,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 115,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 116,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 117,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 118,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 119,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 120,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 121,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 122,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 123,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 124,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 125,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 126,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 127,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 128,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 129,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 130,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 131,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 132,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 133,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 134,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 135,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 136,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 137,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 138,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 139,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 140,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 141,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 142,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 143,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 144,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 145,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 146,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 147,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 148,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 149,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 150,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 151,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 152,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 153,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 154,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 155,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 156,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 157,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 158,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 159,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 160,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 161,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 162,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 163,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 164,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 165,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 166,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 167,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 168,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 169,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 170,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 171,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 172,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 173,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 174,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 175,
+      "method": "pypdf",
+      "text_char_count": 2892,
+      "text": "J u l y  2 0 ,  2 0 1 2  \nTerry L. Olson \nRegulatory Compliance Specialist \nCONTINENTAL RESOURCES, INC. \nP.O. Box 1032 \nEnid, OK 73702 \n  \n      RE:      HORIZONTAL  WELL \n       A T L A N T A  F E D E R A L   5 - 6 H  \n       NWNW Section 6-153N-101W \n       W i l l i a m s  C o u n t y  \n       Well File # 23368 \n \nDear Terry : \n \n Pursuant to Commission Order No. 19840, approval to  drill the above captioned well is hereby given. The \napproval is granted on the condition that all portions of the well bore not isolated by cement, be no closer than \nthe 500' setback from the north or west boundaries and 200' setback from the east or south boundaries within \nthe 2560 acre spacing unit consisting of Sections 5, 6, 7, & 8 T153N R101W. \n \nPERMIT STIPULATIONS: A sufficient number of hori zontal wells shall be drilled and completed in \nthe 2560-acre spacing unit described as Sections 5, 6,  7, and 8, Township 1 53 North, Range 101 West, \nMcKenzie and Williams Counties, North Dakota, which reasonably develop all portions of the 2560-acre \nspacing unit within two years after the first horizontal well is completed. If this condition is not met, the \nCommission shall schedule the matter for a considerat ion to reduce the size of the spacing unit THIS \nWELL IS LOCATED IN A SURFACE WATER PR OTECTION AREA:  ONSITE INSPECTION \nREQUIRED (CONTACT NDIC FIELD INSPECTOR FOR SITE SPECIFIC STIPULATIONS).  TO \nINCLUDE BUT NOT LIMITED TO: CLOSED MUD SYSTEM, NO DRILLING PIT, AND \nIMPERMEABLE LINER IS REQUIRED ON TH E ENTIRE LOCATION AND A STRING OF \nCASING MUST BE PLACED IN THE RAT AND MOUSE HOLE AND CEMENTED TO \nGROUND LEVEL. FURTHERMORE CONTINENTAL MUST COMPLY WITH ALL \nAFFIDAVIT'S. LASTLY, AN IMPERMEABLE PE RIMETER DIKE MUST BE PLACED AROUND \nTHE ENTIRE LOCATION.   CONTINENTAL RESO URCES must contact ND IC Field Inspector \nJohn Axtman at 701-770-2564 prior to location construction.   \n \n \nDrilling pit \nNDAC 43-02-03-19.4 states that “a pit may be utilized to bury drill cuttings and solids generated during well drilling and \ncompletion operations, providing th e pit can be constructed, used  and reclaimed in a manner th at will prevent pollution of \nthe land surface and freshwaters. Reserve and circulation of mud system through earthen pits are prohibited. All pits shall be \ninspected by an authorized repr esentative of the director prio r to lining and use.  Drill cuttings and solids must be stabilize d \nin a manner approved by the director prior to placement in a cuttings pit.” \n \nForm 1 Changes & Hard Lines  \n  Any changes, shortening of casing point or lengthening at Total Depth must have prior approval by the NDIC.  The \nproposed directional plan is at a legal location.  The minimum le gal coordinate from the well head  at casing point is:  5S.   \nAlso, based on the azimuth of the proposed lateral the maximum legal coordinate from the well head is:  9676S."
+    },
+    {
+      "page_number": 176,
+      "method": "pypdf",
+      "text_char_count": 4774,
+      "text": "Terry L. Olson \nJuly 20, 2012 \nPage 2 \n \nLocation Construction Commencement (Three Day Waiting Period) \n   Operators shall not commence operations on a drill site until th e 3rd business day following publication of the approved \ndrilling permit on the NDIC - OGD Daily Activity Report.   If circumstances require operations to commence before the 3rd \nbusiness day following publication on the Daily Activity Report, the waiting peri od may be waived by the Director.  \nApplication for a waiver must be by sworn affidavit provid ing the information necessary to evaluate the extenuating \ncircumstances, the factors of NDAC 43-02-03-16.2 (1), (a)-(f), and any other in formation that would allow the Director to \nconclude that in the event another owner seeks revocation of the drilling permit, the applicant should retain the permit. \n \nPermit Fee & Notification \n Payment was received in the amount of $100 via credit ca rd.  It is requested that not ification be given immediately \nupon the spudding of the well.  This information should be relayed to the Oil & Gas Division, Bismarck, via telephone.  The \nfollowing information must be includ ed:  Well name, legal location, permit number, dr illing contractor, company \nrepresentative, date and time of spudding.  Office hours are 8: 00 a.m. to 12:00 p.m. and 1:00 p.m. to 5:00 p.m. Central Time. \nOur telephone number is (701) 328-8020, leave a message if after hours or on the weekend.  \n \n   Survey Requirements for Horizontal, Horizontal Re-entry, and Directional Wells \n NDAC Section 43-02-03-25 (Deviation Tests and Directional Surv eys) states in part (that) the survey contractor shall \nfile a certified copy of all surveys with the director free of charge within thirty days of completion.  Surveys must be \nsubmitted as one electronic copy, or in a form approved by the director. However, the director may require the directional \nsurvey to be filed immediately after completi on if the survey is needed to conduct the operation of the director's office in a \ntimely manner.  Certified surveys must be  submitted via email in one adobe docume nt, with a certificat ion cover page to \ncertsurvey@nd.gov. \nSurvey points shall be of such frequency to accurately determine the entire location of the well bore.  \nSpecifically, the Horizontal and Directional well survey frequency is 100 feet in the vertical, 30 feet in the curve (or when \nsliding) and 90 feet in the lateral. \n \nConfidential status \n Your request for confidential status of all information fu rnished to the Director, or his representatives, is hereby \ngranted.  Such information, except production runs, shall remain confidential for six months commencing on the date the \nwell is spud. \n Confidential status notwithstanding, the Director and his representatives shall have access to all well records wherever \nlocated. Your company personnel, or any person performing work for your company shall permit the Director and his \nrepresentatives to come upon any lease, property, well, or drilling rig operate d or controlled by them, complying with all \nsafety rules, and to inspect the records and operation of such we lls and to have access at all times to any and all records of \nwells. The Commission's field personnel periodically inspect pr oducing and drilling wells.  Any information regarding such \nwells shall be made available to them at any time upon request.  The information so  obtained by the field personnel shall be \nmaintained in strict confidence and shall be available only to the Commission and its staff. \n \nSurface casing cement \n Tail cement utilized on surface casing must have a minimum compressive strength of 500 psi within 12 hours, and tail \ncement utilized on production casing must have a minimum compressive strength of 500 psi before drilling the plug or \ninitiating tests.   \n \nLogs \n NDAC Section 43-02-03-31 requires the running of (1) a su ite of open hole logs from which formation tops and \nporosity zones can be determined, (2) a Gamma Ray Log run from total depth to ground level elevation of the well bore, and \n(3) a log from which the presence and qua lity of cement can be dete rmined (Standard CBL or Ul trasonic cement evaluation \nlog) in every well in which production or intermediate casing has been set, this log must be run prior to completing the well.  \nAll logs run must be submitted free of charge, as one digital TIFF (tagged image file format) copy and one digital LAS (log \nASCII) formatted copy. Digital logs ma y be submitted on a standard CD, DVD, or attached to an email sent to \ndigitallogs@nd.gov   Thank you for your cooperation.  \n        \n       S i n c e r e l y ,   \n \n       T o d d  L .  H o l w e g e r   \n       M i n e r a l  R e s o u r c e s  P e r m i t  M a n a g e r"
+    },
+    {
+      "page_number": 177,
+      "method": "pypdf",
+      "text_char_count": 4083,
+      "text": "From WH\nFrom WH\nSacks\n5(48,5('\u0003$77$&+0(176\u001d\u0003\u0003&HUWLILHG\u0003VXUYH\\RU\nV\u0003SODW\u000f\u0003KRUL]RQWDO\u0003VHFWLRQ\u0003SODW\u000f\u0003HVWLPDWHG\u0003JHRORJLFDO\u0003WRSV\u000f\u0003proposed mud/cementing plan,\n6XUYH\\V\u0003DUH\u0003UHTXLUHG\u0003DW\u0003OHDVW\u0003HYHU\\\u0003\u0016\u0013\u0003IHHW\u0003LQ\u0003WKH\u0003EXLOG\u0003VHFWLRQ\u0003DQG\u0003HYHU\\\u0003\u001c\u0013\u0003IHHW\u0003LQ\u0003WKH\u0003ODWHUDO\u0003VHFWLRQ\u0003RI\u0003D\u0003KRUL]RQWDO\u0003ZHOO\u0011\u0003\u00030HDVXUHPHQW\u0003\nLQDFFXUDFLHV\u0003DUH\u0003QRW\u0003FRQVLGHUHG\u0003ZKHQ\u0003GHWHUPLQLQJ\u0003FRPSOLDQFH\u0003ZLWK\u0003WKH\u0003VSDFLQJ\u0012GULOOLQJ\u0003XQLW\u0003ERXQGDU\\\u0003VHWEDFN\u0003UHTXLUHPHQW\u0003H[FHSW\u0003LQ\u0003WKH\u0003\nIROORZLQJ\u0003VFHQDULRV\u001d\u0003\u0003\u0014\f\u0003:KHQ\u0003WKH\u0003DQJOH\u0003EHWZHHQ\u0003WKH\u0003ZHOO\u0003ERUH\u0003DQG\u0003WKH\u0003UHVSHFWLYH\u0003ERXQGDU\\\u0003LV\u0003\u0014\u0013\u0003GHJUHHV\u0003RU\u0003OHVV\u001e\u0003RU\u0003\u0015\f\u0003,I\u0003,QGXVWU\\\u0003VWDQGDUG\nPHWKRGV\u0003DQG\u0003HTXLSPHQW\u0003DUH\u0003QRW\u0003XWLOL]HG\u0011\u0003\u0003&RQVXOW\u0003WKH\u0003DSSOLFDEOH\u0003ILHOG\u0003RUGHU\u0003IRU\u0003H[FHSWLRQV\u0011\n\u0003\n,I\u0003PHDVXUHPHQW\u0003LQDFFXUDFLHV\u0003DUH\u0003UHTXLUHG\u0003WR\u0003EH\u0003FRQVLGHUHG\u000f\u0003D\u0003\u0015\u00030:'\u0003PHDVXUHPHQW\u0003LQDFFXUDF\\\u0003ZLOO\u0003EH\u0003DSSOLHG\u0003WR\u0003WKH\u0003KRUL]RQWDO\u0003SRUWLRQ\u0003RI\u0003WKH\u0003ZHOO\u0003\nERUH\u0011\u0003\u00037KLV\u0003PHDVXUHPHQW\u0003LQDFFXUDF\\\u0003LV\u0003DSSOLHG\u0003WR\u0003WKH\u0003ZHOO\u0003ERUH\u0003IURP\u0003.23\u0003WR\u00037'\u0011\nDrilling Mud Type (Lateral)Drilling Mud Type (Vertical Hole - Below Surface Casing)\nCement Volume\nFeet\n\nLatitude of Well Head (Subject to NDIC Approval)Description ofLongitude of Well Head\n\nL\n\u0005\nFrom WH\nFeet Feet\nTop Dakota Sand\n\nIndustrial Commission Order\nLb./Ft.\nWeight(s) Longstring Total Depth\n127(\u001d\u00036XUIDFH\u0003KROH\u0003PXVW\u0003EH\u0003GULOOHG\u0003ZLWK\u0003IUHVK\u0003ZDWHU\nCement Top\nSurface Casing\nProposed\n\u0005\nSpacing/Drilling Unit Setback Requirement \nSize\nNorth Line of Spacing/Drilling Unit\nFeet\nDepth\nWest Line of Spacing/Drilling Unit\nFeet Above S.L.\nCement Volume\nFeet\u0005 DQG\u0003VXUIDFH\u0003FDVLQJ\u0003PXVW\u0003EH\u0003FHPHQWHG\u0003EDFN\u0003WR\u0003VXUIDFH\u0011\nObjective Horizons Pierre Shale Top\nFeet MD\u0005\nSacks\nProposed\n127(\u001d\u0003,QWHUPHGLDWH\u0003RU\u0003ORQJVWULQJ\u0003FDVLQJ\u0003VWULQJ\u0003PXVW\u0003EH\u0003FHPHQWHG\u0003DERYH\u0003WKH\u0003WRS\u0003'DNRWD\u0003*URXS\u00036DQG\u0011\nNAD Reference\nQtr-Qtr\nSouth Line of Spacing/Drilling Unit East Line of Spacing/Drilling Unit\nProposed Logs\nFeet\n127(\u001d\u0003$\u0003*DPPD\u00035D\\\u0003ORJ\u0003PXVW\u0003EH\u0003UXQ\u0003WR\u0003JURXQG\u0003VXUIDFH\u0003DQG\u0003D\u0003&%/\u0003PXVW\u0003EH\u0003UXQ\u0003RQ\u0003LQWHUPHGLDWH\u0003RU\u0003ORQJVWULQJ\u0003FDVLQJ\u0003VWULQJ\u0003LI\u0003VHW\u0011\n6HH\u00033DJH\u0003\u0015\u0003IRU\u0003&RPPHQWV\u0003VHFWLRQ\u0003DQG\u0003VLJQDWXUH\u0003EORFN\u0011\n\n1\nWeight\nAzimuth\n\n1\nBottom Hole Coordinates From Well Head\nL\nQtr-QtrSurface Footages\nL\nWell Name \nL F\nFeet\nGround Elevation\nFeet\nFeet\nAcres in Spacing/Drilling Unit\nSection\nFL\nLongstring Casing Point Footages\nSFN  54269 (08-2005)\nOperator\nWell Number\nType of Well\nTelephone Number\n:(//\u0003,1)250$7,21\u0003\u000b,I\u0003PRUH\u0003WKDQ\u0003RQH\u0003ODWHUDO\u0003SURSRVHG\u000f\u0003enter data for additional laterals on page 2)\nZip Code\n$33/,&$7,21\u0003)25\u00033(50,7\u000372\u0003'5,//\u0003+25,=217$/\u0003:(//\u0003\u0010\u0003)250\u0003\u0014+\nConfidential Status\nPLEASE READ INSTRUCTIONS BEFORE FILLING OUT FORM.\nPLEASE SUBMIT THE ORIGINAL AND ONE COPY.\nINDUSTRIAL COMMISSION OF NORTH DAKOTA\nOIL AND GAS DIVISION\n600 EAST BOULEVARD   DEPT 405\nApproximate Date Work Will StartType of Work\nBISMARCK, ND  58505-0840\nStateAddress City\nF\nLFF\nQtr-Qtr\nF\nFrom WH\nLongstring Casing Point Coordinates From Well Head\n\u0010\nSize\nFeet\nLongstring Casing\nBase of Last Salt (If Applicable)\n\u0010 FeetLb./Ft. Feet TVD\nSurvey Frequency:  Build Section Survey Frequency:  Lateral\nLongstring Total Depth\nFeet MD\nBottom Hole Footages From Nearest Section Line\nSurvey Type in Vertical Portion of Well Survey Contractor\nTownshipSection\nTownship\nRange\n:\nRange\nCounty\nCounty\nFeet TVD\n:\nRange\n1\nAzimuth Lateral 1\nFeet MDFeet MD\nCounty\nEstimated Total Depth Lateral 1KOP Lateral 1\nSection Township\nFeet TVD\n:\nEvery 100 Feet\nNew Location Oil & Gas 6 / 1 / 2012 Yes\nCONTINENTAL RESOURCES, INC. 580-233-8955\nP.O. Box 1032 Enid OK 73702\n✔ Notice has been provided to the owner of any\npermanently occupied dwelling within 1,320 feet. ✔ This well is not located within five hundred\nfeet of an occupied dwelling.\nATLANTA FEDERAL 5-6H\n495 N8 35 W NWNW 6 153 101 Williams\n1005 N 1097 W NWNW 6 153 101 Williams\n510 S 262 E 153 10857 10530\n203 S 581 W SWSW 8 153 101 McKenzie\n9673 S 4969 E 9957 153 21159 10530\n48 06 33.66 -103 43 48.63 NAD83 Spacing Unit: Sec 5, 6, 7, & 8 T153N R101W\n1945 2560 Feet N/S Feet E/W 19840\n10516 10510 10422 10367\nBakken 1867\n9 5/8 36 1970 743\n7 26-32 10857 10530 833 0 4925\nBase Last Charles Salt (If Applicable)\n9011\nCBL/GR from deepest depth obtainable to ground surface/mud\nInvert Brine\nMWD 30 90 Baker Hu ghes\ndirectional plot/plan, $100 fee."
+    },
+    {
+      "page_number": 178,
+      "method": "pypdf",
+      "text_char_count": 2423,
+      "text": ":1FLFL\nBottom Hole Footages From Nearest Section Line Township Range\nFLFL\nFrom WH\nKOP Footages From Nearest Section Line Township Range\nFrom WH\nCounty\nLateral 5\nKOP Lateral 5 Azimuth Lateral 5 Estimated Total Depth Lateral 5 KOP Coordinates From Well Head\nFeet MD\nQtr-Qtr Section\nCounty\n1:\nQtr-Qtr Section\nFrom WH\nBottom Hole Coordinates From Well HeadFormation Entry Point Coordinates From Well Head\nFrom WH\n Feet MD Feet TVD\nFrom WH\nFrom WH From WH\nFrom WH\nFrom WHFrom WH\nCountyRange\n:\nPage 2\n&200(176\u000f\u0003$'',7,21$/\u0003,1)250$7,21\u000f\u0003$1'\u001225\u0003/,67\u00032)\u0003$77$&+0(176\nFrom WH\nBottom Hole Coordinates From Well Head\nFeet TVDFeet MD\nKOP Coordinates From Well Head\nFeet MD \nSFN 54269  (08-2005)\nKOP Lateral 2\nFormation Entry Point Coordinates From Well Head\nDate\nLateral 2\nI hereby swear or affirm the information provided is true, complete and correct as determined from all available records.\nEstimated Total Depth Lateral 2\nTitle\n)25\u000367$7(\u000386(\u000321/<\nBy\nDate Approved\n)25\u000367$7(\u000386(\u000321/<\n\u0010\nField\n\u0016\u0016 \u0010\nPool Permit Type\nAPI NumberPermit and File Number\nPrinted Name Title\nAzimuth Lateral 2\nFrom WHFeet MD Feet TVD From WH\nBottom Hole Coordinates From Well Head\nFrom WHFrom WH\nQtr-Qtr Section Township\nFrom WH From WH\nCounty\nFL FL\nKOP Footages From Nearest Section Line\n1\nRange\n:\nBottom Hole Footages From Nearest Section Line Qtr-Qtr Section Township Range County\nLFL :\nLateral 3\n1F\nTownship\nFeet MD \nFrom WH\nFormation Entry Point Coordinates From Well Head\nL\nQtr-Qtr SectionKOP Footages From Nearest Section Line\nF 1FL\nL\nBottom Hole Footages From Nearest Section Line Qtr-Qtr Section Township Range County\nLateral 4\nFLF\nEstimated Total Depth Lateral 4 KOP Coordinates From Well Head\n:1\n\nKOP Lateral 4 Azimuth Lateral 4\nFrom WH\nFormation Entry Point Coordinates From Well Head Bottom Hole Coordinates From Well Head\nFeet TVDFeet MDFeet MD\nQtr-Qtr Section Township\nFrom WH\nCounty\nFL FL\nKOP Footages From Nearest Section Line\n1\nRange\n:\nBottom Hole Footages From Nearest Section Line Qtr-Qtr Section Township Range County\nFL FL :1\nFrom WH\nKOP Lateral 3 Azimuth Lateral 3 Estimated Total Depth Lateral 3 KOP Coordinates From Well Head\nFrom WH\nEmail Address(es)\nFrom WH From WH\nSignature\nProposedFW Casing: 13 3/8, 48#, 0-500', 189 sks cmt Setbacks: 500' N&W 200' E&S\n5 / 7 / 2012\nePermit Terry L. Olson Regulatory Compliance Specialist\n23368 105 02728 7 / 20 / 2012\nBAKER Todd L. Holweger\nBAKKEN DEVELOPMENT Mineral Resources Permit Manager"
+    },
+    {
+      "page_number": 179,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 180,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 181,
+      "method": "pypdf",
+      "text_char_count": 1494,
+      "text": "Drilling & Completions / Production\nphone mobile\nConstruction / Reclaim & ROW Title\nTerry Chapman Construction foreman 970.673.2411\nChad Newby Operations Land Coordinator ‐ Office 405.574.2172\nDrilling \nCompany man Cyclone 2 Rig Phone 701.570.8834\nJared Miller Lead Compny Man Cyclone 2 701.290.0443\nBrandon Simkins Relief Company Man Cyclone 2 307.231.6420\nDon Radke Drilling Superintendent ‐ Field 701.570.6326\nKyle Davis Drilling Engineer ‐ Office 580.249.4750\nBryan George Drilling Superintendent ‐ Office 580.249.4757\nAlan McNally Drilling Manager ‐ Office 580.249.4792\nCompletions\nJason Walters Production Superintendent  406.489.1456\nGene Dowhaniuk Production Superintendent 701.770.8358\nChris Nichols Area Completions Manager ‐ Office 580.249.4711 580.278.9003\nProduction\nHoward Hill Operator 406.489.2832\nBrent Bowlds Production Foreman 406.433.3006 406.489.3029\nDonald Kennedy Senior Production Engineer ‐ Office 580.249.4788\nRuss Atkins Area Production Manager 406.433.3006\nBrad Aman VP Production Northern Region 580.548.5283\nHealth Safety Environmental\nDusty Grosulak Safety Supervisor 701.260.1138\nZach Laird Safety Manager 405.742.2696\nMike White Northern Region Senior Environment Specialist 406.941.2521\nStacy Aguirre Northern Region Environmental Supervisor 406.478.4450\nAndy Truhan Director of Environmental Compliance 405.535.8967\nPublic Relations & Media Contact Information\nKristin Miskovsky VP Public Relations 405.234.9480\nContinental Resources Atlanta Site Contact List"
+    },
+    {
+      "page_number": 182,
+      "method": "pypdf",
+      "text_char_count": 1380,
+      "text": "1\nBurns, David J.\nFrom: Shawn Svob <ShawnSvob@contres.com>\nSent: Tuesday, March 13, 2012 3:23 PM\nTo: Burns, David J.\nCc: Holweger, Todd L.; Becky Barnes; Nicole Caddell; Terry Olson\nSubject: Clarification of Drilling and Mud program\nContinental Resources respectfully submits this memo as clarification on previously submitted permits. \n \nIn the Drilling Program, sub‐section Mud Program, Surface Holes will be drilled with Fresh Water.  Current Drilling \nPrograms state \"Native\" as the current mud system.  Future permits will reflect Fresh Water as the mud system. \n \nPlease contact me if you have further questions or require more clarification. \n \nRespectfully, \n \nShawn Svob \n580‐747‐6678 \n \nShawn \n \n \nNOTIC\nE: This message contains confidential information and is intended for the individual named. If you are not the \nnamed addressee, you should not disseminate, distribute or copy this e‐mail. Please notify the sender immediately by \nreply e‐mail if you have received this e‐mail by mistake and delete this e‐\nmail from your system. E‐mail transmission \ncannot be guaranteed to be secure or error‐free as information could be intercepted, corrupted, lost, destroyed, arrive \nlate or incomplete, or contain viruses. The sender therefore does not accept liability for any errors or omissions in the \ncontents of this message which arise as a result of e‐mail transmission."
+    },
+    {
+      "page_number": 183,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 184,
+      "method": "pypdf",
+      "text_char_count": 948,
+      "text": "5/4/2012\nWell Name: Atlanta Federal 5-6H SHL: 495' FNL & 835' FWL\nRig: Cyclone 02 Sec. 6 - 153N - 101W\nProspect: Williston Williams , ND\nTarget: Middle Bakken\nSpacing: 2560 BHL: 200' FSL & 598' FWL\nSec. 8 - 153N - 101W\nWilliams , ND\nRig Grade Elevation: 1945'\nKB: 22'\nRKB: 1967'\nFORMATION SUBSEA TVD\nPierre Shale 100 1,867\nGreenhorn -2,582 4,549\nDakota Group (fka Mowry) -2,958 4,925\nBasal Dakota Sand -3,657 5,624\nDunham Salt Top NA\nDunham Salt Base NA\nPine Salt Top -5,189 7,156\nPine Salt Base -5,216 7,183\nMinnekahta -5,235 7,202\nOpeche Salt Top NA\nOpeche Salt Base NA\nMinnelusa Group -5,464 7,431\nTyler -5,650 7,617\nKibby -6,186 8,153\nTop Charles -6,333 8,300\nBase Last Charles Salt -7,044 9,011\nMission Canyon -7,267 9,234\nLodgepole -7,820 9,787\nUpper Bakken Shale -8,529 10,496\nMiddle Bakken Member -8,543 10,510\nMiddle Bakken Target -8,563 10,530\nEnd of Lateral -8,563 10,530\nGEOLOGIC PROGNOSIS\nStaked\nPre-Staked\nAtlanta Federal 5-14H AFE v0"
+    },
+    {
+      "page_number": 185,
+      "method": "pypdf",
+      "text_char_count": 2631,
+      "text": "302 N. Independence \nP. O.  Box 1032    Enid, Oklahoma 73702 \n(580) 233-8955 \nTo: Todd Holweger, NDIC \nFrom: Shawn Svob \nDate: 4/5/2012 \nRe: Continental Resources standard CCL, CBL, 4- 1/2” liner running and testing procedures \n \nContinental Resources’ standard practice for running the cement bond log and casing \ncaliper log is to run both logs immediately after coming out of the hole after TD, prior to running \nthe 4-1/2” liner, to the deepest depth obtainable; however, if there are well control concerns that \nrequire us to run the liner sooner, only the CBL will be run and the CCL will be run after setting \nthe liner.   \nBased on the CCL results, we determine the actual API minimum burst allowance for the 7” \ncasing.   If the downgraded API burst pressure is below our minimum required frac pressures, we \nwill run a 4-1/2” frac string; if severe wear or holes are found in the casing, we will run a 5” \ncemented, to surface, tie back string.   \nThe CBL log is run in order to determine the top of cement, as required by the NDIC. \nOur current 4-1/2” liner program for a 1280 unit is 30, evenly spaced, stages with 29 swellable \npackers.  The liner shoe is set approximately 180 feet off bottom.  The shoe stage below the last \npacker has 2 joints, a double valved float, one joint, and a ported guide shoe – appx 130 ft.  The \nliner is run using a running tool on the end of 4” DP.  The 7” packer/hanger is set about 40 ft \nabove KOP between two casing collars but conditions occasionally occur that require setting \nhigher, either through unexpected failure or in order to isolate casing wear close to KOP.  \nRecently we have tried 40 stage liners and the trend to explore the optimum stage count will \ncontinue..  Once the liner is at depth, a ball is dropped through the DP, the ball is pressured up \nagainst the setting tool to approximately 2500 psi, and the 7” packer/hanger is set. \nA push pull test is done to confirm the hanger has set.  Then, a 4500 psi pressure test is \ncompleted on the back side of the 4” DP to confirm the packer has set.  The setting tool is then \nbacked off and the 4” DP/running tool is laid down. \nImmediately after the rotary rig has been moved off the well location, the 7” csg and liner \npacker/ hanger are tested to the frac pressure.  The testers will rig up and test the tubing head to \n5000 psi.  Next a test plug will be run and set, using wire line, in the top of the 7” packer/hanger.  \nTesters will pressure up to our frac pressure, typically 8500 psi, to confirm the 7” is ready for \ncompletion.   \n \n \n \n \n      S h a w n  S v o b  \n      Drilling Operations Coordinator"
+    },
+    {
+      "page_number": 186,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 187,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 188,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 189,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 190,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 191,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 192,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 193,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 194,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 195,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 196,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 197,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 198,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 199,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 200,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 201,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 202,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 203,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 204,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 205,
+      "method": "pypdf",
+      "text_char_count": 1298,
+      "text": "1\nTabor, David\nFrom: Becky Barnes <Becky.Barnes@clr.com>\nSent: Wednesday, June 06, 2012 1:46 PM\nTo: Tabor, David\nSubject: Atlanta Pad Wells\nAll cuttings for the Atlanta Pad wells will be hauled to the Tioga Prairie disposal. \n \nPrairie Disposal for Cuttings \n102C10 52nd St NW \nTioga ND 58852 \n \nLet me know if there is anything else that you need. \nThanks. \nBb \n \nBecky Barnes \nRegulatory Compliance Specialist \nContinental Resources, Inc. \nOffice 405-234-9161 \nFax 580-548-5293 \n \nRight-click here to download pictures.  To help protect your privacy, Outlook prevented automatic download of this picture from the Internet.\n \nNOTICE: This message contains confidential information and is intended for the individual named. If you are not the named \naddressee, you should not disseminate, distribute or copy this e‐mail. Please notify the sender immediately by reply e‐mail if you \nhave received this e‐mail by mistake and delete this e‐mail from your system. E‐mail transmission cannot be guaranteed to be \nsecure or error‐free as information could be intercepted, corrupted, lost, destroyed, arrive late or incomplete, or contain viruses. \nThe\n sender therefore does not accept liability for any errors or omissions in the contents of this message which arise as a result of e‐\nmail transmission."
+    },
+    {
+      "page_number": 206,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 207,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 208,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 209,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 210,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 211,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 212,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 213,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 214,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 215,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 216,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 217,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 218,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 219,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 220,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 221,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 222,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 223,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 224,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 225,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 226,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 227,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 228,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 229,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 230,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 231,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 232,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 233,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 234,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 235,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 236,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 237,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 238,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 239,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 240,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 241,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 242,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 243,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 244,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 245,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 246,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 247,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 248,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 249,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 250,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 251,
+      "method": "pypdf",
+      "text_char_count": 1,
+      "text": "1"
+    },
+    {
+      "page_number": 252,
+      "method": "pypdf",
+      "text_char_count": 1,
+      "text": "2"
+    },
+    {
+      "page_number": 253,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 254,
+      "method": "pypdf",
+      "text_char_count": 212,
+      "text": "Tank Side \n3 \nContains the following Equipment \n \n-4 K-Tek Guided Wave Radar Level Detectors \n-3 High Level Switches (Oil Tanks) \n-1 Side Level Switch (Water Tank) \n-Battery box with 100 AH Battery and 90 W Solar"
+    },
+    {
+      "page_number": 255,
+      "method": "pypdf",
+      "text_char_count": 12,
+      "text": "Paragraph \n4"
+    },
+    {
+      "page_number": 256,
+      "method": "pypdf",
+      "text_char_count": 1,
+      "text": "5"
+    },
+    {
+      "page_number": 257,
+      "method": "pypdf",
+      "text_char_count": 1,
+      "text": "6"
+    },
+    {
+      "page_number": 258,
+      "method": "pypdf",
+      "text_char_count": 1,
+      "text": "7"
+    },
+    {
+      "page_number": 259,
+      "method": "pypdf",
+      "text_char_count": 1,
+      "text": "8"
+    },
+    {
+      "page_number": 260,
+      "method": "pypdf",
+      "text_char_count": 178,
+      "text": "Treater Shack \n9 \nContains the following Equipment \n \n-1 Buffer Switch (Short Gap Switch) \n-1 Gap Switch  \n-2 Pressure Transducers \n-Battery box with 35 AH Battery and 10 W Solar"
+    },
+    {
+      "page_number": 261,
+      "method": "pypdf",
+      "text_char_count": 2,
+      "text": "10"
+    },
+    {
+      "page_number": 262,
+      "method": "pypdf",
+      "text_char_count": 2,
+      "text": "11"
+    },
+    {
+      "page_number": 263,
+      "method": "pypdf",
+      "text_char_count": 2,
+      "text": "12"
+    },
+    {
+      "page_number": 264,
+      "method": "pypdf",
+      "text_char_count": 2,
+      "text": "13"
+    },
+    {
+      "page_number": 265,
+      "method": "pypdf",
+      "text_char_count": 2,
+      "text": "14"
+    },
+    {
+      "page_number": 266,
+      "method": "pypdf",
+      "text_char_count": 121,
+      "text": "Wellhead \n15 \nContains the following Equipment \n \n-TotalFlow \n-ESD Valve \n-Battery box with 100 AH Battery and 50 W Solar"
+    },
+    {
+      "page_number": 267,
+      "method": "pypdf",
+      "text_char_count": 2,
+      "text": "16"
+    },
+    {
+      "page_number": 268,
+      "method": "pypdf",
+      "text_char_count": 2,
+      "text": "17"
+    },
+    {
+      "page_number": 269,
+      "method": "pypdf",
+      "text_char_count": 2,
+      "text": "18"
+    },
+    {
+      "page_number": 270,
+      "method": "pypdf",
+      "text_char_count": 176,
+      "text": "Cyclone Drilling Rig No. 20 \nContingency Plan \nFor Drilling Activities Conducted at \nContinental Resources, Inc.’s  \nAtlanta 1-6H \nLocated in Williams County, ND \nNovember 2011"
+    },
+    {
+      "page_number": 271,
+      "method": "pypdf",
+      "text_char_count": 5214,
+      "text": "CYCLONE DRILLING, INC. RIG NO. 20 \nCONTINGENCY PLAN \nFOR DRILLING ACTIVITIES CONDUCTED AT THE  \nCONTINENTAL RESOURCES, INC. ATLANTA 1-6H \n6-153N-101W, WILLIAMS COUNTY, NORTH DAKOTA \n \n \n \n ii \nTABLE OF CONTENTS \n \n1. INTRODUCTION  .................................................................................................................................... 1. \n \n2. GENERAL INFORMATION  ........................................................................................................................ 1. \n 2.1 Equipment Description............................................................................................................... 1. \n 2.2 Proximity of Rigs to Navigable Waters ........................................................................................ 1. \n 2.3 Potential Spills and Releases ...................................................................................................... 1. \n  \n3. OIL/FUEL STORAGE  ................................................................................................................................. 2. \n 3.1 Oil, Fuel and Used Oil Storage Tanks........................................................................................... 2. \n 3.2 Container Storage ...................................................................................................................... 2. \n 3.3 Transfer Facilities ....................................................................................................................... 2. \n 3.4 Drainage and Containment Facilities .......................................................................................... 3. \n 3.5 Bulk Storage Tanks ..................................................................................................................... 3. \n 3.6 Truck Loading/Unloading Areas .................................................................................................. 3. \n  \n4. FLOOD CONTINGENCY ............................................................................................................................. 3. \n 4.1 Flood Watch .............................................................................................................................. 3. \n 4.2 Flash Flood Watch...................................................................................................................... 4. \n 4.3 Flood Warning ........................................................................................................................... 4. \n 4.4 Flash Flood Warning .................................................................................................................. 4. \n 4.5 Flood Evacuation Plan ................................................................................................................ 4. \n \n5. PREPAREDNESS AND PREVENTION REQUIREMENTS  ............................................................................... 4. \n 5.1 Emergency Equipment ............................................................................................................... 4. \n 5.2 Internal Communication ............................................................................................................ 4. \n 5.3 External Communication ............................................................................................................ 4. \n 5.4 Inspections ................................................................................................................................ 5. \n 5.5 Training  .................................................................................................................................... 5. \n 5.6 Emergency Evacuation Plan........................................................................................................ 5. \n  \n6. EMERGENCY RESPONSE  .......................................................................................................................... 5. \n 6.1 Response to a Minor Discharge .................................................................................................. 5. \n 6.2 Response to a Major Discharge .................................................................................................. 6. \n   \n7. SPILL NOTIFICATION REPORTING  ............................................................................................................ 6. \n 7.1 Spill Notification and Reporting .................................................................................................. 6. \n  7.1.1 North Dakota Industrial Commission ............................................................................ 6. \n  7.1.2 National Response Center ............................................................................................ 7. \n \n8. PLAN ADMENDMENT  .............................................................................................................................. 7. \n \n9. MANAGEMENT APPROVAL  ..................................................................................................................... 7. \n \nLIST OF FIGURES \n \n FIGURE 1  ONE-MILE RADIUS MAP \n FIGURE 2  DRILLING RIG LAYOUT \n FIGURE 3  WELL LOCATION MAP"
+    },
+    {
+      "page_number": 272,
+      "method": "pypdf",
+      "text_char_count": 2861,
+      "text": "CYCLONE DRILLING, INC. RIG NO. 20 \nCONTINGENCY PLAN \nFOR DRILLING ACTIVITIES CONDUCTED AT THE  \nCONTINENTAL RESOURCES, INC. ATLANTA 1-6H \n6-153N-101W, WILLIAMS COUNTY, NORTH DAKOTA \n \n \n \n A \n1.  INTRODUCTION \n \nThe purpose of this Contingency Plan is to outline the procedures that will be implemented by Cyclone \nDrilling, Inc.’s Rig No. 20 personnel should a spill or flood occur during drilling activities conducted at the \nContinental Resources, Inc. Atlanta 1-6H lease located in Section 6, 153N, 101W in Williams County, \nNorth Dakota.  Such procedures are designed to minimize the effects of spills and potential flooding on \nCyclone field personnel, Continental facilities, the surrounding community, and the environment in \ngeneral.     \n \n2.  GENERAL INFORMATION \n \n2.1 Equipment Description.  Cyclone Drilling, Inc. operates drilling rigs that are moved from site to \nsite therefore, the exact equipment layout will vary slightly.  The Atlanta 1-6H location \nencompasses 3.1-acres and the standard equipment for most drilling jobs is as follows: \n \nr Mobile Rig (w/integrated fuel/oil storage tanks) \nr Storage Facilities \nr Mud Pumps (diesel-powered pumps w/integrated fuel storage tanks) \nr Generators (w/integrated fuel storage tanks) \nr Water Tanks \nr Pipe Racks \n \n2.2 Proximity of Rigs to Navigable Waters.  According to 40 CFR 112.7(e)(6)(i), mobile drilling \nequipment should be positioned or located so as to prevent spilled oil from reaching navigable \nwaters.  Depending on the location, catch basins or diversion structures may be necessary to \nintercept and contain fuel, crude oil, or oily drilling fluid spills.   \n \n The nearest potential receiving water for an oil spill is unnamed intermittent tributary of the \nMissouri River located approximately 500-ft. south of the Atlanta 1-6 lease.  A One-Mile Radius \nMap indicating the location of Continental’s Atlanta 1-6H lease is included herein as Figure 1.  \n \n Cyclone personnel will locate Rig No. 20 and its associated equipment to best prevent a \npotential release to waterways and provide drainage and containment, as discussed in Section \n3.4 of this Plan.  A Drilling Rig Layout Map is included herein as Figure 2. \n \n2.3 Potential Spills and Releases.  The spill prevention system includes visual inspections and \ncontainment structures to help reduce the potential for releases to the off-site soil or surface \nwaters.  Generally, minor spills or leaks within the work site will be contained by drip pans \nlocated on skid-mounted equipment and cleaned-up using an absorbent (i.e., granular or pads).  \nA list of activities that represent the greatest potential for a release of oil to the environment is \nas follows: \n \nr Loading/unloading fuel, oil, and used oil to/from storage tanks and containers. \nr Temporary storage of oil containers outside of secondary containment."
+    },
+    {
+      "page_number": 273,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 274,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 275,
+      "method": "pypdf",
+      "text_char_count": 2643,
+      "text": "CYCLONE DRILLING, INC. RIG NO. 20 \nCONTINGENCY PLAN \nFOR DRILLING ACTIVITIES CONDUCTED AT THE  \nCONTINENTAL RESOURCES, INC. ATLANTA 1-6H \n6-153N-101W, WILLIAMS COUNTY, NORTH DAKOTA \n \n \n \n B \nr Rigs that are operated without a fresh water or well fluids pit. \n \n3.  OIL/FUEL STORAGE \n \n3.1 Oil, Fuel, and Used Oil Storage Tanks.  The materials stored on-site are mainly used to operate \nthe drilling rig's generators and pumps and generally included the following: \n \nr Diesel Fuel \nr Engine Oil \nr Hydraulic Oil \nr Gear Oil \nr Used Oil \n \n3.2 Container Storage.  Multi-compartment storage containers are used to store hydraulic, motor \nand gear oil in approximate 100- to 150-gal. capacities.  These container is generally located \nwithin the operating area near the accumulator valve skid.  In lieu of such a multi-compartment \nstorage container, fresh oil may be stored in 55-gal. drums. \n \nUsed oil is stored in 55-gal. drums prior to contractor removal.  Because of limited available \nspace within the rig's operating area, these drums are usually stored outside the operating area.  \nIn this event, these drums will be placed in a spill containment pan or within an earthen berm.  \n \n Containers stored within the trenched operating area would be contained by drainage to the \nwell fluids pit.  Containers used at sites that do not use pits are provided with earthen dike \ncontainment or other containment (i.e., metal containment pan.)  The containment volume for \ncontainers located outside of the trenched operating area will be approximately 10% of the total \nvolume of all containers within the containment area.   \n \n3.3 Transfer Facilities.  Fuel is transferred from bulk tanks into smaller day tanks located on the \ndrilling rig, pump skids, and generator skids.  Most bulk fuel tanks are equipped with a fuel \npump attached to the skid.  The fuel level in the day tanks is usually monitored until the tank is \nfull. \n \nPersonnel transfer fresh oil from bulk storage tanks or drums into smaller tanks located on the \ndrilling rig by filling 5-gal. buckets and manually filling the smaller tanks.  Personnel transfer \nused equipment oil into 55-gal. drums using 5-gal. buckets. \n \nCyclone personnel are present at all times during oil and diesel transfer operations to ensure \nquick response in the event of a release.  In addition, all pumps are securely grounded for static \nelectricity for safety and personnel protection purposes. \n \n3.4 Drainage and Containment Facilities.  The drains on containment systems will be closed and \nsealed except during water drainage.  Prior to draining water the following steps will be taken:"
+    },
+    {
+      "page_number": 276,
+      "method": "pypdf",
+      "text_char_count": 3124,
+      "text": "CYCLONE DRILLING, INC. RIG NO. 20 \nCONTINGENCY PLAN \nFOR DRILLING ACTIVITIES CONDUCTED AT THE  \nCONTINENTAL RESOURCES, INC. ATLANTA 1-6H \n6-153N-101W, WILLIAMS COUNTY, NORTH DAKOTA \n \n \n \n C \nr Visually inspect the diked areas around tanks to ensure that the water does not exhibit \nan oily sheen and will not result in a harmful discharge. \n \nr Opening, closing, and locking the bypass valve under responsible supervision following \ndrainage activities. \n \nr Maintain adequate drainage operation records.   \n \n3.5 Bulk Storage Tanks.  The bulk storage tanks are located within a trenched area where releases \ndrain into the well fluids pit .  The well fluids pit will be sized to provide containment volume to \naccommodate the largest tank within the containment area as well as sufficient volume for \nstormwater accumulation and the volume required for well fluid storage.  Bulk storage tanks at \nsites that do not use pits are contained by an earthen containment dike constructed around the \ntank.   \n \nStormwater that collects within the trenched area flows into the well fluids pit.  Stormwater that \ncollects within the earthen dike containment structures is inspected and if no free oil or oil \nsheen is observed, Continental field personnel or their on-site representatives may pump the \nwater outside of the containment structure.  In the event oil is observed in the stormwater \nwithin the earthen dike containment structures, it is pumped into a temporary container or \nstorage tank for off-site disposal. \n \n3.6 Truck Loading/Unloading Areas.  Cyclone personnel will use spill containment booms to contain \na release from a truck during loading/unloading operations or hand shovels and containment \nbooms to direct the release to a containment trench or pit.  Collected oil from such a release will \nbe pumped into a temporary container or storage tank for off-site disposal. \n \n4.  FLOOD CONTINGENCY \n \nFloods can develop slowly during an extended period of rain, or in a warming trend following a heavy \nsnow.  Others, such as flash floods, can occur quickly, even without any visible signs of rain.  It's \nimportant to be prepared for flooding when working in a low-lying area, near water or downstream \nfrom a dam.  The Atlanta 1-6H lease is located approximately 500-ft. north of an unnamed intermittent \ntributary of the Missouri River at an approximate elevation of 1,953-ft. above Mean Sea Level (MSL).  A \nWell Location Map reflecting the topography of the subject site is presented herein as Figure 3.   \n \n4.1 Flood Watch.  A Flood Watch indicates flooding is possible.  Tune in to NOAA Weather Radio, \ncommercial radio, or television for information regarding potential timing of flooding.  Begin \npreparing to move portable equipment and storage tanks to higher ground.  Anchor equipment \nand storage tanks that cannot be readily moved.   \n4.2 Flash Flood Watch.  A Flash Flood Watch indicates  flooding may occur without warning.  Be \nprepared to move personnel, equipment, and portable storage tanks to higher ground; listen to \nNOAA Weather Radio, commercial radio, or television for information."
+    },
+    {
+      "page_number": 277,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 278,
+      "method": "pypdf",
+      "text_char_count": 2989,
+      "text": "CYCLONE DRILLING, INC. RIG NO. 20 \nCONTINGENCY PLAN \nFOR DRILLING ACTIVITIES CONDUCTED AT THE  \nCONTINENTAL RESOURCES, INC. ATLANTA 1-6H \n6-153N-101W, WILLIAMS COUNTY, NORTH DAKOTA \n \n \n \n D \n4.3 Flood Warning.  A Flood Warning indicates flooding is occurring or will occur soon; if advised to \nevacuate, do so immediately, if safe to do so move equipment and portable storage tanks to \nhigher ground.  \n \n4.4 Flash Flood Warning.  A Flash Flood Warning indicates flash flood is occurring; personnel should \nseek higher ground on foot immediately. \n \n4.5 Flood Evacuation Plan.  In the event the Cyclone Drilling Foreman determines that the facility \nmust be evacuated due to flooding, they will notify the personnel concerned by verbally \nannouncing an evacuation or using internal two-way radios.  All personnel will be required to \nmeet at the designated evacuation assembly area.   \n \nThe Cyclone Drilling Foreman will account for all employees at the work site.  In the event any \nemployees are missing, an immediate report will be made to the Safety Department.  Good \njudgment must be used in evacuation procedures to avoid placing people in greater danger. \n \n5.  PREPAREDNESS AND PREVENTION REQUIREMENTS \n \nPreparedness and prevention is required for all spills and potential flooding.  The Cyclone Drilling \nForeman will function as Emergency Coordinator and be responsible for establishing and implementing \nthe preparedness and prevention measures discussed in the following sections of this Plan.  \n \n5.1 Emergency Equipment.  Cyclone Rig No. 20 located at the Atlanta 1-6H will be properly \nequipped so that Cyclone personnel can immediately respond to an emergency during working \nhours utilizing emergency equipment.  Typical emergency equipment includes but is not limited \nto fire extinguishers, eyewash stations, first-aid stations, and spill response equipment. \nEmployees will be trained and familiarized with the use and location of all emergency \nequipment prior to beginning operations at a work site \n \n5.2 Internal Communication.  For larger jobs, Cyclone personnel use two-way radios to \ncommunicate between the rig personnel and supervisor.  For smaller jobs, verbal \ncommunication is sufficient.  During emergency situations, verbal communication and two-way \nradios (if available) will be used to provide immediate instructions to emergency response \npersonnel.  These systems are maintained, as necessary, to ensure proper operation during an \nemergency. \n \n5.3 External Communication.  Telephones (available on some larger jobs) and cell phones are used \nto notify Continental’s office in the event of an emergency.  The office would telephone for \nassistance from local emergency response personnel, if necessary.  The phones are routinely \nused to ensure proper operation. \n \n5.4 Inspections.  Inspections of oil storage units, containment, and emergency equipment are \nconducted routinely to detect malfunctions and deterioration, operator errors, and/or"
+    },
+    {
+      "page_number": 279,
+      "method": "pypdf",
+      "text_char_count": 3212,
+      "text": "CYCLONE DRILLING, INC. RIG NO. 20 \nCONTINGENCY PLAN \nFOR DRILLING ACTIVITIES CONDUCTED AT THE  \nCONTINENTAL RESOURCES, INC. ATLANTA 1-6H \n6-153N-101W, WILLIAMS COUNTY, NORTH DAKOTA \n \n \n \n E \ndischarges that may lead to, or cause a release of, oil from containment units or from the work \nsite. \n \n5.5 Training.  Cyclone personnel that are likely to respond to an incident are trained at least \nannually in solid waste management, spill response procedures, and stormwater management \naccording to the procedures contained in this Plan.  These employees are trained to perform in a \nmanner that emphasizes accident and pollution prevention in an effort to safeguard human \nhealth and the environment. \n \nThe Cyclone Drilling Foreman is responsible for instructing appropriate personnel in the \noperation and maintenance of spill response equipment as well as all applicable spill control \nprocedures.  When employees are assigned to areas where oil spills may occur, it is required \nthat a review of this Contingency Plan be conducted during on-the-job training sessions. \n \n5.6 Emergency Evacuation Plan.  In the event the Cyclone Drilling Foreman determines that the \nfacility has experienced a release, fire, or explosion that could threaten human health, they will \nnotify the personnel concerned by verbally announcing an evacuation or using internal two-way \nradios.  All personnel in the immediate vicinity of the emergency will be required to leave the \narea and report to his/her immediate supervisor at the designated evacuation assembly area.  \nThe assembly area will be determined prior to beginning operations at a work site, but may \nchange based on wind direction during an actual emergency.  The assembly area should be \nupwind of the work site. \n \nThe Cyclone Drilling Foreman will account for all employees at the work site.  In the event any \nemployees are missing, an immediate report will be made to the Safety Department.  Good \njudgment must be used in evacuation procedures to avoid placing people in greater danger. \n \n \n6.  EMERGENCY RESPONSE PROCEDURES \n \nEmergency Response Procedures have been established for Cyclone’s work sites in the event of a spill.  \nAll spills, major and minor, will be reported to the Cyclone Drilling Foreman and Continental’s \nEnvironmental Specialist.  The emergency response procedures are included in Appendix A .  The \nresponsibilities of the First Responder, Cyclone Drilling Foreman, and Continental’s Environmental \nSpecialist are addressed in the following sections of this Plan. \n \n6.1 First Responder.  When a spill occurs, the employee observing the incident will immediately \nnotify the Cyclone Drilling Foreman and proceed to eliminate the spill source, if possible. \n6.2 Emergency Coordinator Responsibilities.  The Cyclone Drilling Foreman will (a) be responsible \nfor determining whether the release could reach navigable waters or threaten human health \nand/or the environment; (b) assess the hazard, make immediate notifications, and implement \nspill response procedures; (c) collect the necessary information for regulatory notifications and \nreports; and (d) provide the reporting information to Continental’s Environmental Specialist."
+    },
+    {
+      "page_number": 280,
+      "method": "pypdf",
+      "text_char_count": 3345,
+      "text": "CYCLONE DRILLING, INC. RIG NO. 20 \nCONTINGENCY PLAN \nFOR DRILLING ACTIVITIES CONDUCTED AT THE  \nCONTINENTAL RESOURCES, INC. ATLANTA 1-6H \n6-153N-101W, WILLIAMS COUNTY, NORTH DAKOTA \n \n \n \n F \nContinental’s Environmental Specialist will make immediate verbal notifications and prepare \nand submit all required written spill reports. \n \nMaterial Safety Data Sheets (MSDS) for the hazardous materials used at the work site are \nmaintained on-site in the \"doghouse\" and provide information on the chemical hazards at the \nwork site.  Most releases will be minor and require only clean-up and disposal of small \nquantities of material.  However, in the event the assessment indicates that evacuation of local \nareas may be advisable, they will immediately notify appropriate local authorities, as necessary.  \nAppropriate authorities may include local police and fire departments, hospitals, and state and \nlocal emergency response teams, as identified in Table 1. \n \nThe Cyclone Drilling Foreman will immediately notify Continental’s Environmental Specialist who \nwill make initial verbal notifications to regulatory agencies and prepare written follow-up \nreports, as required.  In the event the release has impacted the environment, the Cyclone \nDrilling Foreman and Continental’s Environmental Specialist will determine clean-up \nrequirements.  In addition, the Cyclone Drilling Foreman and Environmental Specialist will \ncoordinate the appropriate disposal of waste material generated during the response activities. \n \n7.  SPILL NOTIFICATION REPORTING \n \n7.1 Spill Notification and Reporting.  Upon receiving spill information, the Emergency Coordinator \nwill notify Continental’s Environmental Specialist who will determine if the spill requires \nnotification and/or reporting to regulatory agencies, as outlined below:   \n \n 7.1.1 North Dakota Industrial Commission (NDIC).  According to the North Dakota Industrial \n Commission’s (NDIC) General Rules and Regulations North Dakota Administrative Code \n (NAC) Chapter 43-02-03 Section C. Drilling: \n \nAll persons controlling or operating any well, pipeline, receiving tank, storage tank, or \nproduction facility into which oil, gas, or water is produced, received, stored, processed, \nor through which oil, gas, or water is injected, piped, or transported, shall verbally notify \nthe director within 24-hrs. after discovery of any fire, leak, spill, blowout, or release of \nfluid.  If any such incident occurs or travels offsite of a facility, the persons, as named \nabove, responsible for proper notification shall within a reasonable time also notify the \nsurface owners upon whose land the incident occurred or traveled.  Notification \nrequirements prescribed by this section do not apply to any leak, spill or release of fluid \nthat is less than 1-bbl total volume and remains onsite of a facility.  The verbal \nnotification must be followed by a written report within 10-days after cleanup of the \nincident, unless deemed unnecessary by the director.  \n \n7.1.2 National Response Center (NRC).  Any discharge to water must be reported immediately \nto the National Response Center.   Therefore, the Cyclone Drilling Foreman must \nimmediately Continental’s Environmental Specialist with details regarding the spill so \nthat official notifications can be made to the National Response Center."
+    },
+    {
+      "page_number": 281,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 282,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    }
+  ]
+}

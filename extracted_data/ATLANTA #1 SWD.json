@@ -1,0 +1,684 @@
+{
+  "pdf_filename": "W90258.pdf",
+  "well_name": "Atlanta #1 SWD",
+  "api_number": null,
+  "operator": "Continental Resources, Inc.",
+  "county": "Baker",
+  "state": "ND",
+  "latitude": 48.109997222222226,
+  "longitude": -103.731825,
+  "stimulation_records": [
+    {
+      "date_stimulated": "3/1/2013",
+      "stimulated_formation": "Dakota",
+      "top_ft": 5590,
+      "bottom_ft": 5606,
+      "stimulation_stages": 1,
+      "volume": 2500,
+      "volume_units": "Gallons",
+      "treatment_type": null,
+      "acid_percent": null,
+      "lbs_proppant": null,
+      "max_treatment_pressure_psi": null,
+      "max_treatment_rate_bbls_min": null,
+      "proppant_details": [],
+      "raw_details": "Typ11 Treatment Acid % Lbs Proppant Maximum Treatment Pressure (PSI) Maximum Treatment Rate (BBLS/Min)\nAcic~~~~~~~~~~-'-~~-15~~---'~~~o~~---'~~~~~~2_98~0:..._~~~~---'~~~~~~-6-. _4~~~~~---t\nDet< ils\nlnte val isolated with a packer and bridge plug\nDate, Stimulated Stimulated Formation\n3/2/2013 Dakota\nTypn Treatment\nAcicl\nDeti ils\nAcid %\n15\nlnte al isolated with a packer and bridge plug\nDato Stimulated Stimulated Formation\nTypn Treatment Acid %\nDet<iils\nDatn Stimulated Stimulated Formation\nTyp ~ Treatment Acid %\nDetails\nTop (Ft) Bottom (Ft) Stimulation Stages\nLbs Proppant\n0\n5414 5438 1\nMaximum Treatment Pressure (PSI)\n3000\nTop (Ft) Bottom (Ft) Stimulation Stages\nVolume Volume Units\n4000 Gallons\nMaximum Treatment Rate (BBLS/Min)\n7.0\nVolume Volume Units\nLbs Proppant Maximum Treatment Pressure (PSI) Maximum Treatment Rate (BBLS/Min)\nTop (Ft) Bottom (Ft) Stimulation Stages Volume Volume Units\nLbs Proppant Maximum Treatment Pressure (PSI) Maximum Treatment Rate (BBLS/Min)\nADDITIONAL INFORMATION AND/OR LIST OF ATTACHMENTS\nI hereby swear or affirm that the information\nprOI ided is true, complete and correct as\ndetmmined from all available records.\nSig11ature\nEmail Address\nTerry.Olson@clr.com\nPrinted Name\nTerry L. Olson\nDate\n4/15/2013\nTitle"
+    }
+  ],
+  "pages": [
+    {
+      "page_number": 1,
+      "method": "pypdf",
+      "text_char_count": 1511,
+      "text": "SUNDRY NOTICES AND REPORTS ON WELLS - FORM 4 \nINDUSTRIAL COMMISSION OF NORTH DAKOTA \nOIL AND GAS DIVISION \n600 EAST BOULEVARD DEPT 405 \nBISMARCK , ND 58505-0840 \nSFN 5749 (09-2006 ) \nPLEASE READ INSTRUCTIONS BEFORE FILLING OUT FORM. \nPLEASE SUBMIT THE ORIGINAL AND ONE COPY . \nD Notice of Intent I Approx imate Start Date \nD Report of Work Done I Date Work Completed \nD Notice of Intent to Begin a Workover Project that may Qualify \nfor a Tax Exemption Pursuant to NDCC Section 57-51.1-03. \nRecefvec1 \nAPR 3 0 2019 \nND Oil & \n Drilling Prognos is \n Redrilling or Repair \n Casing or Liner \n Plug Well \n Supplemental History \n Temporarily Abandon \n \n \n \n \n \n \n'Well File No. \n90258 \nSpill Report \nShooting \nAcidizing \nFracture Treatment \nChange Production Method \nReclamation I Approx imate Start Date \n0 Other As-Built Facilities \nWell Name and Number \nAtlanta #1 SWD \nFootages IQtr-Qtr I Section !Township !Range \n260 F N L 432 F W L NWNW 6 153 N 101 W \nField 'Pool 'County \nBaker Dakota Williams \nName of Contractor(s) \nAddress \nDETAILS OF WORK \nPlease see the attached as-builts for the above-referenced well. \nCompany \nContinental Resources, Inc. \nAddress \nP.O. Box 268870 \nCity \nOklahoma City \nEmail Address \nterry.olson cir.com \nState \nOK \nPrinted Name \nTerry L. Olson \nDate \nApril 30, 2019 \nTelephone Number \n405-234-9000 \nZip Code \n73126 \n24-HOUR PRODUCTION RATE \nBefore After \nOil Bbls Oil \nWater Bbls Water \nGas MCF Gas \n'Zip Code \nFOR STATE USE ONLY \nD Approved \nBy \nTitle \nBbls \nBbls \nMCF"
+    },
+    {
+      "page_number": 2,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 3,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 4,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 5,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 6,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 7,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 8,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 9,
+      "method": "pypdf",
+      "text_char_count": 903,
+      "text": "Industrial Commission of North Dakota\nOil and Gas Division\nSpill / Incident Report\nDate/Time Reported : Jun 24 2014 / 21:45\nState Agency person :  \nResponsible Party : CONTINENTAL RESOURCES, INC.\nWell Operator : CONTINENTAL RESOURCES, INC.\nDate/Time of Incident : 6/24/2014 12:00:00 AM\nNDIC File Number : 90258\nFacility Number : \nWell or Facility Name : ATLANTA  #1 SWD\nType of Incident : Tank Overflow\nField Name : BAKER\nCounty : WILLIAMS\nSection : 6\nTownship : 153\nRange : 101\nQuarter-Quarter : \nQuarter : \nDistance to nearest residence :  \nDistance to nearest water well :  \nRelease Oil :  \nRelease Brine :  \nRelease Other :  \nRecovered Oil :  \nRecovered Brine :  \nRecovered Other :  \nHas/Will the incident be reported to the NRC? : No\nWas release contained : Yes - On Constructed Well Site\nDescription of other released substance : \nImmediate risk evaluation : None\nFollowup Report Requested Y/N : Y"
+    },
+    {
+      "page_number": 10,
+      "method": "pypdf",
+      "text_char_count": 1666,
+      "text": "SUNDRY NOTICE, _, .ND REPORTS ON WELLS - FORM '- --~-­\nINDUSTRIAL COMMISSION OF NORTH DAKOTA \nOIL AND GAS DIVISION \n600 EAST BOULEVARD DEPT 405 \nBISMARCK , ND 58505-0840 \nSFN 5749 (09-2006) \nPLEASE READ INSTRUCTIONS BEFORE FILLING OUT FORM. \nPLEASE SUBMIT THE ORIGINAL AND ONE COPY. \nD Notice of Intent \n0 Report of Work Done \nI Approximate Start Date \nDate Work Completed \nApril 9, 2013 \nD Notice of Intent to Begin a Workover Project that may Qualify \nfor a Tax Exemption Pursuant to NDCC Section 57-51.1-03. \nI Approximate Start Date \nD Drilling Prognosis \nD Redrilling or Repair \nD Casing or Liner \nD Plug Well \nD Supplemental History \nD Tempora rily Abandon \n0 Other Begin Disposal \nD \nD \nD \nD \n!Well File No. \n90258 \nSpill Report \nShooting \nAcidizing \nFracture Treatment \nChange Production Method \nReclamation \nWell Name and Number 24-HOUR PRODUCTION RATE \nAtlanta #1 SWD Before After \nFootages IQtr-Qtr I Section rownship I Range \n260 F N L 432 F W L NWNW 6 153 N 101 w \nOil Bbls Oil \nWater Bbls Water \nField I Pool I County \nBaker Dakota Williams \nGas MCF Gas \nName of Contractor(s) \nAddress I State I Zip Code \nDETAILS OF WORK \nBbls \nBbls \nMCF \nContinental Resources, Inc., began saltwater disposal on 4/9/2013. MIT was run on 3/27/2013 w/ NDIC representative \nDan Wells as witness. Press up to 1000 psi, held 15 min. \nCompany \nContinental Resources, Inc. \nAddress \nP .0. Box 268870 \nCity \nOklahoma City \nCompliance Specialist \nEmail Address \nTerry.Olson cir.com \nPrinted Name \nState \nOK \nTer L. Olson \nDate \nApril 18, 2013 \nTelephone Number \n405-234-9000 \nZip Code \n73126 \nFOR STATE USE ONLY \n~ Received D Approved \nDate LL \n7 -z \nBy \nUNDERGROUND INJECTION"
+    },
+    {
+      "page_number": 11,
+      "method": "pypdf",
+      "text_char_count": 2363,
+      "text": "SFN 2468 (04-2010) \nPLEASE READ INSTRUCTIONS BEFORE FILLING OUT FORM. \nPLEASE SUBMIT THE ORIGINAL AND ONE COPY. \nDesignate Type of Completion \n!Well File No. \n90258 \n[] Oil Well D EOR Well D Recompletion D Deepened Well \nD Other: \nAdded Horizontal Leg D Extended Horizontal Leg \n(] Gas Well Q SWD Well \nWel l Name and Number \nAtl mta #1 SWD \nOperator \nContinental Resources, Inc. \nAdd ress \nP .0. Box 268870 \nCity \nD Water Supply Well \nTelephone Number \n405-234-9000 \nSpacing Unit Description \nSec 6 T153N R101W \nField \nBaker \nPool \nBakken \nZip Code Permit Type \nOk ahoma City \nState \nOK 73126 D Wildcat 0 Development D Extension \nLOCATION OF WELL \nAt Surface Qtr-Qtr Section \n260 F N L 432 F W L NWNW 6 \nTownship \n153 N \nSpu:I Date \n11/,25/2013 \nDate TD Reached \n12/11/2013 \nTyp1 i of Electric and Other Logs Run (See Instructions) \nCB L/GR/MAC/mud \nDrilling Contractor and Rig Number \nCyclone 2 \nRange \n101 w \nKB Elevation (Ft) \nl996' \n1''1( \n• CASING & TUBULARS RECORD (Report all strings set in well) \nString Top Set Depth Set Hole Size Weight Anchor Set \nWell Bore Type Size (Inch) (MD Ft) (MD Ft) (Inch) (Lbs/Ft) (MD Ft) \nf--\nLateral1 Conductor 16 102 20 94 \nf--\nSurface 13 3/8 522 12 1/4 48 \nf--\nSurface 9 518 1996 12 1/4 36 \n- Production 7 5914 8 3/4 26 \n- Tubing 4 1/2 5390 11.6 \n---\nPERFORATION & OPEN HOLE INTERVALS \nWell Bore TD Open Hole/Perforated Kick-off Top of \nWell Bore Drillers Depth Completion Interval (MD.Ft) Point Casing Date Perfd \nType Window or Drilled (MD Ft) Top Bottom (MD Ft) (MD Ft) \n-Lateral1 5952 Perforations 5414 5760 -\n-\n-\n-\n-\n-\n-\n-\nI \nPRODUCTION \nCounty \nWilliams \nGraded Elevation (Ft) \n-2968' \n(,,e-\nPacker Set Sacks \n(MD Ft) Cement \n400 \n485 \n626 \n5390 \nDate Isolation \nIsolated Method \nTop of \nCement \n0 \n0 \n0 \n0 \nSacks \nCement \nCum~nt Producing Open Hole or Perforated lnterval(s), This Completion, Top and Bottom, (MD Ft) Name of Zone (If Different from Pool Name) \nDakota Salt Water Disposal 5414' - 5760' \nDate Well Completed (SEE INS'!Rl)CTl))NS) Producing Method \nYf,,113 \nDate of Test Hours Tested Choke Size \n164 \nProduction for Test \nFlow·ng Tubing Pressure (PSI) Flowing Casing Pressure (PSI) \nPumping-Size & Type of Pump Well Status (Producing or Shut-In) \nOil (Bbls) Gas (MCF) Water (Bbls) Oil Gravity-AP! (Corr.) Disposition of Gas \n0 \nCalculated Oil (Bbls) Gas (MCF) Water (Bbls) Gas-Oil Ratio \n24-Hour Rate"
+    },
+    {
+      "page_number": 12,
+      "method": "pypdf",
+      "text_char_count": 1113,
+      "text": "Page 2 \nSFN 2468 (04-2010) \nGEOLOGICAL MARKERS PLUG BACK INFORMATION \nFormation MD (Ft) TVD (Ft) Well Bore Type of Plug Top (Ft) Bottom (Ft) Sacks Cement \nGreenhorn 4534 \nDakota Group 4886 \nBasal Dakota Sand 5780 \nCORES CUT \nTop (Ft) Bottom (Ft) Formation Top (Ft) Bottom (Ft) Formation \nDrill Stem Test \nTest Date I Formation I Top (Ft) I Bottom (Ft)IBH Temp (°F) ICL ppm IH2S ppm I Shut-in 1 (PSIG) 'Shut-in 2 (PSIG) \nDrill Pipe Recovery \nSample Chamber Recovery \nTest Date I Formation I Top (Ft) I Bottom (Ft)IBH Temp (°F) ICL ppm IH2S ppm lShut -in 1 (PSIG) I Shut-in 2 (PSIG) \nDrill Pipe Recovery \nSample Chamber Recovery \nTest Date I Formation I Top (Ft) I Bottom (Ft)IBH Temp (°F) ICL ppm IH2S ppm I Shut-in 1 (PSIG) I Shut-in 2 (PSIG) \nDrill Pipe Recovery \nSample Chamber Recovery \nTest Date 'Formation I Top (Ft) I Bottom (Ft)' BH Temp (°F) I CL ppm 1H2S ppm I Shut- in 1 (PSIG) 'Shut-in 2 (PSIG) \nDrill Pipe Recovery \nSample Chamber Recovery \nTest Date I Formation I Top (Ft) I Bottom (Ft)IBH Temp (°F) ICL ppm IH2S ppm I Shut- in 1 (PSIG) 'Shut-in 2 (PSIG) \nDrill Pipe Recovery \nSample Chamber Recovery"
+    },
+    {
+      "page_number": 13,
+      "method": "pypdf",
+      "text_char_count": 1957,
+      "text": "Paen 3 \nS FN 2 468 (0 4 -2 010 } \n• \nWell S ecific Stimulations \nDate Stimulated Stimulated Formation Top (Ft) Bottom (Ft) Stimulation Stages Volume Volume Units \n3111 013 Dakota 5720 5760 1 6000 Gallons \n~~~~~-'-~~~~-..~~~~~~.-~~.._~~-r-...L...~~~-'-~~~~~~~--.c---''--~~~~~.._~~~~~~--1 \nType Treatment Acid % Lbs Proppant Maximum Treatment Pressure (PSI) Maximum Treatment Rate (BBLS/Min) \nAcid~~~~~~~~~~....1-~~-15~~--1.~~:..._o~~--1.~~~~~~2_61~0:..._~~~~--L~~~~~~-6_._o~~~~~--1 \nDetails \nlnte1val treated under a packer \nDate Stimulated Stimulated Formation Top (Ft) Bottom (Ft) Stimulation Stages Volume Volume Units \n3/1/2013 Dakota 5590 5606 1 2500 Gallons \nTyp11 Treatment Acid % Lbs Proppant Maximum Treatment Pressure (PSI) Maximum Treatment Rate (BBLS/Min) \nAcic~~~~~~~~~~-'-~~-15~~---'~~~o~~---'~~~~~~2_98~0:..._~~~~---'~~~~~~-6-. _4~~~~~---t \nDet< ils \nlnte val isolated with a packer and bridge plug \nDate, Stimulated Stimulated Formation \n3/2/2013 Dakota \nTypn Treatment \nAcicl \nDeti ils \nAcid % \n15 \nlnte al isolated with a packer and bridge plug \nDato Stimulated Stimulated Formation \nTypn Treatment Acid % \nDet<iils \nDatn Stimulated Stimulated Formation \nTyp ~ Treatment Acid % \nDetails \nTop (Ft) Bottom (Ft) Stimulation Stages \nLbs Proppant \n0 \n5414 5438 1 \nMaximum Treatment Pressure (PSI) \n3000 \nTop (Ft) Bottom (Ft) Stimulation Stages \nVolume Volume Units \n4000 Gallons \nMaximum Treatment Rate (BBLS/Min) \n7.0 \nVolume Volume Units \nLbs Proppant Maximum Treatment Pressure (PSI) Maximum Treatment Rate (BBLS/Min) \nTop (Ft) Bottom (Ft) Stimulation Stages Volume Volume Units \nLbs Proppant Maximum Treatment Pressure (PSI) Maximum Treatment Rate (BBLS/Min) \nADDITIONAL INFORMATION AND/OR LIST OF ATTACHMENTS \nI hereby swear or affirm that the information \nprOI ided is true, complete and correct as \ndetmmined from all available records. \nSig11ature \nEmail Address \nTerry.Olson@clr.com \nPrinted Name \nTerry L. Olson \nDate \n4/15/2013 \nTitle"
+    },
+    {
+      "page_number": 14,
+      "method": "pypdf",
+      "text_char_count": 1623,
+      "text": "Well Integrity Report- Form 19 Summary \nINDUSTRIAL COMMISSION OF NORTH DAKOTA \nOIL AND GAS DIVISION \n600 EAST BOULEY ARD DEPT 405 \nBISMARCK, ND 58505-0840 \nTest Date: 13/27/2013 1:36:53 PM Contractor Performing Pressure Test: fBasic Energy Services \nOperator: ~ CONTINENTAL RESOURCES, INC. Telephone: 14052349000 \nAddress: IPO BOX 268870 City: !oKLAHOMA CITY State: joK Zip Code: 173126 \nWell Name: IATLANTA #1 SWD Field: IBAKER \nLocation: Qtr-Qtr: INWNW Section: r Township: 1153 Range: 1101 Cnty: !wiLLIAMS \nWELL TEST DATA \nFormation: DAKOTA Perforations: 5590-5606 Feet \nTool Type: PKR Depth: I 5398 Feet Packer Model: Baker FA-47 pennanent \nTubing Size: 4.5 Inches Tubing Type: J-55 11 .6# IPC \nWell Type: Disposal Well Reason for Test: IUIC MIT Test Type: [Initial MIT \nBEFORE TEST START of TEST ENDofTEST \nTubing Pressure: R PSJG lshut In ~PSJG ' Shut In ~PSJG lshutln \nAnnulus or Casing Pressure: PS!G PS!G PS!G \nAnnulus or Casing Fluid : ITreated Salt Water Test Fluid: ITreated Salt Water \nAmount of Fluid Needed to Fill Annulus or Casing: jo.2s Bbls \nTest Length: Ji5' Minutes Was Annulus or Casing Bled to Zero After Test?: I Yes . If No - Pressure Left: I \nINSPECTION COMMENTS \nTest Result: IAcceptable Report of Work Done Required: \nNo pressure loss. Well on slight suck \nSUBMIT FORM 6 COMPLETION REPORT \nSUBMIT FORM 4 NOTING DATE OF FIRST INJECTION. (SJF) \nThis Report is true and complete to the best of my knowledge. \nCompany Representative Witnessing Test: lchris Sperling Title: ~ Production Foreman \nCommission Field Inspector Witnessing Test: r-ID\"\"a\"\"n\"\"ie\"\"'I\"\"W- el-ls ________ _ \nNDIC Initials !5?7\""
+    },
+    {
+      "page_number": 15,
+      "method": "pypdf",
+      "text_char_count": 1674,
+      "text": "£;~ \n[!w:t;tJ] \\\":'_~ .. -z.r;J \n~JY BISMARCK, ND 58505-0840 \nSFN 5749 (09-2006) \nPLEASE READ INSTRUCTIONS BEFORE FILLING OUT FORM. \nPLEASE SUBMIT THE ORIGINAL AND ONE COPY. \n0 Notice of Intent \nD Report of Work Done \nApproximate Start Date \nDecember 14, 2012 \nI Date Work Completed \nD Notice of Intent to Begin a Workover Project that may Qualify \nfor a Tax Exemption Pursuant to NDCC Section 57-51.1-03. \nWell Name and Number \nAtlanta #1 SWD \nI Approximate Start Date \nD Drilling Prognosis \nD Redrilling or Repair \nD Casing or Liner \nD Plug Well \nD Supplemental History \nD Temporarily Abandon \nD Other \nFootages Qtr-Qtr Section Township Range \n260 F N L \nField \nBaker \nName of Contractor(s) \nAddress \n432 F W L NWNW 6 153 N 101 W \nPool \nBakken \nCounty \nWilliams \nCity \nDETAILS OF WORK \nOil \nWater \nGas \nD \nD \nD \nD \nD \n0 \n!Well File No. \n90258 \nSpill Report \nShooting \nAcidizing \nFracture Treatment \nChange Production Method \nReclamation \n24-HOUR PRODUCTION RATE \nBefore After \nBbls Oil \nBbls Water \nMCF Gas \nState Zip Code \nSurface Owner: Continental Resources, Inc., P.O. Box 268870, Oklahoma City, OK 73126 \nSaltwater Disposals: Zimmerman Disposal, Land Tech Rehak Disposal, Land Tech Williston Disposal \nProposed Work: Haul fluids off to one of the disposals within the area \nSpread flyash and solidify, then backfill with dirt. \nReplace topsoil from stockpile and reseed reclaimed area. \nEstablish grade for surface drainage away from reclaimed pit area. \nCompany \nContinental Resources, Inc. \nAddress \nP.O. Box 268870 \ncir.com \nPrinted Name \nDate \nState \nOK \nson \nDecember 17, 2012 \nTelephone Number \n405-234-9000 \nZip Code \n73126 \nFOR STATE USE ONLY \nBbls \nBbls \nMCF"
+    },
+    {
+      "page_number": 16,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 17,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 18,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 19,
+      "method": "pypdf",
+      "text_char_count": 123,
+      "text": "Standard Survey Report\n14 December, 2012\nDesign: OH\nContinental Resources Inc.\nWilliams County, ND\nAtlanta\nAtlanta 1 SWD\nOH"
+    },
+    {
+      "page_number": 20,
+      "method": "pypdf",
+      "text_char_count": 2333,
+      "text": "Scientific Drilling International, Inc.\nSurvey Report\nWell Atlanta 1 SWDLocal Co-ordinate Reference:Continental Resources Inc.Company:\nGL 1945' & KB 22' @ 1967.00ft (Cyclone 2)TVD Reference:Williams County, NDProject:\nGL 1945' & KB 22' @ 1967.00ft (Cyclone 2)MD Reference:AtlantaSite:\nAtlanta 1 SWDWell: TrueNorth Reference:\nMinimum CurvatureSurvey Calculation Method:OHWellbore:\nDesign: OH Database: Rockies Compass Server\nMap System:\nGeo Datum:\nProject\nMap Zone:\nSystem Datum:US State Plane 1983\nNorth American Datum 1983\nWilliams County, ND\nNorth Dakota Northern Zone\nMean Sea Level\nSite Position:\nFrom:\nSite\nLatitude:\nLongitude:\nPosition Uncertainty:\nNorthing:\nEasting:\nGrid Convergence:\nAtlanta\nLat/Long\nSlot Radius:0.00 ft\nusft\nusft\nin °\n421,456.62\n1,179,207.34\n13.200\n48° 6' 35.990 N\n103° 43' 54.570 W\n-2.40\nWell\nWell Position\nLongitude:\nLatitude:\nEasting:\nNorthing:\n+E/-W\n+N/-S\nPosition Uncertainty Ground Level:\nAtlanta 1 SWD, 260' FNL  432' FWL  Sec 6  T153N  R101W\nWellhead Elevation:0.00\n0.00\n0.00\n421,456.62\n1,179,207.34\n48° 6' 35.990 N\n103° 43' 54.570 W\n1,945.00\nft\nft\nft\nusft\nusft\nft ft\nWellbore\nDeclination\n(°)\nField Strength\n(nT)\nSample Date Dip Angle\n(°)\nOH\nModel NameMagnetics\nIGRF2010 12/07/12 8.59 73.07 56,599\nPhase:Version:\nAudit Notes:\nDesign OH\n1.0 ACTUAL\nVertical Section: Depth From (TVD)\n(ft)\n+N/-S\n(ft)\nDirection\n(°)\n+E/-W\n(ft)\nTie On Depth: 0.00\n0.00 0.00 0.00 280.98\nFrom\n(ft)\nSurvey Program\nDescriptionTool NameSurvey (Wellbore)\nTo\n(ft)\nDate 12/14/12\nMWD MWD - StandardSurvey #1 - Surface (OH)70.00 1,927.00\nMWD SDI MWD - Standard ver 1.0.1Survey #2 - SDI MWD Survey (OH)2,050.00 5,891.00\nMeasured\nDepth\n(ft)\nInclination\n(°)\nAzimuth\n(°)\n+E/-W\n(ft)\nVertical\nSection\n(ft)\nDogleg\nRate\n(°/100ft)\n+N/-S\n(ft)\nBuild\nRate\n(°/100ft)\nTurn\nRate\n(°/100ft)\nSurvey\nVertical \nDepth\n(ft)\n1,927.00 0.30 2.60 1,926.96 1.69 -8.73 8.89 0.81 -0.21 135.32\nLast Newsco Survey\n2,050.00 0.59 280.23 2,049.96 2.13 -9.33 9.57 0.51 0.24 -66.97\nFirst SDI MWD Survey\n2,144.00 0.57 350.92 2,143.96 2.68 -9.88 10.21 0.71 -0.02 75.20\n2,237.00 0.60 4.13 2,236.95 3.62 -9.92 10.43 0.15 0.03 14.20\n2,331.00 0.28 17.19 2,330.95 4.33 -9.82 10.46 0.35 -0.34 13.89\n2,425.00 0.51 118.26 2,424.95 4.35 -9.38 10.04 0.67 0.24 107.52\n2,518.00 0.92 130.67 2,517.94 3.67 -8.45 8.99 0.47 0.44 13.34\n12/14/12 10:34:40AM COMPASS 5000.1 Build 40 Page 2"
+    },
+    {
+      "page_number": 21,
+      "method": "pypdf",
+      "text_char_count": 3069,
+      "text": "Scientific Drilling International, Inc.\nSurvey Report\nWell Atlanta 1 SWDLocal Co-ordinate Reference:Continental Resources Inc.Company:\nGL 1945' & KB 22' @ 1967.00ft (Cyclone 2)TVD Reference:Williams County, NDProject:\nGL 1945' & KB 22' @ 1967.00ft (Cyclone 2)MD Reference:AtlantaSite:\nAtlanta 1 SWDWell: TrueNorth Reference:\nMinimum CurvatureSurvey Calculation Method:OHWellbore:\nDesign: OH Database: Rockies Compass Server\nMeasured\nDepth\n(ft)\nInclination\n(°)\nAzimuth\n(°)\n+E/-W\n(ft)\nVertical\nSection\n(ft)\nDogleg\nRate\n(°/100ft)\n+N/-S\n(ft)\nBuild\nRate\n(°/100ft)\nTurn\nRate\n(°/100ft)\nSurvey\nVertical \nDepth\n(ft)\n2,612.00 1.02 151.07 2,611.93 2.44 -7.47 7.80 0.38 0.11 21.70\n2,705.00 0.93 161.52 2,704.91 1.00 -6.83 6.90 0.21 -0.10 11.24\n2,799.00 1.17 167.79 2,798.90 -0.66 -6.39 6.15 0.28 0.26 6.67\n2,893.00 1.14 169.99 2,892.88 -2.52 -6.02 5.43 0.06 -0.03 2.34\n2,986.00 1.24 148.31 2,985.86 -4.29 -5.33 4.42 0.49 0.11 -23.31\n3,080.00 1.36 143.53 3,079.83 -6.05 -4.14 2.91 0.17 0.13 -5.09\n3,173.00 1.13 150.90 3,172.81 -7.74 -3.04 1.51 0.30 -0.25 7.92\n3,267.00 1.29 146.22 3,266.79 -9.43 -2.00 0.16 0.20 0.17 -4.98\n3,360.00 1.20 132.82 3,359.77 -10.96 -0.70 -1.40 0.33 -0.10 -14.41\n3,453.00 1.22 129.19 3,452.75 -12.25 0.78 -3.10 0.09 0.02 -3.90\n3,547.00 1.12 144.25 3,546.73 -13.62 2.09 -4.65 0.34 -0.11 16.02\n3,640.00 0.99 150.48 3,639.71 -15.06 3.02 -5.83 0.19 -0.14 6.70\n3,733.00 1.11 143.94 3,732.70 -16.49 3.95 -7.02 0.18 0.13 -7.03\n3,827.00 0.71 148.34 3,826.69 -17.72 4.79 -8.08 0.43 -0.43 4.68\n3,921.00 0.90 145.16 3,920.68 -18.82 5.52 -9.00 0.21 0.20 -3.38\n4,014.00 0.73 153.66 4,013.67 -19.95 6.20 -9.88 0.22 -0.18 9.14\n4,107.00 0.26 352.14 4,106.67 -20.27 6.43 -10.17 1.05 -0.51 -173.68\n4,201.00 0.09 359.45 4,200.66 -19.99 6.40 -10.09 0.18 -0.18 7.78\n4,294.00 0.24 271.04 4,293.66 -19.91 6.21 -9.88 0.27 0.16 -95.06\n4,387.00 0.21 241.94 4,386.66 -19.99 5.86 -9.56 0.13 -0.03 -31.29\n4,481.00 0.35 174.56 4,480.66 -20.36 5.74 -9.51 0.35 0.15 -71.68\n4,574.00 0.48 174.63 4,573.66 -21.03 5.80 -9.70 0.14 0.14 0.08\n4,668.00 0.71 353.06 4,667.66 -20.84 5.76 -9.63 1.27 0.24 189.82\n4,761.00 0.24 118.36 4,760.66 -20.36 5.87 -9.64 0.94 -0.51 134.73\n4,855.00 0.27 142.94 4,854.66 -20.63 6.17 -9.99 0.12 0.03 26.15\n4,948.00 0.20 16.27 4,947.65 -20.65 6.35 -10.17 0.45 -0.08 -136.20\n5,042.00 0.34 38.71 5,041.65 -20.27 6.57 -10.31 0.18 0.15 23.87\n5,135.00 0.50 114.02 5,134.65 -20.22 7.11 -10.84 0.57 0.17 80.98\n5,229.00 0.74 141.96 5,228.65 -20.87 7.86 -11.70 0.40 0.26 29.72\n5,322.00 0.20 353.53 5,321.64 -21.18 8.22 -12.10 0.99 -0.58 -159.60\n5,416.00 0.32 31.46 5,415.64 -20.79 8.33 -12.14 0.22 0.13 40.35\n5,509.00 0.41 328.60 5,508.64 -20.29 8.30 -12.01 0.42 0.10 -67.59\n5,603.00 0.43 324.50 5,602.64 -19.71 7.92 -11.53 0.04 0.02 -4.36\n5,695.00 0.32 316.39 5,694.64 -19.25 7.54 -11.07 0.13 -0.12 -8.82\n5,789.00 0.62 240.25 5,788.63 -19.31 6.92 -10.47 0.67 0.32 -81.00\n5,882.00 0.14 258.23 5,881.63 -19.58 6.37 -9.98 0.53 -0.52 19.33\n5,891.00 0.23 275.39 5,890.63 -19.58 6.34 -9.95 1.16 1.00 190.67\nLast SDI MWD Survey\n12/14/12 10:34:40AM COMPASS 5000.1 Build 40 Page 3"
+    },
+    {
+      "page_number": 22,
+      "method": "pypdf",
+      "text_char_count": 789,
+      "text": "Scientific Drilling International, Inc.\nSurvey Report\nWell Atlanta 1 SWDLocal Co-ordinate Reference:Continental Resources Inc.Company:\nGL 1945' & KB 22' @ 1967.00ft (Cyclone 2)TVD Reference:Williams County, NDProject:\nGL 1945' & KB 22' @ 1967.00ft (Cyclone 2)MD Reference:AtlantaSite:\nAtlanta 1 SWDWell: TrueNorth Reference:\nMinimum CurvatureSurvey Calculation Method:OHWellbore:\nDesign: OH Database: Rockies Compass Server\nMeasured\nDepth\n(ft)\nVertical\nDepth\n(ft)\n+E/-W\n(ft)\n+N/-S\n(ft)\nLocal Coordinates\nComment\nDesign Annotations\nFirst Newsco Survey0.020.1270.00 70.00\nLast Newsco Survey-8.731.691,927.00 1,926.96\nFirst SDI MWD Survey-9.332.132,050.00\n2,049.96\nLast SDI MWD Survey6.34-19.585,891.00 5,890.63\nApproved By:Checked By: Date:\n12/14/12 10:34:40AM COMPASS 5000.1 Build 40 Page 4"
+    },
+    {
+      "page_number": 23,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 24,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 25,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 26,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 27,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 28,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 29,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 30,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 31,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 32,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 33,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 34,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 35,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 36,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 37,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 38,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 39,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 40,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 41,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 42,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 43,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 44,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 45,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 46,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 47,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 48,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 49,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 50,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 51,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 52,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 53,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 54,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 55,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 56,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 57,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 58,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 59,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 60,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 61,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 62,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 63,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 64,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 65,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 66,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 67,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 68,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 69,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 70,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 71,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 72,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 73,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 74,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 75,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 76,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 77,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 78,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 79,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 80,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 81,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 82,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 83,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 84,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 85,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 86,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 87,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 88,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 89,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 90,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 91,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 92,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 93,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 94,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 95,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 96,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 97,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 98,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 99,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 100,
+      "method": "pypdf",
+      "text_char_count": 2148,
+      "text": "November 21, 2012 \nTerry L. Olson \nRegulatory Compliance Specialist \nCONTINENTAL RESOURCES, INC. \nP.O. Box 268870 \nOklahoma City, OK 73126 \n  \n      RE:      VERTICAL  WELL \n       A T L A N T A   # 1  S W D  \n       NWNW Section 6-153N-101W \n       W i l l i a m s  C o u n t y  \n       Well File # 90258 \n \nDear Terry : \n \nPursuant to Commission Order No. 21271, approval to drill the above captioned well is hereby given.     \n \nPERMIT STIPULATIONS: This well is located on a We ll Head Protection Area:  Onsite inspection required \n(contact NDIC Field Inspector for site specific stipulations).  To include but not limited to: Closed Mud System, \nno drilling pit, and impermeable liner is required on the entire location and a string of casing must be placed in \nthe rat and mouse hole and cemented to ground level.  CONTINENTAL RESOURCES must contact NDIC \nField Inspector John Axtman at 701-770-2564 prior to location construction. \n \nDrilling pit \nNDAC 43-02-03-19.4 states that “a pit may be utilized to  bury drill cuttings and solids generated during well \ndrilling and completion operations, providing the pit can be constructed, us ed and reclaimed in a manner that will \nprevent pollution of the land surface and freshwaters. Reserve and circulation of mud system through earthen pits \nare prohibited. All pits shall be inspected by an authorized representative of the director prior to lining and use.  \nDrill cuttings and solids must be stabilize d in a manner approved by the director prior to placement in a cuttings \npit.” \n \nPermit Fee & Notification \n Payment was received in the amount of $100 via cr edit card.  It is requested that notification be \ngiven immediately upon the spudding of the well.  This information should be relayed to the Oil & Gas \nDivision, Bismarck, via telephone.  The following in formation must be incl uded:  Well name, legal \nlocation, permit number, drilling contractor, company representative, date and time of spudding.  Office \nhours are 8:00 a.m. to 12:00 p.m. and 1:00 p.m. to 5:00  p.m. Central Time. Our telephone number is \n(701) 328-8020, leave a message if after hours or on the weekend."
+    },
+    {
+      "page_number": 101,
+      "method": "pypdf",
+      "text_char_count": 2324,
+      "text": "Terry L. Olson \nNovember 21, 2012 \nPage 2 \n \n \nConfidential status \n Your request for confidential status of all information furnished to the Director, or his \nrepresentatives, is hereby granted.  Such information, except production runs, shall remain confidential \nfor six months commencing on the date the well is spud. \n Confidential status notwithstanding, the Director an d his representatives shall have access to all \nwell records wherever located. Your company pers onnel, or any person performing work for your \ncompany shall permit the Director and his representatives to come upon any lease, property, well, or \ndrilling rig operated or controlled by  them, complying with all safety rules, and to inspect the records \nand operation of such wells and to have access at  all times to any and all records of wells. The \nCommission's field personnel periodically inspect producing and drilling we lls.  Any information \nregarding such wells shall be made available to th em at any time upon request.  The information so \nobtained by the field personnel shall be maintained in  strict confidence and shall be available only to the \nCommission and its staff. \n \nSurface casing cement \n Tail cement utilized on surface casing must have  a minimum compressive strength of 500 psi \nwithin 12 hours, and tail cement utilized on production casing must have a minimum compressive \nstrength of 500 psi before drilling the plug or initiating tests.   \n \nLogs \n NDAC Section 43-02-03-31 requires the running of (1) a su ite of open hole logs from which formation tops and \nporosity zones can be determined, (2) a Gamma Ray Log run from total depth to ground level elevation of the well bore, and \n(3) a log from which the presence and qua lity of cement can be dete rmined (Standard CBL or Ul trasonic cement evaluation \nlog) in every well in which production or intermediate casing has been set, this log must be run prior to completing the well.  \nAll logs run must be submitted free of charge, as one digital TIFF (tagged image file format) copy and one digital LAS (log \nASCII) formatted copy. Digital logs ma y be submitted on a standard CD, DVD, or attached to an email sent to \ndigitallogs@nd.gov   Thank you for your cooperation.  \n        \n       Sincerely,  \n \n       S t e p h e n  F r i e d   \n       UIC Supervisor"
+    },
+    {
+      "page_number": 102,
+      "method": "pypdf",
+      "text_char_count": 2782,
+      "text": "Feet\nFeet Feet MD Feet TVD\nBase of Last Salt (If Applicable)\nSacks Feet\nProposed Logs\nEstimated Total Depth (feet) Drilling Mud Type (Vertical Hole - Below Surface Casing)\nFeet MD 0 Feet TVD\" Lb./Ft. 0Longstring Casing -\nSacks and surface casing must be cemented back to surface.\nProposed Size Weight(s) Longstring Total Depth Cement Volume Cement Top Top Dakota Sand\nNOTE: Surface hole must be drilled with fresh water\nSurface Casing -\" Lb./Ft. Feet\nSize Weight Depth Cement Volume\nFeet\nObjective Horizons Pierre Shale Top\nFeet Above S.L.\n(Subject to NDIC Approval)\n°' \" °\nLatitude of Well Head Longitude of Well Head NAD Reference Description of\nApproximate Date Work Will Start Confidential StatusType of Work Type of Well\nAPPLICATION FOR PERMIT TO DRILL - FORM 1\nI hereby swear or affirm that the information provided is true, complete and correct as determined from all available records.\nTitleSignature Printed Name\nDate\nComments\nGround Elevation Acres in Spacing/Drilling Unit\n'\"\nEmail Address(es)\nProposed\nTitle\nFOR STATE USE ONLY FOR STATE USE ONLY\nPool Permit Type\nField\nDate Approved\nBy\nPermit and File Number API Number\n33-\nZip Code\nPLEASE READ INSTRUCTIONS BEFORE FILLING OUT FORM.\nPLEASE SUBMIT THE ORIGINAL AND ONE COPY.\nINDUSTRIAL COMMISSION OF NORTH DAKOTA\nOIL AND GAS DIVISION\n600 EAST BOULEVARD   DEPT 405\nBISMARCK, ND  58505-084\n0\nSFN 4615 (03-2006)\nSpacing/Drilling Unit Setback Requirement Industrial Commission Order\nAddress\nRange County\nTelephone Number\nCity\nAt Surface\nState Zip Code\nName of Surface Owner or Tenant\nAddress City State\nWell Number\nQtr-Qtr Section Township\nFLFL\nWELL INFORMATION\nWell Name \nL\nIf Directional, Top of Pay Qtr-Qtr Section Township Range County\nProposed Bottom Hole Location Qtr-Qtr Section Township Range County\nN W\nFL FL\nOperator\nN W\nN W\nLFF\nNew Location Salt Water Disposal 1 / 15 / 2013 Yes\nCONTINENTAL RESOURCES, INC. (405) 234-9000\nP.O. Box 268870 Oklahoma City OK 73126\nContinental Resources, Inc.\nP.O. Box 268870 Oklahoma City OK 73126\n✔ Notice has been provided to the owner of any\npermanently occupied dwelling within 1,320 feet. ✔ This well is not located within five hundred\nfeet of an occupied dwelling.\nATLANTA #1 SWD\n260 N 432 W NWNW 6 153 101 Williams\n48 06 35.99 -103 43 54.57 NAD83 Sec 6 T153N R101W\n1968\nDakota 1869\n9 5/8 36 1970 743\n7 26 6100 6100 385 1970 4927\nBase Last Charles Salt (If Applicable)\n6100 6100 Invert\nCBL/GR from deepest depth obtainable to ground surface\nProposed FW casing: 13 3/8\" 48#, 0-500', 189 sks cmt.\n9 / 7 / 2012\nePermit Terry L. Olson Regulatory Compliance Specialist\n90258 33 - 105 - 90258 11 / 21 / 2012\nBAKER Stephen Fried\nDAKOTA SALT WATER DISPOSAL UIC Supervisor\nREQUIRED ATTACHMENTS: Certified surveyors plat, estimated geological tops, proposed mud/cementing plans, $100 fee."
+    },
+    {
+      "page_number": 103,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 104,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 105,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 106,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 107,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 108,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    },
+    {
+      "page_number": 109,
+      "method": "pypdf",
+      "text_char_count": 0,
+      "text": ""
+    }
+  ]
+}
